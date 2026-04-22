@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RAG Chat</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: #f5f5f5;
+        }
+
+        .chat-container {
+            width: 60%;
+            margin: auto;
+            margin-top: 40px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+        #chat-box {
+            height: 400px;
+            overflow-y: auto;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        .user {
+            text-align: right;
+            color: blue;
+            margin: 5px;
+        }
+
+        .bot {
+            text-align: left;
+            color: green;
+            margin: 5px;
+        }
+
+        .loading {
+            font-style: italic;
+            color: orange;
+        }
+
+        input {
+            width: 75%;
+            padding: 10px;
+        }
+
+        button {
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="chat-container">
+
+    <h2>📄 Chat with your PDF</h2>
+
+    <div id="chat-box"></div>
+
+    <input type="text" id="question" placeholder="Ask something..." />
+    <button id="askBtn" onclick="ask()">Ask</button>
+
+    <br><br>
+    <a href="/upload">⬅ Upload another PDF</a>
+
+</div>
+
+<script>
+let chatBox = document.getElementById("chat-box");
+
+// ✅ Enter key support
+document.getElementById("question").addEventListener("keypress", function(e) {
+    if (e.key === "Enter") {
+        ask();
+    }
+});
+
+async function ask() {
+    let input = document.getElementById("question");
+    let btn = document.getElementById("askBtn");
+    let question = input.value.trim();
+
+    if (!question) return;
+
+    // ✅ Add user message
+    chatBox.innerHTML += `<div class="user">🧑 You: ${question}</div>`;
+
+    // Clear input
+    input.value = "";
+
+    // ✅ Add loading message
+    let loadingId = "loading-" + Date.now();
+    chatBox.innerHTML += `<div id="${loadingId}" class="loading">⏳ Thinking...</div>`;
+
+    // Auto scroll
+    chatBox.scrollTop = chatBox.scrollHeight;
+
+    // Disable button
+    btn.disabled = true;
+
+    try {
+        let res = await fetch("/ask", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ query: question })
+        });
+
+        let data = await res.json();
+
+        // Remove loading
+        document.getElementById(loadingId).remove();
+
+        // ✅ Add bot response
+        chatBox.innerHTML += `<div class="bot">🤖 AI: ${data.answer}</div>`;
+
+    } catch (err) {
+        document.getElementById(loadingId).remove();
+        chatBox.innerHTML += `<div class="bot">❌ Error: ${err}</div>`;
+    }
+
+    // Enable button
+    btn.disabled = false;
+
+    // Auto scroll
+    chatBox.scrollTop = chatBox.scrollHeight;
+}
+</script>
+
+</body>
+</html>
