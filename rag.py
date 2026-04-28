@@ -22,27 +22,9 @@ def get_embedding(text):
 
 
 def load_chunks():
-    with open(CHUNKS_FILE) as f:
+    with open(CHUNKS_FILE, "r", encoding="utf-8") as f:
         return f.read().split("\n---\n")
 
-# ✅ Search
-
-
-# =========================
-# ✅ NORMALIZE FUNCTION
-# =========================
-def normalize(text):
-    text = text.lower()
-    text = text.replace("&", "and")
-    text = re.sub(r'[^a-z0-9\s]', ' ', text)
-    return text
-
-
-
-
-# =========================
-# KEYWORD SEARCH (STRICT)
-# =========================
 
 def search(query):
     index = faiss.read_index(INDEX_FILE)
@@ -51,14 +33,66 @@ def search(query):
     q_emb = np.array([get_embedding(query)]).astype("float32")
     D, I = index.search(q_emb, k=3)
 
-    return [chunks[i] for i in I[0]]           
+    results = [chunks[i] for i in I[0] if i < len(chunks)]
+
+    return results, D[0]
+
+
+def keyword_search(query):
+    chunks = load_chunks()
+    query_lower = query.lower()
+
+    matches = []
+
+    for chunk in chunks:
+        if query_lower in chunk.lower():
+            matches.append(chunk)
+
+    return matches[:3]
+
 
 
 def ask(query):
-    context = "\n".join(search(query))
+    try:
+        query_lower = query.lower().strip()
 
-    prompt = f"""
-Answer using only the context below.
+        # ✅ Greeting
+        if query_lower in ["hi", "hello", "hey"]:
+            return "👋 Please ask a question related to the PDF."
+
+        # ✅ STEP 1: KEYWORD SEARCH FIRST
+        keyword_results = keyword_search(query)
+
+        if keyword_results:
+            context = "\n".join(keyword_results)
+
+        else:
+            # ✅ STEP 2: VECTOR SEARCH
+            improved_query = f"Explain about {query}"
+            results, distances = search(improved_query)
+
+            print("Distances:", distances)
+
+            # ❌ No match
+            if not results:
+                return "⚠️ No data found in the PDF"
+
+            # ❌ Weak match
+            if distances[0] > 150:
+                return f"⚠️ No data found in the PDF"
+
+	   # Strong match → use PDF
+            context = "\n".join(results)
+
+        # ✅ STEP 3: STRICT PROMPT
+        prompt = f"""
+You are a strict assistant.
+
+Answer ONLY using the given context.
+If answer is not clearly present, reply EXACTLY:
+"⚠️ No data found in the PDF"
+
+Do NOT use outside knowledge.
 
 Context:
 {context}
@@ -67,11 +101,19 @@ Question:
 {query}
 """
 
-    res = requests.post(OLLAMA_GEN_URL, json={
-        "model": LLM_MODEL,
-        "prompt": prompt,
-        "stream": False
-    })
+        res = requests.post(OLLAMA_GEN_URL, json={
+            "model": LLM_MODEL,
+            "prompt": prompt,
+            "stream": False
+        })
 
-    return res.json()["response"]
+        data = res.json()
 
+        if "response" not in data:
+            return "⚠️ No data found in the PDF"
+
+        return data["response"]
+
+    except Exception as e:
+        print("ERROR:", str(e))
+        return "⚠️ No data found in the PDF"

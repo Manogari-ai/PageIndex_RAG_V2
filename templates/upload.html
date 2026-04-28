@@ -2,18 +2,108 @@
 <html>
 <head>
     <title>Upload PDF</title>
+
+    <style>
+        body {
+            font-family: 'Inter', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea, #79a24b);
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .upload-container {
+            width: 380px;
+            padding: 30px;
+            border-radius: 20px;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(20px);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        h2 {
+            color: white;
+            margin-bottom: 20px;
+        }
+
+        /* File input */
+        input[type="file"] {
+            width: 100%;
+            padding: 14px;
+            border-radius: 12px;
+            border: 2px dashed rgba(255,255,255,0.5);
+            background: rgba(255,255,255,0.1);
+            color: white;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        input[type="file"]:hover {
+            background: rgba(255,255,255,0.2);
+        }
+
+        /* Upload button */
+        button {
+            width: 100%;
+            margin-top: 15px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            background: linear-gradient(135deg, #4f46e5, #7c3aed);
+            color: white;
+            font-size: 15px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(124,58,237,0.5);
+        }
+
+        /* Link */
+        a {
+            display: inline-block;
+            margin-top: 15px;
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            opacity: 0.8;
+            transition: 0.3s;
+        }
+
+        a:hover {
+            opacity: 1;
+        }
+
+        /* Small hint text */
+        .hint {
+            font-size: 12px;
+            color: rgba(255,255,255,0.7);
+            margin-top: 8px;
+        }
+    </style>
 </head>
+
 <body>
 
-<h2>Upload PDF</h2>
+<div class="upload-container">
 
-<form id="uploadForm">
-    <input type="file" name="file" required />
-    <button type="submit">Upload</button>
-</form>
+    <h2>📄 Upload your PDF</h2>
 
-<br>
-<a href="/chat">Go to Chat</a>
+    <form id="uploadForm">
+        <input type="file" name="file" required />
+        <div class="hint">Drag & drop or click to select a PDF</div>
+        <button type="submit">Upload File</button>
+    </form>
+
+    <a href="/chat">→ Go to Chat</a>
+
+</div>
 
 <script>
 document.getElementById("uploadForm").onsubmit = async (e) => {

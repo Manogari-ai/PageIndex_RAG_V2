@@ -1,8 +1,9 @@
 import os
-from pypdf import PdfReader
+import re
 import faiss
 import requests
 import numpy as np
+from pypdf import PdfReader
 
 DATA_DIR = "data"
 INDEX_FILE = "vector_db/index.faiss"
@@ -12,36 +13,115 @@ OLLAMA_EMBED_URL = "http://localhost:11434/api/embeddings"
 MODEL = "nomic-embed-text"
 
 
-def get_embedding(text):
-    res = requests.post(OLLAMA_EMBED_URL, json={
-        "model": MODEL,
-        "prompt": text
-    })
-    return res.json()["embedding"]
+# =========================
+# CLEAN TEXT
+# =========================
+def clean_text(text):
+    if not text:
+        return ""
+
+    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'\.(\d+)', r'. \1', text)
+
+    return text.strip()
 
 
-def process_pdfs():
+# =========================
+# SMART CHUNKING
+# =========================
+
+
+def split_text(text, size=400, overlap=100):
+    sentences = re.split(r'(?<=[.!?]) +', text)
+
     chunks = []
+    current = ""
+
+    for s in sentences:
+        if len(current) + len(s) < size:
+            current += " " + s
+        else:
+            chunks.append(current.strip())
+            current = s
+
+    if current:
+        chunks.append(current.strip())
+
+    return chunks
+
+# =========================
+# EMBEDDING
+# =========================
+def get_embedding(text):
+    try:
+        res = requests.post(OLLAMA_EMBED_URL, json={
+            "model": MODEL,
+            "prompt": text
+        })
+
+        data = res.json()
+        emb = data.get("embedding")
+
+        if not emb or not isinstance(emb, list):
+            return None
+
+        return emb
+
+    except Exception as e:
+        print("❌ Embedding error:", e)
+        return None
+
+
+# =========================
+# MAIN PROCESS
+# =========================
+def process_pdfs():
+    print("🚀 Ingest started...")
+
+    os.makedirs("vector_db", exist_ok=True)
+
+    all_text = ""
 
     for file in os.listdir(DATA_DIR):
         if file.endswith(".pdf"):
+            print(f"📄 Reading: {file}")
+
             reader = PdfReader(os.path.join(DATA_DIR, file))
+
             for page in reader.pages:
                 text = page.extract_text()
                 if text:
-                    chunks.extend(split_text(text))
+                    all_text += "\n" + text
 
-    embeddings = [get_embedding(c) for c in chunks]
-    dim = len(embeddings[0])
+    chunks = split_text(all_text)
 
-    index = faiss.IndexFlatL2(dim)
-    index.add(np.array(embeddings).astype("float32"))
+    print(f"✅ Total chunks: {len(chunks)}")
+
+    if not chunks:
+        print("❌ No text found!")
+        return
+
+    embeddings = []
+    valid_chunks = []
+
+    for c in chunks:
+        emb = get_embedding(c)
+        if emb:
+            embeddings.append(emb)
+            valid_chunks.append(c)
+
+    if not embeddings:
+        print("❌ No embeddings generated!")
+        return
+
+    embeddings = np.array(embeddings, dtype="float32")
+
+    index = faiss.IndexFlatL2(embeddings.shape[1])
+    index.add(embeddings)
 
     faiss.write_index(index, INDEX_FILE)
 
-    with open(CHUNKS_FILE, "w") as f:
-        f.write("\n---\n".join(chunks))
+    with open(CHUNKS_FILE, "w", encoding="utf-8") as f:
+        f.write("\n---\n".join(valid_chunks))
 
-
-def split_text(text, size=500):
-    return [text[i:i+size] for i in range(0, len(text), size)]
+    print("✅ Index created successfully!")
