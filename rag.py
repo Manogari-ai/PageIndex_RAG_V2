@@ -38,17 +38,54 @@ def search(query):
     return results, D[0]
 
 
+STOPWORDS = {"how", "many", "what", "is", "the", "in", "of", "are"}
+
 def keyword_search(query):
     chunks = load_chunks()
-    query_lower = query.lower()
+    
+    words = re.findall(r'\w+', query.lower())
+    query_words = set(w for w in words if w not in STOPWORDS)
 
     matches = []
 
     for chunk in chunks:
-        if query_lower in chunk.lower():
-            matches.append(chunk)
+        chunk_lower = chunk.lower()
 
-    return matches[:3]
+        score = sum(1 for word in query_words if word in chunk_lower)
+
+        if score >= 2:
+            matches.append((score, chunk))
+
+    matches.sort(reverse=True, key=lambda x: x[0])
+
+    return [m[1] for m in matches[:3]]
+
+
+
+def ask_general_knowledge(query):
+    prompt = f"""
+You are a helpful assistant.
+
+Answer the question using general knowledge.
+
+Keep the answer short and factual (1–2 lines).
+
+Question:
+{query}
+"""
+
+    res = requests.post(OLLAMA_GEN_URL, json={
+        "model": LLM_MODEL,
+        "prompt": prompt,
+        "stream": False
+    })
+
+    data = res.json()
+
+    if "response" in data:
+        return data["response"].strip()
+    
+    return None
 
 
 
@@ -73,18 +110,19 @@ def ask(query):
 
             print("Distances:", distances)
 
-            # ❌ No match
-            if not results:
+            # ❌ No match → GK fallback
+            if not results or distances[0] > 150:
+                gk_answer = ask_general_knowledge(query)
+
+                if gk_answer:
+                    return f"⚠️ Not available in PDF.\n{gk_answer}"
+
                 return "⚠️ No data found in the PDF"
 
-            # ❌ Weak match
-            if distances[0] > 150:
-                return f"⚠️ No data found in the PDF"
-
-	   # Strong match → use PDF
+            # ✅ Strong match → use PDF
             context = "\n".join(results)
 
-        # ✅ STEP 3: STRICT PROMPT
+        # ✅ STEP 3: STRICT PROMPT (PDF ONLY)
         prompt = f"""
 You are a strict assistant.
 

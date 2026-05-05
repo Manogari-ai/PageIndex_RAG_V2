@@ -161,24 +161,46 @@
 
 </div>
 
+
+
+
 <script>
 let chatBox = document.getElementById("chat-box");
 let input = document.getElementById("question");
 let btn = document.getElementById("askBtn");
 
-// ✅ Enter key support
-input.addEventListener("keypress", function(e) {
+// 🔒 Global lock
+let isProcessing = false;
+
+// ❌ Prevent Enter spam
+input.addEventListener("keydown", function(e) {
     if (e.key === "Enter") {
-        ask();
+        e.preventDefault(); // stop default
+        if (!isProcessing) {
+            ask();
+        }
     }
 });
 
-// ✅ Button click
-btn.addEventListener("click", ask);
+// ❌ Prevent multiple clicks
+btn.onclick = function () {
+    if (isProcessing) return;
+    ask();
+};
 
 async function ask() {
+    // 🔒 Double safety check
+    if (isProcessing) return;
+
     let question = input.value.trim();
     if (!question) return;
+
+    // 🔒 LOCK EVERYTHING
+    isProcessing = true;
+
+    btn.disabled = true;
+    btn.style.pointerEvents = "none";   // 🔥 force disable clicks
+    input.disabled = true;
 
     // user message
     chatBox.innerHTML += `<div class="user">🧑 You: ${question}</div>`;
@@ -189,10 +211,8 @@ async function ask() {
     chatBox.innerHTML += `<div id="${loadingId}" class="loading">⏳ Thinking...</div>`;
     chatBox.scrollTop = chatBox.scrollHeight;
 
-    btn.disabled = true;
-
     try {
-        let res = await fetch("/chat", {   // ✅ IMPORTANT FIX
+        let res = await fetch("/chat", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -200,15 +220,7 @@ async function ask() {
             body: JSON.stringify({ query: question })
         });
 
-        // 🔥 check response type
-        let text = await res.text();
-
-        let data;
-        try {
-            data = JSON.parse(text);
-        } catch {
-            throw new Error("Server returned HTML instead of JSON");
-        }
+        let data = await res.json();
 
         document.getElementById(loadingId).remove();
 
@@ -219,9 +231,17 @@ async function ask() {
         chatBox.innerHTML += `<div class="bot">❌ Error: ${err.message}</div>`;
     }
 
+    // 🔓 UNLOCK
+    isProcessing = false;
+
     btn.disabled = false;
+    btn.style.pointerEvents = "auto";
+    input.disabled = false;
+
+    input.focus();
     chatBox.scrollTop = chatBox.scrollHeight;
 }
+
 </script>
 
 </body>

@@ -84,8 +84,21 @@ def chat_api():
         return jsonify({"answer": "Server error"}), 500
 
 
+
+
+
+@app.route("/ask", methods=["POST"])
+def ask_api():
+    data = request.get_json()
+    query = data.get("query")
+
+    answer = ask(query)
+
+    return jsonify({
+        "answer": answer
+    })
 # =========================
 # Run App
 # =========================
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8001, debug=True)
+    app.run(host="0.0.0.0", port=8002, debug=True)
