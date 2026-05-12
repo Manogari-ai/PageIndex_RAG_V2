@@ -31,23 +31,79 @@ def clean_text(text):
 # =========================
 
 
-def split_text(text, size=400, overlap=100):
-    sentences = re.split(r'(?<=[.!?]) +', text)
+
+def split_text(text, size=1200):
+
+    # ==========================================
+    # CLEAN TEXT
+    # ==========================================
+    text = re.sub(r'\r', '\n', text)
+
+    # remove extra empty lines
+    text = re.sub(r'\n\s*\n+', '\n\n', text)
+
+    # ==========================================
+    # SPLIT BY PARAGRAPH
+    # ==========================================
+    paragraphs = text.split("\n\n")
 
     chunks = []
-    current = ""
 
-    for s in sentences:
-        if len(current) + len(s) < size:
-            current += " " + s
+    current_chunk = ""
+
+    for para in paragraphs:
+
+        para = para.strip()
+
+        if not para:
+            continue
+
+        # ==========================================
+        # SKIP VERY SMALL TITLES
+        # ==========================================
+        if len(para) < 40:
+            continue
+
+        # ==========================================
+        # ADD TO CURRENT CHUNK
+        # ==========================================
+        if len(current_chunk) + len(para) < size:
+
+            current_chunk += "\n\n" + para
+
         else:
-            chunks.append(current.strip())
-            current = s
 
-    if current:
-        chunks.append(current.strip())
+            chunks.append(current_chunk.strip())
 
-    return chunks
+            current_chunk = para
+
+    # ==========================================
+    # LAST CHUNK
+    # ==========================================
+    if current_chunk:
+
+        chunks.append(current_chunk.strip())
+
+    # ==========================================
+    # FINAL FILTER
+    # ==========================================
+    final_chunks = []
+
+    for chunk in chunks:
+
+        # reject tiny chunks
+        if len(chunk) < 150:
+            continue
+
+        # reject title-only chunks
+        if len(chunk.splitlines()) <= 2:
+            continue
+
+        final_chunks.append(chunk)
+
+    return final_chunks
+
+
 
 # =========================
 # EMBEDDING

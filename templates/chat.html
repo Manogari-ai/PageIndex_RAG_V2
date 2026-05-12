@@ -9,7 +9,10 @@
 	    font-family: 'Inter', Arial, sans-serif;
 	    background: linear-gradient(135deg, #667eea, #79a24b);
 	    margin: 0;
-	    height: 100vh;
+	    height: 98vh;
+	    min-height: 98vh;
+            display: flex;
+            flex-direction: column;
 	}
 
 	/* Main container */
@@ -142,6 +145,70 @@
 	    }
 	}
 
+
+        .footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            padding: 14px 10px;
+            text-align: center;
+            color: white;
+            font-size: 13px;
+
+            background: rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(15px);
+
+            border-top: 1px solid rgba(255,255,255,0.2);
+
+            overflow: hidden;
+        }
+
+        /* 🌈 Animated glowing border */
+        .footer::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: -50%;
+            width: 200%;
+            height: 2px;
+
+            background: linear-gradient(
+                90deg,
+                #ff00cc,
+                #3333ff,
+                #00ffcc,
+                #ffcc00,
+                #ff00cc
+            );
+
+            animation: glowMove 4s linear infinite;
+        }
+
+        /* Animation */
+        @keyframes glowMove {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(50%); }
+        }
+
+        /* Text styling */
+        .footer-content .logo {
+            font-weight: 600;
+            font-size: 14px;
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        /* ✨ subtle glow text */
+        .footer strong {
+            color: #fff;
+            text-shadow: 0 0 5px rgba(255,255,255,0.8),
+                         0 0 10px rgba(124,58,237,0.8),
+                         0 0 15px rgba(124,58,237,0.6);
+        }
+
+
+
+
     </style>
 </head>
 
@@ -163,6 +230,12 @@
 
 
 
+<footer class="footer">
+    <div class="footer-content">
+
+        <p>Designed by <strong>OTG Chennai</strong></p>
+    </div>
+</footer>
 
 <script>
 let chatBox = document.getElementById("chat-box");

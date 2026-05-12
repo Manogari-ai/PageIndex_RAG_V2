@@ -1,175 +1,2427 @@
-The authentic gateway to the latest travel regulations, visa policies, and immigration services. Established in 1971, the Bureau of Immigration (BoI) operates under the leadership of Commissioner of Immigration. BoI is the primary authority responsible for enforcing the latest rules and regulations governing the entry, stay and exit of foreign nationals in India. Through the network of FRROs and CHIOs, BoI manages immigration facilities across India’s International Check Posts (ICPs). BoI ensures smooth, secure and efficient immigration process for travellers arriving in or departing from India. BoI also oversees registration services and visa- related formalities for foreign nationals residing in India in accordance with relevant Acts, Rules and Regulations.
+Task PriorityOwnerStatusStart dateEnd dateNotes Column 1Joinned P0 Manogaristarted 27/01/202627/01/2026 Nilsee follow of work with team mateP0 Manogaristarted 28/01/202603/02/2026pipeline integration see follow of work with team matePython learningP2 Manogaristarted 04/02/202606/02/2026Python learning with ai integrateInstall ubuntu and almalinuxP0 ManogariCompleted09/02/202609/02/2026Study documentation and install ubuntu and almalinux Tomcat install P0 ManogariCompleted10/02/202610/02/2026Tomcat install while installing getting error resolve the issue and continue the configtomcat previous one removed upload 110 and 101 versionP1 ManogariCompleted11/02/202611/02/2026Tomcat previous version removed and upload various versionPrepare Documentation Alma-El9 and install alma 8 El-09P0 ManogariCompleted12/02/202612/02/2026Prepare Documentation Alma-El9 and install alma 8 El-09Continue install and configure the EL-8P3 ManogariCompleted13/02/202613/02/2026Continue install and configure the EL-8 while install getting error fix it and configure the EL-8
+Bitvise issue fixed and EL-9 ContinueP0 ManogariCompleted16/02/202616/02/2026Bitvise get the issue fixed that issue terminal is not opening that issue was fixed and EL-9 Continue the task and completedStart studying opinion poll using pythonP0 Manogaristarted 17/02/202617/02/2026Strated studing the opinion poll taskworked in ci/cd pipelineP0 Manogaristarted 18/02/202618/02/2026Worked on ci/cd pipelineOpinion poll integrate with pythonP1 ManogariIn progress17/02/202618/02/2026Worked with opinion poll integration with python django frameworkLeave P3 Manogaristarted 19/02/202623/02/2026I took leave due to my brother's wedding.Implement an opinion poll application using Python, including both admin and website functionality.P0 ManogariCompleted24/02/202626/02/2026Using Python, implement an opinion poll application with both admin and website integration, including authentication credentials. In the admin panel, we should be able to create questions with multiple choices. On the website, users should be able to select an option based on the given question and submit their opinion.
+Web Scraping analysis  P3 Manogaristarted 27/02/202627/02/2026Study about the web scraping.Analysing opinion pollP2 Manogaristarted 02/03/202603/03/2026Started analysis in opinion poll create the admin and website for user given the vote format.Python implementingP0 Manogaristarted 04/03/202604/03/2026Did opinion poll project using python need to integrate the opinion poll 
+Working in opinion poll integration with another project in there also can able to vote P0 ManogariIn progress05/03/202605/03/2026Already created project 1 same functionality going to integrate with project 2 opinion poll its created the user can able to vote, one user can able to vote one time only more than that can't able to vote.Opinion poll integrate with another project pythonP0 ManogariCompleted06/03/202606/03/2026Completed integrating project 1 into project 2 opinion poll integrationReview the task then trying to implement in phpP2 Manogaristarted 09/03/202609/03/2026Trying to implement the task in php integrating the opinion pollPhp project while install getting error checking why i'm getting errorP3 Manogaristarted 11/03/202611/03/2026Php project while install getting error checking why i'm getting errorPhp Opinion poll integrating P0 ManogariCompleted12/03/202612/03/2026Opinion poll integrated UI modify like pulgin type change the user interfaceP0 Manogaristarted 13/03/202613/03/2026Change the user interface modify the style with template.
+Php core poject integrate opinion pollP0 ManogariCompleted16/03/202616/03/2026Core php download source code integrate the opinion poll using python django framework. Integrate opinion poll in core php website. Add chart from admin.
+Opinion Poll demo and Behaviour Analysis AI P0 ManogariCompleted17/03/202617/03/2026Opinion poll demo and admin add user vote history for chart. Study the topic Behaviour Analysis AI.Demo show the opinion poll after go through the webscrapingP0 ManogariCompleted18/03/202618/03/2026Show the demo of opinion poll after that go through the web scraping.Studied about artificial intelligenceP0 Manogaristarted 20/03/202620/03/2026I am watching tutorials on artificial intelligence to study some of its topics and learn more about its applications.
+go through the Data Science and Microservices classes.P2 Manogaristarted 23/03/202623/03/2026Go through the Data Science and Microservices classes to understand the concepts and strengthen my practical skills.Exploring deployment  for Microservices.Reading documentation for AI tools.P3 Manogaristarted 24/03/202624/03/2026Exploring deployment for Microservices. Reading documentation for AI tools and libraries.
+Analysing RAGP3 Manogaristarted 25/03/202625/03/2026
+I performed a detailed analysis of the RAG system, examining how it retrieves relevant documents from the knowledge base and generates accurate, context-aware responses, while also evaluating its efficiency, retrieval accuracy, and the quality of the generated outputs
+Creating a project using RAG, BGE small, Chroma, and LLaMA 3 with PDF files—storing the data in a database and retrieving the page number during search. P2 Manogaristarted 26/03/202626/03/2026
+I have studied and started creating a project using RAG, BGE small, Chroma, and LLaMA 3 with PDF files—storing the data in a database and retrieving the page number during search. However, I am encountering errors while implementing it, and I need to debug and resolve these issues to make the project fully functional. http://10.247.139.178/otg/newdevelopments
+I studied VetifyAI and explored its featuresP1 Manogaristarted 27/03/202627/03/2026I studied VetifyAI and explored its features, I downloaded the project from GitHub, but faced issues while running it.I studied VectifyAI and understood how its features work.P1 ManogariIn progress30/03/202630/03/2026I studied VectifyAI and understood how its features work.
+It uses PageIndex and advanced concept of vertifyAi P0 ManogariCompleted01/04/202601/04/2026VectifyAI is an advanced AI platform that enhances document search using an improved RAG approach.It uses PageIndex to structure data and retrieve answers through reasoning instead of vector similarity.Studied about Nextcloud is an open-sourceP1 Manogaristarted 02/04/202602/04/2026Studied about Nextcloud is an open-source, self-hosted cloud platform designed for secure file storage, sharing, and collaboration. It is widely used by individuals and organizations to maintain full control over their data instead of relying on third-party cloud providers.Task Name dd/mm/yyyydd/mm/yyyyNotes
+Task PriorityOwnerStatusStart dateEnd dateNotes Column 1Joinned P0 Manogaristarted 27/01/202627/01/2026 NilTask Name dd/mm/yyyydd/mm/yyyyNotesTask Name dd/mm/yyyydd/mm/yyyyNotesTask Name dd/mm/yyyydd/mm/yyyyNotesTask Name dd/mm/yyyydd/mm/yyyyNotesTask Name dd/mm/yyyydd/mm/yyyyNotesTask Name dd/mm/yyyydd/mm/yyyyNotes
+Welcome to Bureau of Immigration. 
+The authentic gateway to the latest travel regulations, visa policies, and immigration 
+services. 
+Established in 1971, the Bureau of Immigration (BoI) operates under the leadership 
+of Commissioner of Immigration. BoI is the primary authority responsible for 
+enforcing the latest rules and regulations governing the entry, stay and exit of foreign 
+nationals in India. Through the network of FRROs and CHIOs, BoI manages 
+immigration facilities across India’s International Check Posts (ICPs). 
+BoI ensures smooth, secure and efficient immigration process for travelers arriving in 
+or departing from India. BoI also oversees registration services and visa- related 
+formalities for foreign nationals residing in India in accordance with relevant Acts, 
+Rules and Regulations
 ---
-Immigration >> About Us >> Vision & Mission Vision & Mission Vision A professional, effective and efficient Immigration service for facilitating legitimate travellers, while ensuring national security. Mission To enforce Indian laws with integrity and strive to achieve the highest standards in the duties we perform, the professionalism we display and the service we render with the overall objective of facilitating legitimate travelers without compromising national security. Values Our core values are the guiding beacons for all that we do and provide us the benchmark for assessing our performance.
-• Integrity: To maintain high standards of integrity and professionalism through uniform application of laws and policies.
-• Courtesy: To treat each member of the public with respect, courtesy and compassion.
-• Dynamism: To respond positively to the ever-changing socio-politico-economic environment and to realign strategies to meet new challenges.
-• Excellence: To continuously strive for excellence in whatever we do and seek to create a benchmark for Immigration services worldwide.
-• Innovation: To encourage new ideas, methods, processes and practices.
-• Collaboration: To work together with other stakeholders to achieve common goals (Any suitable photo)
+Vision & Mission 
+Vision : To develop a professional, effective and efficient Immigration service for 
+facilitating legitimate travellers, while ensuring national security. 
+Mission : To enforce Indian laws with integrity and strive to achieve the highest 
+standards in the duties we perform, the professionalism we display and the service 
+we render with the overall objective of facilitating legitimate travellers without 
+compromising national security.
+
+Tourism in India 
+Guided by the timeless ethos of “Vasudhaiva Kutumbakam”- the world is one family, 
+India stands at the crossroads of ancient wisdom and modern vibrancy. India’s deep 
+rooted traditions of harmony, diversity, yoga, ayurveda and non-violence continue to 
+shape India’s global identity and inspire travellers from every corner of the world. 
+Today, India is one of the world’s most compelling travel destinations- where culture 
+meets innovation and heritage blends seamlessly with contemporary experiences. 
+From world-class business hubs to breathtaking landscapes and immersive culture 
+journeys, India offers travellers a wealth of unforgettable moments.
 ---
-Immigration >> About Us >> Role of Immigration Role of Immigration
-1. Control and regulate entry and exit of all persons at our Airports, Seaports, Rail,River and Land Check posts.
-2. Control and Regulating Stay of Foreigners by ensuring Registration formalities, renewal of visas etc.
-3. To identify and take legal action against illegal immigrants
-4. To identify and remove persons who contravenes the immigration Laws and Regulations
-5. Prevention and detection of human trafficking.
-6. Prevention and detection of fraudulent documents and Imposters.
+News Center – Latest Updates on Travel 
+To stay updated on important developments, advisories and information relevant to 
+Indian Citizens travelling abroad, please visit our News Center.
+
+Immigration > About Us > Vision & Mission 
+Vision & Mission 
+Vision 
+A professional, effective and efficient Immigration service for facilitating legitimate 
+travellers, while ensuring national security.
+
+Mission 
+To enforce Indian laws with integrity and strive to achieve the highest standards in 
+the duties we perform, the professionalism we display and the service we render with 
+the overall objective of facilitating legitimate travelers without compromising national 
+security.
+
+Values 
+Our core values are the guiding beacons for all that we do and provide us the 
+benchmark for assessing our performance.
 ---
-Immigration >> About Us >> Organization Structure About us Bureau of Immigration (BoI) was set up in 1971. It’s headed by Commissioner of Immigration. FRROs & Chief  Immigration Officers handle Immigration services at the various Immigration Check Posts (ICPs) in India. BoI is responsible for Immigration services at various ICPs along with the Registration formalities and Visa Services of foreigners residing in India in accordance with extant Acts, Rules and Regulations. Altogether, there are 114 Immigration Check Posts (Air/ Sea/Land/Rail/ River) in India, catering to international traffic.  There are 15 FRROs (Foreigners Regional Registration Officer) located at Ahmedabad, Amritsar, Bangalore, Calicut, Chandigarh, Chenna i, Cochin, Delhi, Guwahati, Hyderabad, Jaipur, Kolkata, Lucknow, Mumbai, Trivandrum. Apart from this, there are 24 Chief Immigration Officers functioning in Goa, Jaipur, Gaya, Varanasi, Nagpur, Pune, Indore, Mangalore, Trichy, Coimbatore, Bagdogra, Chandigarh, Haridaspur, Kannur, Dera Baba Nanak, Raxaul, Sonauli, Gede, Munabao, Chitpur,  Guwahati, New Jalpaiguri, Dhamra & Mopa. At remaining places District Superintendent of Police (SPs) are the FROs (Foreigners Registration Officers) to facilitate emergency cases of foreigners.
+Integrity: To maintain high standards of integrity and professionalism through uniform 
+application of laws and policies. 
+Courtesy: To treat each member of the public with respect, courtesy and 
+compassion. 
+Dynamism: To respond positively to the ever-changing socio-politico-economic 
+environment and to realign strategies to meet new challenges. 
+Excellence: To continuously strive for excellence in whatever we do and seek to 
+create a benchmark for Immigration services worldwide. 
+Innovation: To encourage new ideas, methods, processes and practices. 
+Collaboration: To work together with other stakeholders to achieve common goals 
+(Any suitable photo)
+
+Role of Immigration 
+Control and regulate entry and exit of all persons at our Airports, Seaports, Rail,River 
+and Land Check posts. 
+Control and Regulating Stay of Foreigners by ensuring Registration formalities, 
+renewal of visas etc. 
+To identify and take legal action against illegal immigrants 
+To identify and remove persons who contravenes the immigration Laws and 
+Regulations 
+Prevention and detection of human trafficking. 
+Prevention and detection of fraudulent documents and Imposters.
 ---
-Immigration >> Policy and Law >> Immigration Policies & Process (Acts, Rules & Orders) Acts, Rules, Orders & Notifications regarding Foreigners All foreign nationals in India & all persons travelling from/ to India are governed by the provisions contained in the below mentioned Acts, Rules and Orders made there under.
-1. The Immigration & Foreigners Act 2025: The Act regulates immigration, entry, and stay of foreigners in India. It also regulates Registration of Foreigners in India, Liability of Carriers, and Obligations of keeper of accommodation and others to furnish particulars. It repeals the following Acts: (i) The Passport (Entry into India) Act, 1920, (ii) the Registration of Foreigners Act, 1939, (iii) The Foreigners Act 1946, and (iv) The Immigration (Carriers’ Liability) Act, 2000.
-2. Immigration & Foreigners Rules 2025: The rules made under Immigration and Foreigners Act 2025, consolidate and modernize the regulations governing entry, stay and exit of foreign nationals in India.
-3. Immigration & Foreigners Order 2025: The Order made in exercise of the powers conferred by the Immigration and Foreigners Act, 2025 and in supersession of the Foreigners Order, 1948, the Foreigners (Protected Areas) Order, 1958, the Foreigners (Restricted Areas) Order, 1963 and the Foreigners (Tribunals) Order, 1964. The Order regulates entry into, stay in, movement within and exit from India. Further, it regulates restriction of certain activities of foreigners, prevention, detention, restricting movements and deportation of Illegal migrants. It also deals with Protected & Restricted Areas, Foreigners Tribunals and Prohibited Places.
-4. The Citizenship Act, 1955:  It regulates acquisition and termination of Indian citizenship as well as Overseas Citizens of India.
-5. Passports Act, 1967: The Act guides on the issue of passports and travel documents, to regulate the departure of Citizens of India and other persons, and for matters incidental or ancillary thereto. Further Acts, Rules and Regulations pertaining to Foreigners may be referred at the website of Foreigners Division, Ministry of Home Affairs ( www.mha.gov.in).
+Bureau of Immigration (BoI) was set 
+up in 1971. It’s headed by 
+Commissioner of Immigration. 
+FRROs & ChIOs handle Immigration 
+services at the various Immigration 
+Check Posts (ICPs) in India. BoI is 
+responsible for Immigration services 
+at various ICPs along with the 
+Registration formalities and Visa 
+Services of foreigners residing in 
+India in accordance with extant Acts, 
+Rules and Regulations.
 ---
-Immigration >> Policy and Law >> Immigration Policies & Process (Immigration Fraud) Immigration Fraud Immigration fraud is an offence under the Immigration & Foreigners Act, 2025. We have wide-ranging measures to detect and prevent immigration offences. Immigration fraud includes but not limited to the following offences:
-• Using a false or altered document to support a visa application, for example Passport, Identity documents etc.
-• Providing false or misleading information to support a visa application.
-• Helping someone to come to or stay in India who you know either does not have a Visa or does not have the appropriate Visa.
-• Helping someone to come to India by deceiving them on the purpose of their stay in India or your reasons for bringing them to India.
-• Using forged or fraudulently obtained travel documents to depart the country or seek entry.
+Altogether, there are 114 Immigration Check Posts (Air/ Sea/Land/Rail/ River) in 
+India, catering to international traffic.  There are 15 FRROs (Foreigners Regional 
+Registration Officer) located at Ahmedabad, Amritsar, Bangalore, Calicut, 
+Chandigarh, Chennai, Cochin, Delhi, Guwahati, Hyderabad, Jaipur, Kolkata, 
+Lucknow, Mumbai, Trivandrum. Apart from this, there are 24 Chief Immigration 
+Officers functioning in Goa, Jaipur, Gaya, Varanasi, Nagpur, Pune, Indore, 
+Mangalore, Trichy, Coimbatore, Bagdogra, Chandigarh, Haridaspur, Kannur, Dera 
+Baba Nanak, Raxaul, Sonauli, Gede, Munabao, Chitpur,  Guwahati, New Jalpaiguri, 
+Dhamra & Mopa. At remaining places District Superintendent of Police (SPs) are the 
+FROs (Foreigners Registration Officers) to facilitate emergency cases of foreigners.
+
+Immigration >Policy and Law >Immigration Policies & Process 
+Acts, Rules & Orders 
+Acts, Rules, Orders & Notifications regarding Foreigners 
+All foreign nationals in India & all persons travelling from/ to India are governed by 
+the provisions contained in the below mentioned Acts, Rules and Orders made there 
+under.
 ---
-Immigration >> Policy and Law >> Health Regulation Health Regulation
-• Any person arriving from or Transiting from a Yellow fever endemic area/country by Air/Sea has to be in possession of a valid Yellow Fever Vaccination Certificate as per the prescribed norms laid down by WHO.
-• Foreigners or Indians (excluding infants below six months) arriving by air or sea without a Yellow Fever Vaccination Certificate will be kept in quarantine for a period up to 6 daysif they have visited or transited from a Yellow Fever endemic area.
-• There is no health check requirement for leaving India to Yellow Fever endemic countries, however passengers are advised in their own interest to get themselves vaccinated and to be in possession of valid yellow fever vaccination certificates before they leave the country.
-• Generally Indian Missions issues visas to Foreign nationals applying from Yellow fever endemic countries only after the production of a valid vaccination certificate of Yellow Fever and an endorsement “Valid Yellow Fever Vaccination Certificate Checked” is made on the visa of the foreigner. Notified Yellow Fever Endemic Countries: Africa (30 Countries): Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo, Cote d' Ivoire, Democratic Republic of Congo, Equatorial Guinea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea Bissau,  Kenya, Liberia, Mali, Mauritania,  Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Sudan, South Sudan, Togo, Uganda. South America (13 Countries): Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guyana, Guyana, Suriname, Trinidad (Trinidad only), Venezuela, Panama, Paraguay, Peru. For further details visit ihpoe.mohfw.gov.in
+The Immigration & Foreigners Act 2025: The Act regulates immigration, entry, and 
+stay of foreigners in India. It also regulates Registration of Foreigners in India, 
+Liability of Carriers, and Obligations of keeper of accommodation and others to 
+furnish particulars. 
+ It repeals the following Acts: (i) The Passport (Entry into India) Act, 1920, (ii) the 
+Registration of Foreigners Act, 1939, (iii) The Foreigners Act 1946, and (iv) The 
+Immigration (Carriers’ Liability) Act, 2000.
+
+Immigration & Foreigners Rules 2025: The rules made under Immigration and 
+Foreigners Act 2025, consolidate and modernize the regulations governing entry, 
+stay and exit of foreign nationals in India.
 ---
-Immigration >> Policy and Law >> Identity Information The Immigration and Foreigners Order 2025, regulates the capturing of biometric information as mentioned below: (1) Every foreigner applying for any category of visa, including registration as Overseas Citizen of India Cardholder under section 7A of the Citizenship Act, 1955 (57 of 1955), shall allow his biometric information to be taken by the authority issuing the visa or the authority granting the registration as Overseas Citizen of India Cardholder, as the case may be, before grant of such visa or registration as Overseas Citizen of India cardholder. (2) A person who is identified as a foreigner or considered to be a foreigner while in India shall allow his biometric information to be taken at such time and at such place by: - (a) a specified authority of the State Government or a Union territory Administration; (b) Civil authority; (c) Registration Officer; (d) Immigration Officer; (e) Border Guarding Forces; or (f) Coast Guard, on the designated electronic portal of the Central Government for the purpose. (3) The biometric information shall be taken as per specifications specified by the Central Government from time to time. (4) The biometric information captured shall be valid for ten years from the date of capturing. (5) The foreigners who do not have fingerprints or poor fingerprints shall be exempted and only facial traits or iris shall be captured for them. (6) The foreigner who is having less number of fingers shall give fingerprints of existing fingers only. For more details kindly visit Ministry of Home Affairs website at www.mha.gov.in
+Immigration & Foreigners Order 2025: The Order made in exercise of the powers 
+conferred by the Immigration and Foreigners Act, 2025 and in supersession of the 
+Foreigners Order, 1948, the Foreigners (Protected Areas) Order, 1958, the 
+Foreigners (Restricted Areas) Order, 1963 and the Foreigners (Tribunals) Order, 
+1964. 
+ The Order regulates entry into, stay in, movement within and exit from India. 
+Further, it regulates restriction of certain activities of foreigners, prevention, 
+detention, restricting movements and deportation of Illegal migrants. It also deals 
+with Protected & Restricted Areas, Foreigners Tribunals and Prohibited Places.
+
+The Citizenship Act, 1955: It regulates acquisition and termination of Indian 
+citizenship as well as Overseas Citizens of India.
+
+Passports Act, 1967: The Act guides on the issue of passports and travel 
+documents, to regulate the departure of Citizens of India and other persons, and for 
+matters incidental or ancillary thereto.
 ---
-Immigration >> Policy and Law >> Obligation of Carriers Obligation of carrier to provide certain information: (1) The country representative or station manager of an airline departing or embarking from India to an airport outside India, arriving or landing in India from an airport outside India, shall provide the following information to the civil authority or the Immigration Officer, namely: (a) The passenger and crew manifest in Form V; (b) Advance passenger information data of passengers on board and crew, within fifteen minutes of leaving or wheels-off of the aircraft from the port of embarkation outside India, and after closure of boarding or wheels-off the aircraft from the port of embarkation within India, as per International Civil Aviation Organisation Annex-9 (Facilitation) data fields and data format UNEDIFACT-PAXLST including passenger information (Name, Gender, Date of Birth and Nationality) and travel document information of passport and visa (type, number, date of issue and expiry), flight and journey information; (c) Passenger name record data of passengers for arrival in India or for departure from India at T-72 hours, at T-24 hours, at T-08 hours and at T-0 hours, where T is the scheduled time of arrival in India or departure from India, as the case may be, as per International Civil Aviation Organisation Annex-9 (Facilitation) data fields and data format UNEDIFACT-PNRGOV including passenger information (Name, Gender, Date of Birth and Nationality), travel document information of passport and visa (type, number, date of issue and expiry), travel and payment information, flight and journey information. (2) The country representative or master of a vessel (cargo or cruise or general movement chartered ships) departing or embarking from India to a port or place outside India and arriving or berthing in India from a port or place outside India shall provide the passenger manifest and crew manifest as in Form VI at T-72 hours, where T is the scheduled time of arrival in India or departure from India, as the case may be, to the civil authority or the Immigration Officer. Liability of carrier to furnish information: Every carrier shall, when required, provide information to the District Magistrate or Commissioner of Police or, where there is no Commissioner of Police, Superintendent of Police or the civil authority or the Immigration Officer, of passenger and crew manifest in Form V or Form VI, as the case may be. General Declaration furnished by carrier to Immigration Officer: (1) Every carrier shall submit a general declaration to the Immigration Officer in Form VIII prior to the departure of the flight, vessel or other mode of transport at D-45 minutes, where D is the scheduled departure time. (2) No flight or vessel or other mode of transport shall be permitted by the carrier to depart from a port of place in India until the Immigration Officer has given clearance on such general declaration. Queries/clarifications: Queries on the technical aspects of APIS implementation may be addressed to apisindia[at]nic[dot]in and on the administrative aspects, may be addressed to frrodli[at]nic[at]in. Important PDFs regarding APIS :-
-1. Immigration and Foreigners Rules,2025(967 KB)
-2. APIS Guidelines to the Carriers (155 KB)
-3. FAQs (181 KB)
-4. Time Limit for compliance with APIS(11KB)
+Further Acts, Rules and Regulations pertaining to Foreigners may be referred at the 
+website of Foreigners Division, Ministry of Home Affairs (www.mha.gov.in). 
+Immigration Fraud 
+Immigration fraud is an offence under the Immigration & Foreigners Act, 2025. We 
+have wide-ranging measures to detect and prevent immigration offences.
+
+Immigration fraud includes but not limited to the following offences:
+---
+Using a false or altered document to support a visa application, for example 
+Passport, Identity documents etc. 
+Providing false or misleading information to support a visa application. 
+Helping someone to come to or stay in India who you know either does not have a 
+Visa or does not have the appropriate Visa. 
+Helping someone to come to India by deceiving them on the purpose of their stay in 
+India or your reasons for bringing them to India. 
+Using forged or fraudulently obtained travel documents to depart the country or seek 
+entry. 
+The Government of India has designated 28 Immigration Check Posts (ICPs) across 
+the country, each under the jurisdiction of a respective Foreign Regional Registration 
+Office (FRRO). 
+Ahmedabad in Gujarat is under FRRO Ahmedabad, while Lucknow and Varanasi, 
+both in Uttar Pradesh, are controlled by FRRO Lucknow. Amritsar in Punjab falls 
+under FRRO Amritsar, which also oversees Chandigarh in Haryana. Bagdogra in 
+West Bengal, along with Gaya in Bihar and Guwahati in Assam, are all administered 
+by FRRO Kolkata, which additionally governs Kolkata itself. 
+Bangalore in Karnataka is under FRRO Bangalore, which also controls Mangalore. 
+In Kerala, Calicut and Kannur are under FRRO Calicut, Cochin has its own FRRO, 
+and Trivandrum is governed by FRRO Trivandrum. Chennai in Tamil Nadu is under 
+FRRO Chennai, which also oversees Coimbatore and Trichy. 
+Delhi, being the National Capital Territory, is under FRRO Delhi, which additionally 
+controls Jaipur in Rajasthan. Hyderabad in Telangana is governed by FRRO 
+Hyderabad. Mumbai in Maharashtra falls under FRRO Mumbai, which has the widest 
+jurisdiction — also covering Dabolim and Manohar International Airport, Mopa in 
+Goa, Indore and Raja Bhoj International Airport in Bhopal (both in Madhya Pradesh), 
+as well as Nagpur and Pune in Maharashtra.
+---
+The Government of India has designated 21 Immigration Check Posts (ICPs) at 
+various seaports and waterways across the country, each under the jurisdiction of a 
+respective Foreign Regional Registration Office (FRRO). 
+In Kerala, Calicut is under FRRO Calicut; Cochin governs both Cochin port and 
+Vallarpadam; while FRRO Trivandrum oversees Kovalam-Vizhinjam, Kollam, and the 
+newly developed Vizhinjam International Seaport. Chennai in Tamil Nadu is under 
+FRRO Chennai, which also administers Kattupalli. FRRO Mumbai holds the broadest 
+jurisdiction among seaports, covering Mumbai, Mormugao Harbour in Goa, and 
+Nhava Sheva / Jawaharlal Nehru Port in Maharashtra. New Mangalore in Karnataka 
+falls under FRRO Bangalore, and Dhamra in Odisha is governed by FRRO 
+Hyderabad. In Gujarat, both Kandla and Mundra are under FRRO Ahmedabad. 
+However, the controlling authority has not yet been specified for five ICPs — 
+Karimganj, Pandu, Dhubri, and Silghat, all in Assam, as well as Kamarajar in Tamil 
+Nadu — indicating that their jurisdictional assignments may be pending or yet to be 
+notified.
+---
+The Government of India has designated 12 Immigration Check Posts (ICPs) at 
+various land border crossings across the country, each under the jurisdiction of a 
+respective Foreign Regional Registration Office (FRRO). 
+In Punjab, Attari Road and Dera Baba Nanak (Kartarpur) are both administered by 
+FRRO Amritsar. FRRO Kolkata holds the widest jurisdiction among land border 
+ICPs, overseeing Agartala in Tripura, Haridaspur, Jaigoan, Gede, and Ghojadanga 
+in West Bengal, Moreh in Manipur, and Raxaul in Bihar. In Uttar Pradesh, both 
+Sonauli and Rupaidiha fall under FRRO Lucknow. 
+However, the controlling authority has not yet been specified for Darranga in Assam, 
+indicating that its jurisdictional assignment may be pending or yet to be notified. 
+The Government of India has designated 6 Immigration Check Posts (ICPs) at 
+various rail and road border crossings, each under the jurisdiction of a respective 
+Foreign Regional Registration Office (FRRO). 
+FRRO Kolkata holds the widest jurisdiction, overseeing four ICPs — 
+Petrapole/Chitpur, Gede Rail and Road Check Post, Haridaspur, and New Jalpaiguri 
+Railway Station, all located in West Bengal. Attari in Amritsar, Punjab, is 
+administered by FRRO Amritsar. Munabao in Rajasthan falls under the jurisdiction of 
+FRRO Delhi.
+---
+Health Regulation 
+Any person arriving from or Transiting from a Yellow fever endemic area/country by 
+Air/Sea has to be in possession of a valid Yellow Fever Vaccination Certificate as 
+per the prescribed norms laid down by WHO.
+
+Foreigners or Indians (excluding infants below six months) arriving by air or sea 
+without a Yellow Fever Vaccination Certificate will be kept in quarantine for a period 
+up to 6 daysif they have visited or transited from a Yellow Fever endemic area.
+
+There is no health check requirement for leaving India to Yellow Fever endemic 
+countries, however passengers are advised in their own interest to get themselves 
+vaccinated and to be in possession of valid yellow fever vaccination certificates 
+before they leave the country.
+
+Generally Indian Missions issues visas to Foreign nationals applying from Yellow 
+fever endemic countries only after the production of a valid vaccination certificate of 
+Yellow Fever and an endorsement “Valid Yellow Fever Vaccination Certificate 
+Checked” is made on the visa of the foreigner.
+
+Notified Yellow Fever Endemic Countries:
+---
+Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, 
+Congo, Cote d' Ivoire, Democratic Republic of Congo, Equatorial Guinea, Ethiopia, 
+Gabon, Gambia, Ghana, Guinea, Guinea Bissau,  Kenya, Liberia, Mali, Mauritania, 
+Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Sudan, South Sudan, Togo, 
+Uganda.
+
+Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guyana, Guyana, Suriname, 
+Trinidad (Trinidad only), Venezuela, Panama, Paraguay, Peru.
+
+For further details visit ihpoe.mohfw.gov.in
+
+Identity Information 
+The Immigration and Foreigners Order 2025, regulates the capturing of biometric 
+information as mentioned below:
+
+(1) Every foreigner applying for any category of visa, including registration as 
+Overseas Citizen of India Cardholder under section 7A of the Citizenship Act, 1955 
+(57 of 1955), shall allow his biometric information to be taken by the authority issuing 
+the visa or the authority granting the registration as Overseas Citizen of India 
+Cardholder, as the case may be, before grant of such visa or registration as 
+Overseas Citizen of India cardholder.
+---
+(2) A person who is identified as a foreigner or considered to be a foreigner while in 
+India shall allow his biometric information to be taken at such time and at such place 
+by: -
+
+(a) a specified authority of the State Government or a Union territory Administration;
+
+on the designated electronic portal of the Central Government for the purpose.
+
+(3) The biometric information shall be taken as per specifications specified by the 
+Central Government from time to time.
+
+(4) The biometric information captured shall be valid for ten years from the date of 
+capturing.
+
+(5) The foreigners who do not have fingerprints or poor fingerprints shall be 
+exempted and only facial traits or iris shall be captured for them.
+
+(6) The foreigner who is having less number of fingers shall give fingerprints of 
+existing fingers only.
+
+For more details kindly visit Ministry of Home Affairs website at www.mha.gov.in 
+Obligation of Carriers 
+Obligation of carrier to provide certain information:
+---
+(1) The country representative or station manager of an airline departing or 
+embarking from India to an airport outside India, arriving or landing in India from an 
+airport outside India, shall provide the following information to the civil authority or 
+the Immigration Officer, namely:
+
+(a) The passenger and crew manifest in Form V;
+
+(b) Advance passenger information data of passengers on board and crew, within 
+fifteen minutes of leaving or wheels-off of the aircraft from the port of embarkation 
+outside India, and after closure of boarding or wheels-off the aircraft from the port of 
+embarkation within India, as per International Civil Aviation Organisation Annex-9 
+(Facilitation) data fields and data format UNEDIFACT-PAXLST including passenger 
+information (Name, Gender, Date of Birth and Nationality) and travel document 
+information of passport and visa (type, number, date of issue and expiry), flight and 
+journey information;
+---
+(c) Passenger name record data of passengers for arrival in India or for departure 
+from India at T-72 hours, at T-24 hours, at T-08 hours and at T-0 hours, where T is 
+the scheduled time of arrival in India or departure from India, as the case may be, as 
+per International Civil Aviation Organisation Annex-9 (Facilitation) data fields and 
+data format UNEDIFACT-PNRGOV including passenger information (Name, Gender, 
+Date of Birth and Nationality), travel document information of passport and visa 
+(type, number, date of issue and expiry), travel and payment information, flight and 
+journey information.
+
+(2) The country representative or master of a vessel (cargo or cruise or general 
+movement chartered ships) departing or embarking from India to a port or place 
+outside India and arriving or berthing in India from a port or place outside India shall 
+provide the passenger manifest and crew manifest as in Form VI at T-72 hours, 
+where T is the scheduled time of arrival in India or departure from India, as the case 
+may be, to the civil authority or the Immigration Officer.
+---
+Liability of carrier to furnish information: Every carrier shall, when required, provide 
+information to the District Magistrate or Commissioner of Police or, where there is no 
+Commissioner of Police, Superintendent of Police or the civil authority or the 
+Immigration Officer, of passenger and crew manifest in Form V or Form VI, as the 
+case may be.
+
+General Declaration furnished by carrier to Immigration Officer:
+
+(1) Every carrier shall submit a general declaration to the Immigration Officer in Form 
+VIII prior to the departure of the flight, vessel or other mode of transport at D-45 
+minutes, where D is the scheduled departure time.
+
+(2) No flight or vessel or other mode of transport shall be permitted by the carrier to 
+depart from a port of place in India until the Immigration Officer has given clearance 
+on such general declaration.
+
+Queries/clarifications: Queries on the technical aspects of APIS implementation may 
+be addressed to apisindia[at]nic[dot]in and on the administrative aspects, may be 
+addressed to frrodli[at]nic[at]in.
+---
+Immigration and Foreigners Rules,2025(967 KB) 
+APIS Guidelines to the Carriers (155 KB) 
+FAQs (181 KB) 
+Time Limit for compliance with APIS(11KB) 
+Stabilization of APIS Data (11 kB)
+
+Immigration 
+Indian Citizenship >Surrender of Indian Citizenship  
+Renunciation/Surrendering of Indian Citizenship 
+Indian Citizenship Act does not provide for dual citizenship. As per the Passport Act, 
+it is mandatory for all Indian passport holders to surrender their last Indian passport 
+to the Consulate or Regional Passport office (RPO) in India immediately after 
+acquisition of foreign nationality.
+
+It is an offence under the Citizenship Act and the Passports Act for foreign nationals 
+to hold Indian passports. Once Indian passport is surrendered, Consulate/ RPO will 
+cancel and return it to the Passport holder along with Renunciation/Surrender 
+certificate.
+
+For information on surrendering of Indian Passport please visit 
+www.passportindia.gov.in
+
+Those who have acquired foreign nationality after 01.06.2010 may apply for 
+Renunciation Certificate online on the Ministry of Home Affairs (Foreigners Division) 
+website
+
+https://indiancitizenshiponline.nic.in/Renounce
+---
+Note: On surrender of Indian Passport, Indian Voter ID Card/Election Photo ID Card 
+(EPIC Card) needs to be surrendered and in case of Ration Card the record needs 
+to be removed by contacting the concerned authority.
+---
+Visa & OCI> Apply for Visa >List of Visas 
+LIST OF VISAs 
+Sl. 
+No Main 
+category of 
+Visa Specified 
+as Sub 
+Categories Description Remarks 
+1 Business Visa B B-1 For all business activities (Other than those 
+covered by B-2, B-3 and B-4 Visas) including Maintenance, Repair and Overhaul 
+(MRO) activities of aircrafts and ships - 
+B-2 For sports persons and coaches including those engaged in commercial 
+sports events in India on contract with remuneration - 
+B-3 Visa for foreign nationals coming to India for participation in 
+cultural/commercial performances of concerts and also for those involved in 
+performative arts like acting, dance, etc - 
+B-4 Production Investment Business Visa Granted only on e-Visa platform 
+B-5 Conference For attending international conferences/seminars/workshops 
+B-6 Film For foreign nationals coming for shooting of feature films, reality TV & 
+Web shows/series and for location recce. 
+PRS Permanent Residency Status for foreign investors - 
+2 Diplomatic Visa D D-1 Diplomats assigned in India (on Diplomatic 
+Passport only) - 
+D-2 Diplomat on a visit to India for meetings and other official purposes (on 
+Diplomatic Passport) - 
+D-3 Diplomats assigned to Non-UN International Organization (such as ADB, 
+ICRISAT, ICRC etc.) in India - 
+D-4 UN Diplomat assigned to India - 
+D-5 UN Diplomat on a visit to India - 
+D-1X 
+D-2X 
+D-3X 
+D-4X 
+D-5X For dependents For dependents of D-1, D-2, D-3, D-4 and D-5 Visa 
+holders respectively 
+3 Work Visa E E-1 All cases of employment (including intra company 
+transferees) but excluding those covered by E-2 and E-3 Visas - 
+E-2 For employment in NGOs - 
+E-3 For Missionary/ Religious worker of Approved organizations - 
+4 Family Visa F - For dependents of various visa category holders 
+(other than dependents of Diplomatic/Official Visa holders) - 
+5 Journalist Visa J J-1 For journalists accredited in India and also 
+for journalists visiting India for any purpose including tourism, conference etc. - 
+J-2 Foreign nationals coming for shooting of advertisement/documentary films 
+etc. - 
+6 Medical Visa M M-1 Foreign nationals coming for medical treatment 
+(other than those under Ayush systems) - 
+M-2 For Medical Attendants of those coming under M-1 Visa - 
+M-3 Foreign nationals coming for treatment under Ayush systems - 
+M-4 For attendants of those coming on M-3 Visa - 
+7 Official Visa O O-1 Non- diplomatic official assigned to a diplomatic 
+Mission in India (On Official/ Service/ Special Passport only) - 
+O-2 Non -diplomatic official on a visit to India for official purpose - 
+O-3 UN Non – Diplomatic official assigned to India - 
+O-4 UN Non – Diplomatic official on a visit to India - 
+O-1X 
+O-2X 
+O-3X 
+O-4X For dependents For dependents of O-1, O-2, O-3 and O-4 Visa holders 
+respectively 
+8 Pakistan Specific Visas P P-1 Visitor Visa for Pakistan nationals 
+coming to visit relatives or friends or for any other legitimate purpose - 
+P-2 Pilgrim Visa for Pakistan nationals coming under Religious Protocol - 
+P-3 Group Pilgrim visa for minority communities in Pakistan - 
+9 Student Visa S S-1 For higher education (including in South Asian 
+University and Nalanda University), provisional student visa, for short term courses, 
+for those coming under Student Exchange Programme, for those coming to pursue 
+education, training and skill development in Ayush practices, for higher education in 
+Theological studies.  
+S-2 For school education  
+S-3 For studies in Yoga, Vedic Culture and Indian systems of Music and Dance, 
+for Buddhist studies, programs and courses on Indian languages and Indian 
+knowledge system.  
+S-4 For research scholar, visiting research faculty, research scholar on bilateral 
+exchange programme, members of Botanical, Scientific, Anthropological etc. 
+Expeditions and G-20 Talent Visa. - 
+S-5 For those coming for Internship in India - 
+10 Tourist Visa T T-1 For recreation, sightseeing, casual visit to meet 
+friends or relatives, attending a short term yoga programme, short duration medical 
+treatment including treatment under Ayush systems (other than for treatment which 
+are pre-planned), short term courses on local languages, music, dance, arts & crafts, 
+cooking, medicine etc. which should not be a formal or structured course/programme 
+(courses not exceeding 6 months duration and not issued with a qualifying 
+certificate/ diploma etc.), and voluntary work of short duration (for a maximum period 
+of one month, which do not involve any monetary payment or consideration of any 
+kind in return). etc. and no other-purpose/ activity.  
+T-2 For foreign nationals coming for mountaineering expeditions - 
+11 Transit Visa TR - For travelling through India to a destination outside 
+India - 
+12 Miscellaneous Visa X X-1 For persons of Indian Origin and foreign 
+spouse & foreign children of an Indian citizens/ Person of Indian Origin/ OCI 
+cardholder (other than those registered as OCI cardholder) - 
+X-2 For those coming to join Auroville Foundation, Aurobindo Ashram, 
+Missionaries of Charity, temples or similar approved organizations, foreign Buddhist 
+Monks coming to join Buddhist Monasteries/ other Buddhist organizations for charity 
+work. - 
+X-3 Double Entry visa for Bangladeshi nationals coming to India to apply for a visa 
+in foreign missions accredited to both India and Bangladesh. - 
+X-4 Stay visa for Afghan Nationals - 
+X-Misc For purposes which are not covered by any other visa category - 
+13 Long term Visa LTV - For certain categories of Afghanistan, 
+Bangladesh and Pakistan nationals.
+---
+How to apply? 
+Procedure for applying for Regular Visa/ eVisa. 
+The foreign national may fill in the application online on the website 
+https://indianvisaonline.gov.in
+
+Government of India has not authorized any agent or intermediary to charge any fee 
+for facilitation of emergency / express Visa/eVisa.
+
+For travel to India a regular/eVisa along with passport is mandatory.
+
+Only categories exempted under bilateral arrangements may not need a visa.
+
+Visa is not required for OCI Card holders.
+
+Extending stay on Your Visa 
+Foreign Nationals who are unable to leave/ exit India within the validity of their visa 
+due to justifiable reasons, should apply for the appropriate visa service on
+
+Such visa services are available only to foreign nationals who are present in India. 
+This request/ application should be made within the validity of their current visa, 
+allowing reasonable time for processing. 
+If the extension/ conversion of the visa/ permission to continue their stay is not 
+granted within the validity of their current visa, they must depart from India. Failure to 
+depart will be considered a willful illegal overstay and will be treated in accordance 
+with the law.
+---
+Conversion of Your Visa Type 
+For converting your Visa type, kindly make an application with your jurisdictional 
+FRRO at
+
+https://indianfrro.gov.in/eservices/home.jsp
+
+For more details refer to Registration Authority section on this website.
+
+About PIO/OCI Card 
+Important Guidelines 
+OCI FAQ 
+OVERSEAS CITIZEN OF INDIA (OCI) CARDHOLDER 
+The Government of India had introduced the Overseas Citizen of India (OCI) Card 
+and Person of Indian Origin (PIO) Card Scheme to benefit the Indian Diasporas in 
+terms of connectivity with the motherland, hassle free travel to India, friendly 
+investment regime and benefits in social, economic and educational fields.
+
+Who is an Overseas Citizen of India Cardholder?
+
+A person is said to be an “Overseas Citizen of India (OCI) Cardholder” if he/she is 
+registered by the Government of India, under Section 7A of The Citizenship 
+(Amendment) Act, 2015.
+
+Eligibility for registration as an OCI Cardholder
+
+Following categories of foreign nationals (except few categories) are eligible for 
+registration as Overseas Citizen of India (OCI) Cardholder
+---
+Any person of full age and capacity: 
+Who is a citizen of another country, but was a citizen of India at the time of, or at any 
+time after 26.01.1950; or 
+Who is a citizen of another country, but was eligible to become a citizen of India as 
+on 26.01.1950; or 
+Who is a citizen of another country, but belonged to a territory that became part of 
+India after 15.08.1947; or 
+Who is a child or a grandchild or a great grandchild of such a citizen; or 
+A person, who is a minor child of a person mentioned above; or 
+A person, who is a minor child, and whose both parents are citizens of India or one 
+of the parents is a citizen of India; or 
+Spouse of foreign origin of a citizen of India or spouse of foreign origin of an OCI 
+cardholder, whose marriage has been registered and subsisted for a continuous 
+period of not less than two years immediately preceding the presentation of the 
+application. 
+Children born out of live-in relationship and IVF/Surrogacy are eligible for registration 
+on case-to-case basis subject to merits of the case. 
+Who are not eligible for registration as an OCI cardholder?
+---
+No person, who or either of whose parents or grandparents or great grandparents is 
+or had been a citizen of Pakistan, Bangladesh or such other country as notified by 
+Government of India, shall be eligible for registration as OCI cardholder. 
+Foreign Military/Police Personnel (except Israelis) either serving or retired will not be 
+registered as OCI cardholder. 
+Foreign nationals who are undergoing compulsory military/police conscription at the 
+time of application will not be eligible for registration during the period of such 
+conscription. 
+Foreign nationals, who are applying for OCI card on spouse basis, shall not be 
+eligible if they have undergone/undergoing any military/police conscription. 
+A foreign national holding Diplomatic Passport will not be registered as OCI 
+cardholder. 
+Merger of Persons of Indian Origin (PIO) Scheme with OCI
+---
+The erstwhile Person of Indian Origin (PIO) card scheme has been rescinded by the 
+Government of India and all the existing PIO cardholders shall be deemed to be 
+Overseas Indian Citizens of India (OCI) cardholders. However, all persons who are 
+still holding PIO cards are advised to apply for conversion of their PIO cards into OCI 
+card through OCI Miscellaneous Services.
+---
+If the foreigner gets remarried to another foreigner/Indian, he/she should surrender 
+the existing OCI card to the concerned FRRO/Indian Mission. 
+If it is found that the registration as an OCI Cardholder was obtained by means of 
+fraud, false representation or concealment of any material fact or the registered OCI 
+Cardholder has shown disaffection towards the Constitution of India or contravened 
+any provisions of the Citizenship Act, 1955, the registration of such person will be 
+cancelled forthwith. 
+Please visit the website https://ociservices.gov.in or visit the nearest Indian 
+Mission/FRRO for more details 
+Important Guidelines for OCI Cardholders 
+Passport is the primary travel document. OCI is only a life-long visa. (OCI card 
+issued to spouse of Indian/ Indian origin on or after 03.09.2025 will have an initial 
+validity of 5 years, which is further extendable to lifelong subject to scrutiny)
+
+Stay of foreigners in India without a valid passport is illegal even if he or she is an 
+OCI cardholder. Hence, it is necessary that OCI cardholders staying in India should 
+be in possession of a valid passport and OCI card at all times of his/her stay in the 
+country .
+---
+Foreigners registered as OCI Cardholders and staying in India are exempted from 
+the requirement of Registration with jurisdictional FRROs.
+
+The ‘U’ (Universal) visa sticker on the foreign passport of OCI cardholders is 
+dispensed with.
+
+Foreigners who intend to submit their applications for registration as OCI cardholder 
+to a jurisdictional FRRO in India, should be ‘Ordinarily Resident ’, which 
+meanshe/she should stay in India for a continuous period of 6 months .
+---
+In such cases, a copy of any long duration visa (other than Tourist, Missionary, 
+Mountaineering Visa) with 3 months validity as on the date of application along with 
+Registration Certificate (RC/RP) issued by FRRO/FRO should be submitted along 
+with the application mandatorily. 
+Capturing of biometrics of fingerprints & face (if technically feasible) in case of 
+applicants for registration as OCI cardholders is mandatory. 
+In case the Birth/Marriage Certificate is issued by a foreign authority, it is to be 
+Apostled or endorsed by the concerned Indian Mission abroad/concerned foreign 
+Mission in India. 
+An OCI cardholder staying in India, who require a Police Clearance Certificate (PCC) 
+shall apply for such certificate to the FRRO/FRO concerned as per their place of 
+residence indicating the purpose for which such PCC is required. For applying, 
+please visit https://indianfrro.gov.in 
+OCI Cardholders shall also require Protected Area/Restricted Area Permit 
+(RAP/PAP) to visit any place which falls within the Protected/Restricted Area as 
+notified by the Government of India. For more info, please check the ‘Entry to 
+Restricted/Protected Areas’ page on this website
+---
+Frequently Asked Questions 
+1. Which territories became part of India after 15.08.1947?
+
+Applications for registration as OCI Cardholders are to submitted online For further 
+information on applications and documents to be submitted, please visit 
+https://ociservices.gov.in
+
+3. Whether applicants are required to submit hard copies of the applications to the 
+concerned FRRO?
+
+After submitting the application online, foreigners are required to bring the originals 
+of uploaded documents for verification.
+
+4. Are foreigners required to attend a personal interview at the Indian Mission/ FRRO 
+concerned?
+
+Yes. If a foreigner applies for new registration as OCI cardholder, personal interview 
+is mandatory. However, children below 12 years of age are exempted from personal 
+interview.
+
+5. Am I required to provide my biometrics during registration as OCI Cardholder?
+
+In case of applications for registration as OCI cardholders submitted to Indian 
+Missions/Posts abroad, the applicants will have the option of giving biometrics at the 
+application stage or at the Immigration Check Posts on arrival in India. However, 
+they are advised to give biometrics at the application stage itself.
+---
+In respect of applications submitted to FRROs in India, biometrics shall be captured 
+at the application stage itself.
+
+6. Who are exempted from providing biometrics?
+
+Applicants above 70 years of age or below 12 years of age would be exempted from 
+biometric capturing.
+
+7. Are children (foreigners) of such Indian national who is not alive entitled for 
+registration as OCI Cardholder?
+
+In order to collect the OCI Card, the applicant is required to be present at the 
+concerned Indian Mission/FRRO in person or he/she can send a duly authorized 
+person, along with his/her passport for this purpose. However, the applicant should 
+be physically present in the country of issuance of OCI card when it is collected by 
+the authorized person.
+
+9. Will the fee be refunded, in case the registration as OCI Cardholder is not 
+granted?
+
+An amount of USD 250 or equivalent in local currency shall be refunded in case the 
+registration as OCI Cardholder is not granted. However, the processing fees of USD 
+25 or Rs. 1400/- (in India) is non-refundable.
+
+10. Does the applicant lose his Citizenship in case he is registered as an OCI 
+Cardholder?
+---
+11. Can foreign diplomatic and official passport holders not assigned in India travel 
+on the strength of their OCI cards?
+
+An ‘Ordinarily Resident’ is a person staying in a particular country or in India for a 
+continuous period of 6 months.
+
+The OCI Cardholder is not entitled to vote.
+
+14. Is an OCI Cardholder entitled for Constitutional Posts in India?
+
+OCI Cardholders cannot be a member of Legislative Assembly, or Legislative 
+Council or Parliament, cannot hold Constitutional posts such as President, Vice-
+President, Judge of the Supreme Court or High Court etc.
+
+15. Are OCI Cardholders entitled for appointment to public services and posts in 
+India?
+
+No. For further information, contact the concerned Indian Mission/FRRO.
+
+16. Can OCI Cardholders acquire agricultural or plantation properties in India?
+
+17. Can OCI Cardholder appear for any entrance exams for Indian Educational 
+Institutions?
+---
+OCI Cardholders are eligible for appearing for all the Indian entrance tests such as 
+National Eligibility cum Entrance Test (NEET), Joint Entrance Examination (Mains), 
+Joint Entrance Examination (Advanced), All India Pre Medical Test or such other 
+tests. Provided that the OCI cardholder shall not be eligible for admission against 
+any seat reserved exclusively for Indian citizens. 
+Travelling to India 
+General Guidelines 
+General Guidelines for those travelling to India 
+The Citizens of India as well as foreigners are required to obtain Immigration 
+clearance both at the time of arrival as well as departure to/from India. 
+Grant of an Indian Visa/Visa Free Regime does not confer the right of entry which is 
+subjected to the discretion of Immigration Authorities. 
+Foreigner must complete and submit the e-Arrival card online within 72 hours before 
+their arrival in India at https://indianvisaonline.gov.in/earrival or via official Indian Visa 
+Su-Swagatam mobile app. 
+Pakistani nationals can arrive by Air only at Delhi, Mumbai and Chennai ICPs. 
+Foreigners except certain categories who are travelling to India are required to hold 
+a valid passport and valid visa. Certain foreigners may for one reason or another, 
+travel on travel documents other than a proper national passport, or a Certificate of 
+Identity. Such foreigners are required to hold a valid visa for entry into India. 
+After due checks and capture of biometrics (in case if required), the passports will be 
+duly stamped. 
+It is one’s responsibility to make sure that the Arrival/Departure seals get affixed on 
+their passports.In case one misses to get their Passport affixed by us, please get in 
+touch with the nearest FRRO or Immigration Post to make sure the seal gets affixed 
+and enjoy a hassle-free travel. 
+Foreigners who are granted a particular type of visa with reference to the purpose of 
+visit shall be required to strictly adhere to the purpose of visit declared while 
+submitting the visa application. 
+Indians traveling from Nepal by Air are required to carry either a valid Indian 
+passport or Original Indian Voter ID card with photograph issued by the Election 
+Commission of India. 
+Foreigner granted any type of visa and OCI cards shall not be permitted to engage 
+themselves in preaching religious ideologies
+ , making speeches in religious places, 
+distribution of audio or visual display/pamphlets pertaining to religious ideologies, 
+spreading conversion etc. will not be allowed. 
+Persons from Yellow Fever (YF) endemic countries (or if he/she has visited any 
+Yellow Fever (YF) endemic country during past 6 days) will be required to possess a 
+valid certificate of Yellow Fever vaccination from an authorized vaccination centre. 
+If a person or attendant/ family members of the person is arriving from a country 
+which is having public health risk with regard to any condition which has been 
+declared as public health emergency of international concern (PHEIC) by WHO DG, 
+then he/ she may be required to undergo medical screening or additional measures 
+as decided by the Ministry of Health and Family Welfare. For more details about 
+health regulations, please 
+Airlines Crew 
+Seamen 
+Air Crew 
+Crew members of scheduled/ non-scheduled flights operated by scheduled airlines, 
+non-scheduled and chartered flights operated by non-scheduled airlines and special 
+flights are required to obtain Business/e-Business visa for appropriate duration.
+---
+Air crew members of scheduled airlines who operate scheduled services to, or 
+through, India can enter India with the valid `Crew Member Certificate' or `License' 
+issued by the country of registration of the aircraft in lieu of passport. 
+In all cases of crew of non-scheduled airlines, chartered flights operated by such 
+airlines and Special flights, visa should be endorsed on their national passport only 
+and NOT on the crew member certificate. 
+Guidelines for Pakistan Air Crew:
+---
+The Air Crew of Pakistan operating the scheduled services between India and 
+Pakistan will be allowed to land at the designated airports in India, without being 
+required to be in possession of passports and visas, provided they hold valid 
+personnel licenses. 
+Aircraft Maintenance Engineers/Staff of the Airlines of Pakistan who are required to 
+travel to India in connection with repairs or maintenance of the aircraft with/without 
+notice in case of emergencies, will be given facilities to land in the airport concerned 
+up to a period of 36 (thirty-six) hours without visas, provided they hold valid 
+passports endorsed for India and are in possession of appropriate Aircraft 
+Maintenance Engineers Licenses. 
+Air Crew of Pakistan stationed in India will be subject to the requirements of 
+registration, report on arrival/departure etc., within 24 hours. 
+Pakistani and Pakistani origin crew members will not be issued with Landing Permit 
+if they are arriving from a country other than Pakistan
+---
+Business in India 
+Foreigners who intend to visit India to establish an industrial/business venture or to 
+explore possibilities to set up an industrial firm/company (or) to attend technical 
+meetings/discussions, board/general meetings for providing business services 
+support, for Consultations and other business-related activities should arrive on a 
+Business visa.
+
+Foreigners who are engaged in commercial sports events on contract (including 
+coaches) like Indian Premier League, Indian Super League and Indian Badminton 
+League etc., with remuneration are also required to be on a Business visa.
+---
+All Business Visa holders are required to register themselves with the FRRO/FRO 
+concerned in case the aggregate stay in India on any Visa exceeds 180 days during 
+a calendar year. 
+Business visa shall be extended only if the gross sales/turnover from the business 
+activities, for which the foreigner has been granted visa, is not less than Rs. 1 crore 
+per annum (to be achieved within 4 years of setting up of the business or from the 
+date of initial grant of B visa, whichever is earlier). 
+If the extension of Visa is denied, the foreigner shall leave India forthwith or expiry of 
+the period of validity of the Visa. 
+Foreigner should comply with all taxation rules pertaining to his business in India. 
+Foreign national in India on Business visa cannot take any salary/ remuneration in 
+India. If the foreign national is taking salary/ remuneration in India, he must come on 
+an Employment Visa. 
+Foreigner should be with company/ organization for which Visa reference has been 
+made while obtaining the Business Visa.
+---
+Medical Treatment in India 
+If a foreigner wishes to seek medical treatment in any of the 
+established/recognized/specialized hospitals or any treatment centres providing 
+medical treatment under the Indian systems of medicine, accredited by the 
+Government of India, must arrive on a Medical Visa. Such Foreigners who 
+accompany the patients or Medical Visa holders should arrive on a Medical 
+Attendant visa.
+
+Not more than two persons shall be given Medical Attendant visas in case of foreign 
+nationals other than Pakistan and Bangladesh nationals. 
+Only one medical attendant shall be allowed in case of Pak nationals. 
+Three medical attendants shall be allowed in case of Bangladesh nationals. 
+Pak nationals holding Medical/Medical Attendant visas are required to register 
+themselves with concerned FRO within 24 hours of their arrival in India. 
+Key points to remember:
+---
+Change of hospital/Place of treatment (endorsed on initial visa) shall be permitted 
+only on case-to-case basis, subject to production of documentary proof justifying 
+such change. 
+Foreigners (other than Pak nationals) whose Medical/Medical Attendant visas are 
+valid for more than 180 days should register themselves within 14 days of their 
+arrival in India.
+
+Study in India 
+Foreigners shall obtain an appropriate Student Visa if their objective is to pursue on-
+campus, full time structured courses or Researchin any of the educational institutions 
+duly recognized by the Government of India.
+
+Foreigners who intend to study yoga, Vedic culture, Indian system of dance, music 
+or Buddhist studies etc., at the institutions approved by Government of India are 
+required to hold a Student (S-3) Visa.
+
+Foreigners arriving in India to pursue internship in Indian companies, educational 
+institutions, NGOs, foreign missions/posts in India and foreign Government 
+Organizations are required to obtain a Student (S-6) Visa.
+---
+Foreigners who wish to apply to top Indian institutes which offer courses can register 
+themselves for Study In India (SII) scheme. For more details, please visit 
+https://studyinindia.gov.in 
+Foreigners must ensure that they are not enrolled into any courses offered by 
+franchise Educational Institutes running off-campus centres, Study Centres of Open 
+Universities offering distance learning programmes, Educational Institutes running 
+“outreach” programmes. 
+Foreign students are required to open Non-Resident Ordinary (NRO) Account in any 
+of the recognized banks in India and the details to be furnished to the FRRO 
+concerned. 
+Foreigners on Student visa are must not involve in any Employment/Business 
+activities in India. 
+Foreign nationals (except Pak nationals) holding student visas valid for more than 
+180 days or as per the stay stipulation endorsed on their visa should register 
+themselves with concerned FRRO within 14 days of arrival in India. 
+Change of institution shall be allowed only if student has reasonable ground of 
+insufficient infrastructure, paucity of facility, unavailability of the course of their choice 
+or either of them. 
+Student should obtain a Restricted/Protected Area Permit (RAP/PAP) in case his/her 
+educational institution falls under any of the Restricted/Protected areas. 
+In case of discontinuation of the course, foreigner should intimate the concerned 
+FRRO immediately.
+---
+Tourism in India 
+If the foreigner’s (other than Pakistani national) sole purpose is recreation, 
+sightseeing, casual visit to meet friends or relatives, attending a short-term yoga 
+programme, short duration medical treatment etc.,he/she should arrive in India on a 
+Tourist visa.
+
+Foreign Tourists of such countries eligible for availing Tourist visa and traveling in 
+groups of not less than 4 members under the auspices of recognized Travel Agency 
+should obtain a Group Tourist visa to visit India.
+---
+Maximum aggregate stay by a foreigner in India on an e-Tourist Visa or both should 
+not exceed 180 days in a calendar year. 
+Continuous stay stipulation limit applicable after arrival in India on e-Tourist/ Tourist 
+Visa. 
+e-Tourist/ Tourist visa shall not be extended and converted. 
+Foreign national (other than a Pakistani national) coming to India on any type of visa 
+will be allowed to avail activities permitted under Tourist Visa. 
+Short term yoga programme means a yoga programme not exceeding 6 months 
+duration and not issued with a qualifying certificate/ diploma etc. 
+There shall be a gap of at least 2 (two) months between two visits to India on a 
+Tourist Visa in respect of nationals of Afghanistan, China, Iraq, Sudan, foreigners of 
+Pakistan origin and Stateless persons. 
+Visa Free Regime 
+Exemption from the requirement of an Indian visa or Visa Free Entry into India is 
+available for the Citizens of Nepal, Bhutan and Maldives.
+
+Visa free entry can be availed by Maldivians whose purpose of visit to India is 
+exclusively for Business/Medical treatment/Tourism and the stay in India does not 
+exceed a period of 90 days.
+---
+Should be in possession of a valid Passport/Travel Document. 
+The 90 days period will be inclusive of all prior stays in India during a period of 6 
+months immediately preceding the Date of your arrival in India. 
+If the visit is for a period of more than 90 days, one should obtain a Regular visa. 
+Sign-On facility shall not be available to those Seamen who avail Visa free entry. 
+Nepal and Bhutan
+
+Citizens of Nepal and Bhutan visiting India from Nepal or Bhutan by land or air are 
+exempted from the requirement of Passport and an Indian visa. However, they are 
+required to hold any such Government approved document authenticating their 
+Nationality which shall bear their Photograph along with information viz., Given 
+Name, Last Name, Date of Birth, Nationality, Issuing Authority, Period of Validity etc.,
+---
+Citizens of Nepal and Bhutan must be in possession of a valid Passport while 
+entering/ exiting India from/ to a place other than their respective country. 
+Citizens of Nepal and Bhutan must be in possession of a passport and visa for India 
+if he/she is entering India from China, Macau, Hong Kong and Pakistan. 
+Visa on Arrival (VoA) 
+Visa-on-Arrival facility is available for the nationals of Japan, Republic of Korea and 
+United Arab Emirates (UAE); who intends to visit India for a period not exceeding 60 
+days for Business, Tourism, Conference and Medical purposes.
+
+In case of UAE nationals, VoA will be available only to those who had earlier 
+obtained e-Visa or regular sticker/paper Visa of India.
+
+VoA is not available to the Citizens of Japan, Republic of Korea and UAE if the 
+foreigner or either of his/her parents or grandparents (paternal/maternal) were born 
+in, or were permanent residents of Pakistan.
+
+Foreigners can avail the facility of Visa-on-Arrival at the International Airports in 
+Bengaluru, Chennai, Delhi, Hyderabad, Kolkata and Mumbai.
+---
+Visa-on-Arrival shall be valid up to 60 days with double-entry facility. 
+VoA is non-extendable and non-convertible. 
+VoA facility is not available to holders of Diplomatic/Official Passports.
+
+Work in India 
+Foreigners who desire to work in India should arrive on a valid Employment visa. 
+Employment visas will be issued to those who are highly skilled and are qualified 
+professionals, and are being engaged or appointed by an Indian 
+Company/Organization/Industry/Undertaking or foreign Company/Firm/Organization 
+engaged in execution of any project in India.
+
+Foreigners who intend to work with a Non-Profit/Non-Governmental Organizations 
+on a voluntary basis with or without honorarium (up to a ceiling of Rs. 10,000 per 
+month) are also required to obtain an Employment (E-3) Visa.
+
+Foreigner employed in any sector should draw a gross salary in excess of Rs. 16.25 
+lakhs per annum. However, certain foreigners who are employed in such sectors as 
+notified by the GOI from time to time will be exempted from this annual floor limit.
+---
+A foreigner is required to enter India on a Business visa, if he/she is a 
+promoter/owner of a company holding majority stakes/share holdings. 
+No change of employer shall be permitted during the currency of the employment 
+visa. If the foreigner desires to change the employer, he/she has to leave the country 
+and apply for a fresh Employment visa. 
+FRRO/ FRO concerned to be informed if the person discontinues the employment. 
+The foreign national must comply with all legal requirements like meeting the 
+minimum salary payment of tax liabilities etc. 
+Foreigners are not allowed to work for more than one company simultaneously on an 
+Employment visa.
+
+Transit via India 
+Foreigners whose sole purpose to travel through India to a destination outside India 
+requires a Transit visa. A Transit Visa will ordinarily be valid for a single journey and 
+for entry within 15 days from date of issue, unless otherwise specified. In any case, 
+the period of validity of a Transit visa will not exceed that of the visa for the country 
+of ultimate destination.
+---
+A transit visa is only valid for direct transit, irrespective of the period of stay in the 
+transit, which cannot be more than 3 days for each visit. For a stay in India beyond 3 
+days, a visa of the appropriate category should be obtained.
+
+Persons in direct transit through India:
+
+A Transit Visa is not required by a foreigner passing through, in direct transit by air, 
+and travelling onward through India, provided he/she does not leave the specified 
+precincts of the airport up to 24 hours, After 24 hours, a Transit Visa is required.
+
+A Transit Visa is not required by a foreigner who does not leave the ship while it 
+halts at an Indian port. In case the foreigner intends to resume his/her journey from 
+the same place by a scheduled Air service for which he/she holds a valid ticket, 
+he/she will be allowed to leave the ship to proceed to the designated airport to catch 
+his/her flight only with the prior approval of the competent authority.
+---
+If the journey through India is not performed within period of the validity of transit 
+visa, a fresh transit visa will be required. 
+Validity of Transit visa is not extendable except in case of extreme emergency like 
+strike, traffic, disruption, inclement weather, illness etc. 
+For a stay in India beyond 3 days, a visa of appropriate category should be obtained
+
+Who are Foreigners/Persons of Indian origin (FIO)?
+
+A foreigner is said to be a Foreigner of Indian Origin
+
+If he/she at any time held an Indian passport; or
+
+If he/she or either of his/her parents or grandparents or great grandparents, was 
+born in, and was permanently resident in India, provided neither was at any time a 
+citizen of Afghanistan, Bangladesh, China, Pakistan or Sri Lanka or any other 
+country that may be specified by the Government of India from time to time.
+
+If a Foreigner of Indian Origin (FIO) intends to visit India, Entry(X-1) visa is the most 
+appropriate category of visa. However, theymay obtain other categories of Indian 
+visas depending on their purpose of visit.
+
+Following categories of foreigners are eligible for X-1 Visa
+---
+Children/Spouse of Indian Citizens/Foreigners of Indian Origin (FIO)/ Overseas 
+Citizen of Indian (OCI) card holders born in foreign countries.
+
+French of Indian origin born in Puducherry, Mahe and Yanam.
+
+Foreigners of Indian origin have to abide by all the laws and regulations of India. 
+Foreigners of Indian Origin should not hold Indian Voter ID, Family Ration Card etc., 
+Any FIO holding X-1 visa if intends to take up employment in India should obtain 
+prior permission from jurisdictional FRRO. 
+Surrender Certificate may be obtained from concerned Regional Passport Office 
+(RPO) or the Indian Mission abroad at the time of surrendering the Indian passport. 
+In case of Death or Divorce of Indian/ FIO Spouse of foreigner on X-1 visa/OCI Card, 
+Foreigner should immediately approach jurisdictional FRRO for further visa related 
+matters.
+
+Entry to Restricted/Protected Areas 
+Foreigners are not normally allowed to visit a Protected/Restricted Area in India until 
+unless there are extraordinary reasons to justify such a visit. Foreigners who intend 
+to visit the following places in India are required to obtain a Restricted/Protected 
+Area Permit
+---
+Whole of Arunachal Pradesh 
+Parts of Himachal Pradesh 
+Parts of Jammu & Kashmir 
+Whole of Manipur 
+Whole of Mizoram 
+Whole of Nagaland 
+Parts of Rajasthan 
+Whole of Sikkim (partly in Protected Area and partly in Restricted Area) 
+Parts of Uttarakhand 
+Entire Union Territory of Andaman & Nicobar Islands 
+*RAP/PAP shall be required for all such places as notified by the Government of 
+India from time to time.
+
+If the foreigner is residing outside India, he/she has to apply for the RAP/PAP permit 
+through the concerned Indian mission at least 30 days in advance.
+
+If the foreigner is residing/entered India, he/she has to apply for the RAP/PAP permit 
+to the jurisdictional FRRO at least 15 days in advance.
+
+Obtaining RAP/PAP permit does not give the foreigner full right-/-access to that 
+Restricted/Protected area, if it requires special permission from the additional in-
+charge of that particular establishment / installation / national park / island. 
+If any foreigner is found visiting a Restricted/Protected area without the 
+Restricted/Protected Area Permit, action shall be taken under the relevant provisions 
+of the Immigration and Foreigners Act, 2025.
+---
+Entry to Prohibited Places 
+No foreigner shall, without the permission of the jurisdictional civil authority or the 
+Registration officer, visit or reside in any prohibited place. Areas related to Defence 
+Forces, vital installations and places of sensitive nature are categorised as prohibited 
+places in addition to those defined or specified by the Central Govt from time to time.
+
+Every foreigner intending to visit or reside in any prohibited place may submit an 
+application for Prohibited Place permit electronically in the web portal.
+
+If any foreigner is found visiting a Prohibited area without Permit, action shall be 
+taken under the relevant provisions of the Immigration and Foreigners Act, 2025. 
+The civil authority or the Registration Officer on the military officer in command, in 
+case of a cantonment, may direct any foreigner to remove himself from the 
+prohibited area/cantonment within such time as specified in such order.
+---
+Registration Authorities and their Jurisdiction: 
+The Foreigners Regional Registration Office (FRRO) works under the Bureau of 
+Immigration, MHA. Besides overseeing immigration functions, the office looks after 
+various registration and visa related services for foreign nationals within its 
+jurisdiction.
+
+Across the country, there are fifteen FRRO offices. Their details are as under:
+---
+S. No. FRRO Office Jurisdiction (States/ UTs) 
+1 Ahmedabad Gujarat, Daman and Diu, Dadra and Nagar Haveli 
+2 Amritsar Punjab, Jammu & Kashmir 
+3 Bangalore Karnataka 
+4 Calicut Kerala (Kannur, Kasaragod, Kozhikode, Malappuram & 
+Wayanad) 
+5 Chandigarh Chandigarh and Haryana. 
+6 Chennai Tamil Nadu, Puducherry and Andaman & Nicobar Islands 
+7 Cochin Kerala (Alappuzha, Ernakulam, Idukki, Kottayam, Palakkad & 
+Thrissur) and Lakshadweep 
+8 Delhi Delhi, Himachal Pradesh, Uttarakhand, Gautam Buddha Nagar (Uttar 
+Pradesh), Ghaziabad (Uttar Pradesh). 
+9 Guwahati Assam 
+10 Hyderabad Andhra Pradesh, Telangana and Orissa 
+11 Jaipur Rajasthan 
+12 Kolkata Arunachal Pradesh, Bihar, Jharkhand, Manipur, Meghalaya, 
+Mizoram, Nagaland, Sikkim, Tripura and West Bengal 
+13 Lucknow Uttar Pradesh (except Gautam Buddha Nagar & Ghaziabad) 
+14 Mumbai Maharashtra, Goa, Chhattisgarh and Madhya Pradesh 
+15 Trivandrum Kerala (Kollam, Pathanamthitta & Thiruvananthapuram)
+---
+Registration Requirements 
+Foreign Nationals visiting India are required to register with the Foreigner’s Regional 
+Registration Office (FRRO) or the Foreigner’s Registration Office (FRO) as per their 
+visa category and endorsement. Details are as under:
+
+Foreign nationals entering India on a Student, Employment, Medical or Missionary 
+visa where the visa is valid for more than 180 days, should register with the 
+jurisdictional FRRO/FRO within 14 days of their arrival in India. 
+Business visa holders should register with the jurisdictional FRRO/FRO if their 
+aggregate stay in India within the calendar year (Jan to Dec) exceeds 180 days or 
+their continuous stay in India exceeds 180 days. 
+Foreign Nationals entering India on any type of visa (except on Official/ Diplomatic 
+passport) will be required to register, if their aggregate stay in a calendar year or 
+continuous stay on each entry exceeds 180 days. 
+Pakistani nationals are required to register with their local FRO within 24 hours of 
+their arrival in India. 
+Note:
+---
+Children below 12 years of age do not require to register with the FRO/FRRO. 
+OCI cardholders are exempt from the requirement of registration. 
+Citizens of Nepal and Bhutan are exempt from the requirement of visa and 
+registration. 
+All specific conditions and stipulations endorsed in the visa shall be adhered to at all 
+times. 
+Non-compliance with registration rules shall result in legal consequences.
+
+Special Categories 
+Pakistan: Every Pakistan national who enter India must register within 24 hours of 
+arrival. This condition is exempted for those individuals who have ‘Exemption from 
+police reporting’ endorsed on their visas. Also, Pakistan nationals on Medical visa 
+should register within 7 days of arrival in India. 
+Afghanistan: Afghanistan nationals requesting for 'Stay Visa/ Residential Permit' 
+shall apply online on https://indianfrro.gov.in. 
+Bangladesh: Bangladesh nationals arriving in India on valid visas, and wishing to 
+stay in India for a continuous period exceeding six months, will be required to 
+register themselves with the respective FRRO/ FRO and obtain a residential permit 
+within 14 days of their arrival. 
+Note:
+---
+Certain categories of Afghanistan/ Bangladesh/ Pakistan nationals staying in India 
+are eligible for grant of Long Term Visas (LTV). 
+Detailed instructions on grant/ extension of LTV facilities are available on 
+https://www.mha.gov.in/PDF_Other/AnnexVI_01022018.pdf. 
+These conditions are subject to change from time to time and the latest guidelines 
+shall apply.
+
+Visa Extension or Visa Conversion 
+Foreign Nationals who are unable to leave/ exit India within the validity of their visa 
+due to justifiable reasons, should apply for the appropriate visa service on 
+https://indianfrro.gov.in.
+
+Such visa services are available only to foreign nationals who are present in India. 
+This request/ application should be made within the validity of their current visa, 
+allowing reasonable time for processing. 
+If the extension/ conversion of the visa/ permission to continue their stay is not 
+granted within the validity of their current visa, they must depart from India. Failure to 
+depart will be considered a willful illegal overstay and will be treated in accordance 
+with the law.
+---
+Exit Permit 
+Loss of Passport: If a Foreign national loses his/her travel document (passport), 
+he/she should promptly report the loss to the nearest police station and the 
+jurisdictional FRRO/FRO. He/she should then approach the respective embassy or 
+mission in India and apply for a new travel document. Upon obtaining the new 
+document, he/she should apply for the necessary visa service on 
+https://indianfrro.gov.in. 
+Adoptions: 
+Foreign nationals adopting an Indian child under CARA guidelines must obtain exit 
+permits: 
+If the adopted child retains Indian nationality, then both parents need to take exit 
+permits to travel out of India. 
+If the adopted child has acquired the nationality of the country to which either of the 
+adoptive parent belongs, then both parents and the adopted child need to take exit 
+permits to travel out of India. 
+Even if the parents are OCI card holders, the above mentioned conditions shall 
+apply. 
+Foreign Nationals, except OCI card holders, are not permitted to commission 
+surrogacy in India. 
+Overstaying / Violation of Visa Conditions: Foreigners who are overstaying in India or 
+who have violated their visa conditions require Exit Permit to depart from India.
+---
+Police Clearance Certificate 
+A Foreign National staying in India, or who has previously stayed in India and wishes 
+to apply for a Police Clearance Certificate (PCC) can do so by applying on 
+www.indianfrro.gov.in/frro.
+
+Note: Foreign nationals who are abroad and seeking an Indian PCC, may approach 
+the Indian Mission/ Post in their respective country for obtaining a PCC.
+
+Child born in India 
+Children born to foreigners in India (where either or both parents are foreigner), the 
+foreigners concerned shall intimate electronically (via email), the birth of the child to 
+the Jurisdictional Registration Officer/ FRRO within thirty days of the birth for availing 
+visa services including grant of new visa and exit permission. 
+Foreign Nationals, except OCI card holders, are not permitted to commission 
+surrogacy in India. 
+Every hospital, nursing home or any other medical institution shall furnish information 
+in respect of any children born to foreigners (either or both the parents are foreigner) 
+in their place within seven days of the occurrence of the birth, electronically (via 
+email) to the Jurisdictional Registration Officer/ FRRO.
+---
+Child born in India 
+Children born to foreigners in India (where either or both parents are foreigner), the 
+foreigners concerned shall intimate electronically (via email), the birth of the child to 
+the Jurisdictional Registration Officer/ FRRO within thirty days of the birth for availing 
+visa services including grant of new visa and exit permission. 
+Foreign Nationals, except OCI card holders, are not permitted to commission 
+surrogacy in India. 
+Every hospital, nursing home or any other medical institution shall furnish information 
+in respect of any children born to foreigners (either or both the parents are foreigner) 
+in their place within seven days of the occurrence of the birth, electronically (via 
+email) to the Jurisdictional Registration Officer/ FRRO.
+
+Change of Passport 
+In case a registered Foreign National renews his/ her passport while staying in India, 
+he/ she shall apply for “Change of Passport “service within 14 days to the 
+jurisdictional FRRO/ FRO at https://indianfrro.gov.in
+---
+Change of Address 
+In case of change of residential address, a Foreign National who is registered with 
+the concerned FRRO/ FRO shall submit an application for change of address at 
+https://indianfrro.gov.in.
+
+In case the new address comes under the jurisdiction of different FRRO/FRO, 
+he/she shall apply for ‘Transfer RC/RP’ service on the link above.
+
+Change of Academic Course 
+In case a foreign national on student visa needs a change in the course being 
+undertaken by him/ her, he/ she should obtain a ‘Change of Course’ service from the 
+jurisdictional FRRO/ FRO on https://indianfrro.gov.in within 14 days of changing the 
+course.
+
+Medical Exigency 
+Any foreigner (including Pakistani national) suffering from any minor medical 
+condition which needs only OPD consultation can take treatment at any hospital on 
+his/ her primary Visa.
+
+A Pakistan national availing indoor medical treatment shall convert his/her primary 
+visa to a medical visa.
+
+Other Foreign Nationals shall apply for visa conversion to Medical visa if:
+---
+The medical treatment exceeds the stay stipulation of their primary visa; and/ or 
+The treatment of the disease requires an organ transplant. 
+Note: Visa conversion is subject to fulfillment of terms and conditions laid down by 
+Ministry of Home Affairs.
+
+Acquisition of Foreign Nationality by an Indian National: 
+India does not recognize the concept of dual nationality. Any Indian national who 
+obtains a foreign citizenship ceases to be an Indian national from the day of 
+acquisition of the new nationality.
+
+Holding an Indian Passport/ acquiring an Indian Passport/ travelling on Indian 
+Passport (excluding the grace period of 3 months after the acquisition of the foreign 
+nationality) after acquisition of foreign citizenship (i.e. Naturalization certificate) 
+constitutes an offence under the Indian Passport Act 1967 and attracts penalties.
+
+Case 1: Indian national staying in India acquires a foreign nationality:
+---
+Obtain the passport of the new nationality. 
+Surrender the Indian passport, Indian Voter ID, Indian Ration card, and all other 
+relevant Indian nationality documents. 
+Apply for visa services on https://indianfrro.gov.in/ within 30 days of acquisition of 
+foreign nationality. 
+Case 2: Indian national staying abroad acquires foreign citizenship but enters India 
+on an Indian Passport:
+
+Surrender the Indian passport, Indian Voter ID, Indian Ration card, and all other 
+relevant Indian nationality documents. 
+Apply for visa services on https://indianfrro.gov.in/ within 30 days of arrival in India.
+
+UNHCR Card holder: 
+India is not a signatory to the 1951 United Nations Convention on the Status of 
+Refugees and the 1967 Protocol thereof.
+
+A foreign national who holds UNHCR card for Refugees/ Stateless may apply for 
+appropriate visa service at https://indianfrro.gov.in. Applications will be evaluated by 
+the jurisdictional FRRO.
+---
+Tibetan Origin person: 
+Tibetans who entered India before 30.05.2003 are eligible for a 'Long Term Stay' 
+status and can obtain Registration Certificates from FRROs/FROs. 
+Tibetan nationals who arrived under Special Entry Permit (SEP) scheme after 
+30.05.2003 must register within 14 days, regardless of their visit's purpose or SEP 
+validity. 
+Tibetan migrants intending to visit abroad shall travel only on the strength of the 
+Certificate of Identity and Return Visa which may be issued by FRRO/ FRO. If the 
+intended visit abroad requires absence from India for a period of more than 15 days, 
+such Tibetan migrants would be required to take exit permission from the concerned 
+FRRO /FRO. 
+Tibetans born in India to Tibetan Refugee couples and issued birth certificate by 
+Tibetan Welfare Officer/ Tibetan Settlement Officer may be issued registration 
+certificate on the basis of such certificate issued till January 01, 2003 clearly 
+indicating on RCs that such birth certificates have been accepted specifically for the 
+purpose of registration only. 
+After January 01, 2003, birth certificate issued by the competent authority under the 
+Registration of Births and Deaths Act 1969 would be acceptable for the purpose of 
+registration only.
+---
+Sri Lankan/ Tamil Origin 
+The refugee policy criteria for Sri Lankan refugees who arrive under unusual 
+circumstances and are identified or registered as refugees by the Government of 
+Tamil Nadu shall be recognized as refugee and are subject to the following 
+guidelines:
+---
+Registered Refugees in Designated Camps: Sri Lankan Nationals residing in 
+designated refugee camps and holding Government of Tamil Nadu issued ‘Sri 
+Lankan Refugee cards’, must adhere to the existing regulations of the camps and 
+follow instructions updated through governmental orders from time to time. 
+Special Registries: Sri Lankan Refugees with Special Registration Certificates (under 
+a scheme introduced by Government of India, 1999) issued by the concerned 
+FRRO/FRO and who are permitted to stay outside of the designated Refugee 
+campuses shall register their details with the jurisdictional FRRO/ FRO and renew 
+their stay every six months. 
+Voluntary Return: Sri Lankan Refugees who arrived in India with valid travel 
+documents and valid visas before January 9, 2015, and who choose to voluntarily 
+return to their home country, are eligible for a waiver program. This program includes 
+a waiver for penalties for overstaying. 
+These rules and regulations may be updated from time to time and the latest 
+guidelines regarding the same shall apply.
+
+Form III 
+Form III (earlier known as Form-C)
+---
+(1) Every keeper of accommodation shall require every foreigner, including an 
+Overseas Citizen of India Cardholder, seeking accommodation in his premises to 
+furnish the necessary particulars for recording, and sign, on his arrival at the 
+accommodation, and at the time of his departure, the
+
+date and time of his departure and the address to which he is proceeding, which 
+shall be maintained by the keeper of accommodation electronically for a period of at 
+least one year.
+
+(2) The particulars referred to in point 1 shall at all times be available for inspection, 
+on demand by Registration Officer, District Magistrate or police officer not below the 
+rank of a Head Constable.
+
+(3) All particulars shall be recorded by the keeper of the accommodation in English 
+language, if he is so able, or otherwise, in an Indian language.
+
+(4) If the foreigner does not understand English language, it shall be the duty of the 
+keeper of the
+
+accommodation, if so requested, to explain to the foreigner, the requirements of this 
+rule.
+---
+(5) The keeper of the accommodation shall, as soon as may be but not beyond 
+twenty-four hours, after the arrival of a foreigner, transmit a copy of duly filled in 
+Form III, specifying the particulars furnished by the foreigner, electronically to the 
+Registration Officer through the designated online portal or the mobile application 
+mentioned below.
+
+(6) The departure details shall also be transmitted as soon as may be but not 
+beyond twenty-four hours, after departure of the foreigner, electronically to the 
+Registration Officer through the designated online portal or the mobile application 
+mentioned below
+
+(a) “accommodation” shall include any boarding house, club, dak-bungalow, rest 
+house, hostel, paying guest house, sarai, rented accommodation, home stay, tents, 
+hospital or other premises of like nature, premises of religious institutions, charitable 
+trusts, any other trusts, public organisations or any other organizations or entity of 
+social or religious or of public nature, furnished or unfurnished; and
+---
+(b) “sign” includes in respect of a foreigner who is unable to write, the marking of a 
+thumb impression or other mark by means of which he is accustomed to attest a 
+document.
+
+Manner of report by hospital, nursing home or any medical institution:
+
+(1) Every hospital, nursing home or any other medical institution providing medical, 
+lodging or sleeping facility in their premises shall require every foreigner, including 
+an Overseas Citizen of India Cardholder, to furnish the necessary particulars for 
+recording, and sign, on his arrival at such hospital, nursing home or any other 
+medical institution, and at the time of his departure, to furnish the date and time of 
+his departure and the address to which he is proceeding, which shall be maintained 
+by the hospital, nursing home or any other medical institution electronically for a 
+period of one year.
+
+(2) The particulars referred to in point 1 shall at all times be available for inspection, 
+on demand by Registration Officer, District Magistrate or police officer not below the 
+rank of a Head Constable.
+---
+(3) All particulars shall be recorded by the person in charge of hospital, nursing 
+home or any other medical institution in English language, if he is so able, or 
+otherwise, in an Indian language.
+
+(4) If the foreigner does not understand English language, it shall be the duty of the 
+person in charge of hospital, nursing home or any other medical institution, if so 
+requested, to explain to the foreigner, the requirements of this rule.
+
+(5) The person in charge of hospital, nursing home or any other medical institution 
+shall, as soon as may be but not beyond twenty-four hours, after the arrival of a 
+foreigner, transmit a copy of duly filled in Form III, specifying the particulars furnished 
+by the foreigner, electronically to the Registration Officer through the designated 
+online portal or the mobile application as mentioned below.
+
+(6) The departure details shall also be transmitted as soon as may be but beyond 
+twenty-four hours, after departure of the foreigner, electronically to the Registration 
+Officer through the designated online portal or the mobile application as mentioned 
+below.
+---
+(7) Every hospital, nursing home or any other medical institution shall furnish 
+information in respect of any children born to foreigners (either or both the parents 
+are foreigner) or death of any foreigner in their place within seven days of the 
+occurrence of the birth or death, as the case may be, electronically to the 
+Registration Officer in the designated online portal or the mobile application as 
+mentioned below.
+
+The link below will guide you to a Step-by-Step guide for filling Form-III:
+
+https://indianfrro.gov.in/frro/FormC (Click here to register for Form-III)
+
+Form-II 
+Form-II (earlier known as Form-A)
+
+Every University and Educational Institution including school or any other institution, 
+admitting any foreigner, including an Overseas Citizen of India Cardholder, shall 
+furnish to the Registration Officer electronically, the information in respect of foreign 
+students enrolled in their institution in Form II through the designated online portal or 
+the mobile application as mentioned below, within 24 hours from the time of 
+admission and this shall be in addition to the Form III to be submitted in respect 
+students provided with accommodation in a hostel.
+---
+Form-II can be submitted to the jurisdictional FRRO/FRO at 
+https://indianfrro.gov.in/sform/.
+
+Penalties 
+Overstay, non-registration, engaging in activities not in commensuration with the 
+Visa granted, non-filing of requisite forms, and contravening any of the provisions or 
+orders made under Immigration and Foreigners Act, 2025 are subjected to 
+penal/legal action as mentioned.Overstay, non-registration, engaging in activities not 
+in commensuration with the Visa granted, non-filing of requisite forms, and 
+contravening any of the provisions or orders made under Immigration and Foreigners 
+Act, 2025 are subjected to penal/legal action as mentioned. 
+As per various sections under Immigration and Foreigners Act, 2025, foreigners as 
+well as Indian stake holders like carriers, hoteliers, educational institutions or 
+hospitals where foreigner associate with, are liable for legal action, penalties ranging 
+from 10000 to 3 lakhs for each offence, as well as imprisonment, if found violating 
+any of the provisions of said act. 
+Violating the Indian visa norms is likely to affect the chances of obtaining entry into 
+India and/ or Indian Visas in the future.
+---
+Foreigners Regional Registration Offices (FRROs) — Contact Directory
+
+The Bureau of Immigration, Ministry of Home Affairs, Government of India, has established 
+Foreigners Regional Registration Offices (FRROs) at key locations across the country. These 
+offices are responsible for the registration of foreign nationals, issue and extension of visas, 
+processing of Overseas Citizen of India (OCI) and Person of Indian Origin (PIO) card 
+applications, and other immigration-related services. The contact details of all functional 
+FRRO offices are listed below:
+
+1. FRRO Ahmedabad 
+Officer-in-Charge: Smt. Sweta Shrimali, IPS 
+Office Address: 235, Ground Floor, HUDCO Bhawan, Iswar Bhuvan Road, Navrangpura, 
+Ahmedabad, Gujarat. 
+Telephone: 079-26306606; Fax: 079-26306607 
+Email: frroamd[at]nic[dot]in; For Enquiry: afrro-boi[dot]ahd[at]nic[dot]in
+
+2. FRRO Amritsar 
+Officer-in-Charge: Sh. Manjeet Singh 
+Office Address: 208, Near Govind Park, Basant Avenue, Amritsar, Punjab. 
+Telephone: 0183-2560464; Fax: 0183-2500465 
+Email: frroasr[at]nic[dot]in
+---
+3. FRRO Bengaluru 
+Officer-in-Charge: Sh. Santosh Babu K, IPS 
+Office Address: 5th Floor, A Block, TTMC, BMTC Bus Stand Building, K.H. Road, Shantinagar, 
+Bengaluru – 560027. 
+Telephone: 080-22218195; 080-22218183; 080-22218110; Fax: 080-22218196 
+Email: frroblr-ka[at]nic[dot]in; For OCI/PIO Enquiries: ad-frroblr[at]mha[dot]gov[dot]in
+
+4. FRRO Calicut (Kozhikode) 
+Officer-in-Charge: Sh. Krishnaraj, IPS 
+Office Address: 6th Floor, Nikarthil Chambers, Opposite Sarvaram Bio Park, Mini Bypass 
+Road, Arayidathupalam, Kozhikode, Kerala – 673004. 
+Telephone: 0495-2323550; 0495-2320650 
+Email: frro-clt[at]nic[dot]in; frrocal[at]nic[dot]in
+
+5. FRRO Chandigarh 
+Officer-in-Charge: Dr. Deepak Siwach, IPS 
+Office Address: First Floor, BSNL Telephone Exchange, Sector 37D, Chandigarh – 160036. 
+Telephone: 0172-2991498; 0172-2993217; 0172-2991495 
+Email: frrochd[dot]support[at]mha[dot]gov[dot]in
+
+6. FRRO Chennai 
+Officer-in-Charge: Sh. P. VE Arunshakthikumar, IPS 
+Office Address: Shastri Bhawan Annexe, Building No. 26, Haddows Road, Nungambakkam, 
+Chennai – 600006. 
+Telephone: 044-28251721; Fax: 044-23454971; OCI Queries: 044-29510706 
+Email: chiochn[at]nic[dot]in; frrochn[at]nic[dot]in
+---
+7. FRRO Kochi (Cochin) 
+Officer-in-Charge: Sh. Krishnaraj, IPS 
+Office Address: 2nd Floor, Airlines Offices Building, Cochin International Airport Ltd., Airport 
+P.O., Kochi – 683111. 
+Telephone: 0484-2611654; Fax/Support Centre: 0484-2611652 
+Email: frrococ[at]nic[dot]in; Help Desk: frrococ-helpdesk[at]mha[dot]gov[dot]in; OCI Desk: 
+oci[dot]frrococ[at]gov[dot]in
+
+8. FRRO Delhi 
+Officer-in-Charge: Sh. Deepak Yadav, IPS 
+Office Address: Level 2, East Block VIII, Sector 1, R.K. Puram, New Delhi – 110066. 
+Telephone: 011-26711384; Fax: 011-26711348; Support Centre: 011-26711443, 011-
+26713851; OCI Enquiry: 011-26184824, 011-26194311 
+Email: frrodli[at]nic[dot]in; Support Centre: frrodli[dot]support[at]nic[dot]in
+
+9. FRRO Guwahati 
+Officer-in-Charge: Sh. Inom Saikia 
+Office Address: LGBI Airport, Borjhar, Guwahati – 781015. 
+Telephone: 0361-2841466 
+Email: chioghy-asm[at]nic[dot]in
+
+10. FRRO Hyderabad 
+Officer-in-Charge: Sh. Venkata Appala Naidu Chintan, IPS 
+Office Address: Sardar Vallabhbhai Patel BoI OCR Complex, Shamshabad–Pahadishareef 
+Road, Near GMR Township, Mamidipally, Shamshabad, Telangana – 501218. 
+Telephone: 040-29880374; 040-29880375 
+Email: frrohyd[at]nic[dot]in
+---
+11. FRRO Jaipur 
+Officer-in-Charge: Sh. Ramesh Yadav, IPS 
+Office Address: Plot No. 01, Jhalana Doongri, Opposite Aranya Bhawan, Jaipur – 302004. 
+Telephone: 0141-2950422; 0141-2950423 
+Email: frro[dot]jaipur[at]gov[dot]in
+
+12. FRRO Kolkata 
+Officer-in-Charge: Ms. Nidhi Rani, IPS 
+Office Address: 237, A.J.C. Bose Road, Kolkata. 
+Telephone: 033-22900549 
+Email: frrokol[at]nic[dot]in
+
+13. FRRO Lucknow 
+Officer-in-Charge: Shri Harsh Singh, IPS 
+Office Address: FRRO, 12th Floor, Hall No. 1, Kendriya Bhawan, Sector-H, Aliganj, Lucknow. 
+Telephone: 0522-2432431; Fax: 0522-2432430; Registration & Visa Services: 0522-2987897 
+Email: frrolko[at]nic[dot]in
+
+14. FRRO Mumbai 
+Officer-in-Charge: Ms. Niyati Thaker Dave, IPS 
+Office Address: Annex-II Building, 3rd Floor, Badruddin Tayyabji Marg, Behind St. Xavier 
+College, C.S.T., Mumbai – 400001. (Landmark: near C.S.T. Railway Station, in the lane beside 
+the Times of India Building.) 
+Telephone: 022-22621169; Fax: 022-22620721; Registration & Visa Enquiries: 022-
+22620446; PIO/OCI Enquiries: 022-22621167 
+Email: frromum[at]nic[dot]in
+---
+15. FRRO Thiruvananthapuram (Trivandrum) 
+Officer-in-Charge: Sh. Aravind Menon, IPS 
+Office Address: T.C. 30/1398-3, First Floor, Amrith Plaza, Nalumukku, P.O. Pettah, 
+Thiruvananthapuram – 695022. 
+Telephone: 0471-2573512; Fax: 0471-2573514 
+Email: frrotvm[at]nic[dot]in
+
+TRAVELLING ABROAD 
+General Information 
+1. The Citizens of India are required to obtain Immigration clearance both at the 
+time of arrival as well as departure to/from India. 
+2. Indian Citizens are required to carry Valid Indian Passport, Valid Visa of the 
+Destination Country and other clearances (if required) at the time of 
+departure. 
+3. Passports of those Indian Citizens using e-Gates for their departure/ arrival to/ 
+from India would not be stamped by Immigration. They may check their travel 
+details from their Fast Track Immigration profile on FTI-TTP Website
+
+Protector of Emigrants (POE) Offices in India
+---
+The Ministry of External Affairs, Government of India, has established Protector of 
+Emigrants (POE) offices across the country to facilitate and regulate the emigration 
+of Indian workers seeking employment abroad. These offices are responsible for 
+issuing Emigration Clearance to eligible workers and ensuring their welfare. At 
+present, POE offices are situated at the following thirteen locations:
+
+1. Protector of Emigrants, New Delhi 
+Address: ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9 Bhagwandas 
+Road, New Delhi – 110001. 
+Contact: Ph. 011-23382472, 23073908 | Email: poedelhi[at]mea[dot]gov[dot]in 
+Jurisdiction: The Delhi POE office exercises jurisdiction over the National Capital 
+Territory of Delhi, the state of Uttarakhand, and select districts of Uttar Pradesh 
+(Shamli, Muzaffarnagar, Meerut, Baghpat, Ghaziabad, Hapur, Bulandshahr, and 
+Gautam Buddha Nagar). It also covers select districts of Haryana (Karnal, Jind, 
+Panipat, Sonipat, Rohtak, Bhiwani, Charkhi Dadri, Jhajjar, Mahendragarh, Rewari, 
+Nuh, Palwal, Gurgaon, and Faridabad) and select districts of Rajasthan (Alwar and 
+Bharatpur).
+---
+2. Protector of Emigrants, Rae Bareli 
+Address: 1st Floor, Rudra Plaza, Hospital Road, Rae Bareli, Uttar Pradesh. 
+Contact: Ph. 0535-2211122/21 | Email: poerbl[at]mea[dot]gov[dot]in 
+Jurisdiction: This office has jurisdiction over the remaining districts of the state of 
+Uttar Pradesh not covered under the Delhi POE office.
+
+3. Protector of Emigrants, Jaipur 
+Address: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tank 
+Road, Jaipur, Rajasthan. 
+Contact: Ph. 0141-2771528/29 | Email: poejaipur[at]mea[dot]gov[dot]in 
+Jurisdiction: This office has jurisdiction over the state of Rajasthan, excluding those 
+districts that fall under the Delhi POE office.
+
+4. Protector of Emigrants, Chandigarh 
+Address: 5th Block, Ground Floor, Room No. 27, Kendriya Sadan, Sector-9A, 
+Chandigarh – 160017. 
+Contact: Ph. 0172-2741790 | Email: poechd[at]mea[dot]gov[dot]in 
+Jurisdiction: This office covers the states of Punjab and Himachal Pradesh, the 
+Union Territory of Chandigarh, those districts of Haryana not falling under the Delhi 
+POE office, and the Union Territory of Jammu & Kashmir.
+---
+5. Protector of Emigrants, Mumbai 
+Address: 4th Floor, "Videsh Bhavan", Bandra Kurla Complex, Plot No. C-45, G 
+Block, Bandra (East), Mumbai – 400051. 
+Contact: Ph. 022-26520023/26520024 | Email: poemumbai[at]mea[dot]gov[dot]in 
+Jurisdiction: This office has jurisdiction over the states of Gujarat, Maharashtra, 
+and Madhya Pradesh, as well as the Union Territories of Dadra & Nagar Haveli and 
+Daman & Diu.
+
+6. Protector of Emigrants, Kolkata 
+Address: Room No. 18, A-Wing, MSO Building, 3rd Floor, DF Block, Salt Lake, 
+CGO Complex, Kolkata – 700084. 
+Contact: Ph. 033-23343407 | Email: poekol[at]mea[dot]gov[dot]in 
+Jurisdiction: This office covers the states of West Bengal, Odisha, Chhattisgarh, 
+and Sikkim, along with the Union Territory of Andaman & Nicobar Islands.
+
+7. Protector of Emigrants, Hyderabad 
+Address: Regional Passport Office Building, 2nd Floor, 73, Red Cross Road, Shivaji 
+Nagar, Secunderabad – 500003. 
+Contact: Ph. 040-27772557, 040-29556804 | Email: poehyd[at]mea[dot]gov[dot]in 
+Jurisdiction: This office has jurisdiction over the states of Andhra Pradesh and 
+Telangana.
+---
+8. Protector of Emigrants, Chennai 
+Address: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai – 600078. 
+Contact: Ph. 044-29862069 | Email: poechennai1[at]mea[dot]gov[dot]in 
+Jurisdiction: This office covers the state of Tamil Nadu and the Union Territory of 
+Puducherry (Pondicherry).
+
+9. Protector of Emigrants, Thiruvananthapuram 
+Address: 5th Floor, NORKA Centre, Thycaud P.O., Thiruvananthapuram – 695014, 
+Kerala. 
+Contact: Ph. 0471-2336625/26 | Email: poetvm2[at]mea[dot]gov[dot]in 
+Jurisdiction: This office has jurisdiction over the following six districts of Kerala: 
+Thiruvananthapuram, Kollam, Pathanamthitta, Kottayam, Idukki, and Alappuzha.
+
+10. Protector of Emigrants, Kochi (Cochin) 
+Address: Ground Floor, RPO Building, Panampilly Nagar, Kochi, Kerala. 
+Contact: Ph. 0484-2360187/2372040 | Email: poecochin[at]mea[dot]gov[dot]in 
+Jurisdiction: This office covers the remaining eight districts of Kerala — Ernakulam, 
+Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasaragod — 
+along with the Union Territory of Lakshadweep.
+---
+11. Protector of Emigrants, Patna 
+Address: 5th Floor, A Block, Niyojan Bhawan, Bailey Road, Patna – 800001. 
+Contact: Email: poepatna[at]mea[dot]gov[dot]in 
+Jurisdiction: This office has jurisdiction over the states of Bihar and Jharkhand.
+
+12. Protector of Emigrants, Bengaluru 
+Address: RPO Building, 8th Block, 80 Feet Road, KHB Games Village, 
+Koramangala, Bengaluru – 560095. 
+Contact: Email: poebengaluru[at]mea[dot]gov[dot]in 
+Jurisdiction: This office covers the state of Karnataka and the state of Goa.
+
+13. Protector of Emigrants, Guwahati 
+Address: RPO Building, Rani Bagan, Basistha Road, 3rd Bylane, Guwahati, Assam 
+– 781028. 
+Contact: Ph. 8287020033 | Email: poeguwahati[at]mea[dot]gov[dot]in 
+Jurisdiction: This office has jurisdiction over the entire North-Eastern region of 
+India, comprising the states of Assam, Arunachal Pradesh, Meghalaya, Mizoram, 
+Manipur, Nagaland, and Tripura.
+---
+Countries requiring POE Clearance 
+As per the Emigration Act, 1983, Emigration Check Required (ECR) categories of 
+Indian passport holders, require to obtain "Emigration Clearance" from the office of 
+Protector of Emigrants (POE), Ministry of Overseas Indian Affairs for going to 
+following 18 countries.
+
+United Arab Emirates (UAE), The Kingdom of Saudi Arabia (KSA), Qatar, Oman, 
+Kuwait, Bahrain, Malaysia, Libya, Jordan, Yemen, Sudan, Afghanistan, Indonesia, 
+Syria, Lebanon, Thailand, Iraq (emigration banned), Iran.
+
+However , the Ministry of Overseas Indian Affairs (Emigration Policy Division) have 
+allowed ECR passport holders traveling abroad for purposes others than 
+employment to leave the country on production of valid passport, valid visa and 
+return ticket at the immigration counters at international airports in India w.e.f. 1st 
+October 2007.
+
+If the RPO has issued Indian passport either with endorsement of “Emigration Check 
+Required” or no endorsement of “Emigration Check Required” in the passport, POE 
+clearance is required only when there is “Emigration Check Required” endorsement 
+in the passport.
+---
+Note: Seafarers travelling to join a vessel abroad, Nurses travelling to ECR 
+countries, ECR and ECNR passengers travelling to Iraq are also required to obtain 
+POE Clearance.
+
+Seamen and e-Migrate 
+Directorate General of Shipping has launched e-Migrate system for seafarers 
+keeping in view the difficulties faced by lndian seafarers who are recruited and 
+placed on board foreign flag vessels by unlicensed Recruitment & Placement 
+Service (RPS).  
+ As per e-migrate system every lndian seafarer leaving lndian Seaport or Airport for 
+joining ship requires to go through e-migrate system, any seafarer, except those 
+exempted as per the guidelines, who attempts to join or joined ship without e-migrate 
+would not be allowed to join/continue on ship.  
+ For more details kindly visit website of Directorate General of Shipping at 
+https://www.dgshipping.gov.in/index.aspx
+
+Visa Facility for Indian Nationals 
+(Ordinary Passport Holders)
+
+As of the latest available information, Indian nationals holding ordinary passports are 
+granted visa-free, visa-on-arrival, e-Visa, or combined VoA and e-Visa access to a 
+total of 78 countries across the globe. The details of these facilities are as follows:
+---
+1. e-Visa Facility (25 Countries) 
+Indian passport holders are eligible to obtain an electronic visa (e-Visa) prior to travel 
+for the following 25 countries: Argentina, Armenia, Azerbaijan, Bahrain*, Benin, 
+Colombia, Cote D'Ivoire, Djibouti, Georgia, Kazakhstan, Kyrgyzstan Republic, 
+Lesotho, Malaysia, Moldova, New Zealand, Oman, Papua New Guinea, Russian 
+Federation, Singapore, South Korea, Taiwan, Turkey*, Uganda, Uzbekistan, and 
+Zambia.
+
+2. Visa-Free Facility (16 Countries) 
+Indian passport holders may enter the following 16 countries without requiring a visa: 
+Barbados, Bhutan, Dominica, Grenada, Haiti, Hong Kong, Maldives, Mauritius, 
+Montserrat, Nepal, Niue Island, Saint Vincent & the Grenadines, Samoa, Senegal, 
+Serbia, and Trinidad & Tobago.
+---
+3. Visa-on-Arrival (VoA) Facility (26 Countries) 
+Indian passport holders may obtain a visa upon arrival in the following 26 countries: 
+Angola, Bolivia, Cabo Verde, Cameroon Union Republic, Cook Islands, Fiji, Guinea 
+Bissau*, Indonesia, Iran, Jamaica, Jordan, Kiribati, Laos, Madagascar, Mauritania*, 
+Nigeria*, Qatar, Republic of Marshall Islands, Reunion Island*, Rwanda, Seychelles, 
+Somalia*, Tunisia, Tuvalu, Vanuatu, and Zimbabwe.
+
+4. VoA + e-Visa Facility (11 Countries) 
+The following 11 countries offer Indian passport holders both visa-on-arrival and e-
+Visa options, providing flexibility in how the visa is obtained: Kenya, Myanmar, Saint 
+Lucia, Sri Lanka, Suriname, Tajikistan, Tanzania, Thailand, Vietnam, Ethiopia*, and 
+Cambodia. 
+.
+---
+Travel Restricted Countries 
+Government of India imposes travel ban on Indian nationals planning to travel to 
+countries which pose security threats and challenges to lives of Indian nationals. The 
+countries with Travel restrictions are:  
+1. Iraq: As per travel advisory issued on February 18, 2020, Indian nationals 
+should not travel to five provinces of Iraq, namely Nineveh, Salahuddin, 
+Diyala, Anbar and Kirkuk due to security situation. As regards to Indian 
+nationals travelling for employment to areas other than these five provinces, 
+they must register on e-Migrate portal of GOI and inform Embassy of India in 
+Baghdad or Consulate General of India in Erbil prior to travelling to Iraq.  
+2. Yemen: Government of India has imposed travel ban to Yemen for all Indian 
+Passport holders vide MEA Gazette Notification F.NO: VI/401/1/11/2017 
+dated 26/09/2017.  
+3. Libya: Only essential travel is permitted to Libya for all Indian nationals vide 
+MEA OM No: M-415/11/2022 dated 07/08/2024.
+
+For further details, you are requested to kindly visit website of Ministry of External 
+Affairs at www.mea.gov.in
+---
+Entry into Nepal 
+Identity documents required for Indian Citizens travelling to Nepal 
+(a)  A citizen of India entering Nepal by land or air does not require a passport or 
+visa for entry.  
+(b)  A citizen of India, while travelling by air between India and Nepal, is required to 
+be in possession of any of the following identity documents to establish his/ her 
+identity as an Indian citizen:- 
+I. Valid Indian Passport. 
+II. Photo Identity card issued by the Government of India/State Govt./UT 
+Administration in India to their employees or Election ID card issued by the 
+Election Commission of India. 
+III. Emergency certificate issued by the Embassy of India, Kathmandu valid for 
+single journey for travelling back to India. 
+IV. Identity Certificate issued by Embassy of India, Kathmandu valid for single 
+journey for travelling back to India. 
+V. Photo Identity Card issued by the Government of India/ State Government/ 
+Union Territory Administration in India to their employees and dependent 
+family members. 
+VI. Minor children accompanied by Parents (having valid identity documents) may 
+be allowed to travel between India and Nepal, if they are carrying one of the 
+following documents (in original) establishing their identity, age and relation to 
+the accompanying parent.  
+a. Aadhar card  
+b. Birth Certificate 
+c. Photo Identity Certificate issued by School/College 
+d. Ration Card issued by the Government of India
+---
+Entry to Bhutan 
+Indian nationals visiting Bhutan do not require Visa. However, they will be issued an 
+entry permit. ‘Entry Permit’ will be issued by the Department of Immigration in the 
+Pedestrian Terminal at Phuentsholing on the basis of a valid Travel Document. 
+Tourists/ visitors from India are required to carry the following Travel Documents: 
+1. Original Indian Passport (with six months validity) or Original Voter ID card. 
+2. For children below 18 years, Original birth certificate (in English Language) or 
+passport, and must be accompanied by a legal guardian. 
+For more details kindly refer to website of Department of Immigration (Government 
+of Bhutan) www.doi.gov.bt
+---
+FOREIGNERS 
+General Information 
+1. Foreigners are advised to travel only through authorized Immigration Post. 
+Ensure your passports are stamped by Immigration authorities. 
+2. Foreigners require valid passport and visa (including Transit Visa, as 
+applicable) for the destination country unless exempted. 
+3. When is Exit Permit required:  
+a. Those issued with One-Time Travel Documents or Lassiez Passer. 
+b. Those who have overstayed their stay stipulation or Visa validity 
+period. 
+c. For inter-country/other adoptions of a child. 
+d. In case a foreign national who arrived in India with an Indian visa and 
+subsequently gets an OCI card issued from Indian Embassy abroad 
+based on his earlier application, the same OCI card cannot be used for 
+departure from India. He should depart from India either within visa 
+validity or obtain exit permit from jurisdictional FRRO. However, if the 
+OCI card is issued in India from any FRRO, he can continue his stay 
+and depart from India at his choice on the strength of newly issued OCI 
+card. 
+e. For more please visit relevant section on this website under 
+Registration Authority page.
+---
+Travel requirements for Nepal Citizens 
+No Objection Certificate (NOC) mandatory for travelling to Kingdom of Saudi Arabia 
+(KSA), Qatar, Kuwait, UAE, Oman, Bahrain, Iraq, Libya & Lebanon from India. NOC 
+can be obtained from Embassy of Nepal in India. This regulation does not apply to 
+those transiting India.
+---
+Pakistan- Exit via Authorized Exit Points 
+1. A Pakistan national who has a connecting flight to a third country at ICPs like 
+Mumbai, Delhi or Chennai Airports should apply for a transit visa of India. In 
+case a Pakistani national is returning by Air to Pakistan via any of the 
+abovementioned Airports, he/she may obtain a double entry transit visa.  
+2. No visa is required for a Pakistan national directly transiting through an 
+Airport/Seaport in India if his/her stay is only confined to the international 
+transit area in Airport or Seaport. 
+3. Stay during a single entry on Indian transit visa should not exceed 36 hours. 
+Frequently Asked Questions. 
+1. Do I have to report to police or register with Immigration authorities. 
+Ans: Pakistan nationals on a transit visa need not apply for registration. 
+2. Do I need a transit visa if I do not exit the airport? 
+Ans: No, provided your stay is only at designated transit area of the airport. 
+3. Can I enter India through Wagah/Attari land border with a transit visa 
+and take an International flight from Amritsar or Delhi? 
+Ans: No, You cannot. 
+4. Can I avail a transit visa for entering by land border at Wagah/Attari and 
+immediately drive to Amritsar or Delhi airport to board a flight to third 
+country? 
+Ans: No, You cannot.
+---
+STATELESS 
+Tibetan Origin 
+Tibetans Origin persons in India desirous of travelling abroad should possess all the 
+following documents:- 
+1. Valid Certificate of Identity (COI) 
+2. Visa and necessary documentation of the destination country. 
+3. One year multiple entry Return visa issued by jurisdictional FRRO. 
+4. Exit Permit issued by jurisdictional FRRO (only if stay abroad is more than 15 
+days). 
+Tibetans in India should travel only on the strength of “Certificate of Identity” issued 
+to them by Ministry of External Affairs, Govt of India. They require a “Return visa” to 
+be eligible to return to India. In case there is an absence from India for more than 15 
+days, such Tibetans also need to obtain an Exit Permit from the jurisdictional FRRO, 
+which is issued on the recommendation of Central Tibetan Administration (CTA). It 
+may be noted that, if any Tibetan travels from India on any travel document other 
+than the “Certificate of Identity” then they would be ineligible for long term status in 
+India.
+---
+FAQ (Frequently Asked Questions) 
+1. What is an ETA? 
+Ans: ETA is an Electronic Travel Authorization. It allows the bearer 
+access into the issuing country (India). ETA is NOT eVisa. When the 
+bearer of ETA is allowed entry into India by the Immigration Officer, it 
+becomes eVisa. eVisa will be stamped on the Passport of the foreigner 
+at the designated ICPs on production of valid ETA. 
+2. What is the difference between “ETA Expiry date” and “Visa Expiry 
+Date”? 
+Ans: ETA expiry date is the last date allowing bearer access into India. 
+Visa Expiry Date is the last date permitted for the stay of foreigner in 
+India subjected to any stay stipulation applicable. 
+3. What activities can I undertake on my Visa? 
+Ans: You are required to strictly adhere to the purpose of visit declared 
+while submitting the visa application. Kindly refer to terms and 
+conditions of your Visa. 
+4. Do I need to register with FRRO (Foreigners Regional Registration 
+Officer) after arriving in India? 
+Ans: Click here for more details.  
+5. What is the difference between “Visa validity/Visa expiry date” and “Stay 
+stipulation”? 
+Visa validity or Visa expiry date refers to the validity period during which 
+the foreigner can stay in India on the strength of Visa subject to stay 
+stipulations. 
+Stay stipulations are the rules which determine the number of days a 
+foreigner may be permitted to stay in India on the strength of Visa. Stay 
+stipulations are of two kinds 1) Continuous stay in India from the date of 
+last arrival. 2) Total Aggregate stay in India during the calendar year. 
+6. What is the maximum stay allowed on Tourist Visa? 
+Maximum stay by a foreigner in India on an e-Tourist Visa or paper 
+Tourist Visa or both in one calendar year shall be restricted to 180 days. 
+7. What is a calendar year? 
+Ans: Calendar year refers to period from 1st January to 31st December 
+of the current year. 
+8. What is “total aggregate stay in a calendar year” and “continuous 
+stay”? 
+Ans: Total Aggregate stay refers to total period of stay of foreigner in 
+India including multiple visits during the calendar year. 
+Continuous stay refers to period of stay of foreigner in India since his 
+last arrival. 
+9. What is maximum duration of stay in Transit if I am not leaving the 
+airport premises? 
+Ans: Foreigner may be permitted to stay in the designated area of the 
+Airport for the purpose of travelling via connecting flight from India for a 
+period of 24 hours. Transit Visa should be obtained if the waiting period 
+is longer. 
+10. In case I reach the Arrival Immigration Counter few hours after the 
+expiry of my ETA due to flight delays etc., will I be allowed entry into 
+India on the ETA? 
+Ans: It may be considered on case to case basis by the Immigration 
+Authorities. 
+11. In case I reach the Departure Immigration Counter few hours after the 
+expiry of my Visa, will I be allowed to depart from India on that Visa? 
+Ans: It may be considered on case to case basis by the Immigration 
+Authorities. 
+12. Can I undertake Tourism while on visit to India on Business/ 
+Conference/ Medical Visa? 
+Ans: Foreign nationals who are granted a particular type of visa with 
+reference to the purpose of visit shall be required to strictly adhere to 
+the purpose of visit declared while submitting the visa application. 
+However, a foreign national (other than a Pakistani national) coming to 
+India on any type of visa will be allowed to avail activities permitted 
+under Tourist Visa. 
+13. What is the procedure to obtain Political Clearance Letter issued by 
+Ministry of External Affairs, as required for e-Conference Visa? 
+Ans: Kindly contact Ministry of External Affairs (MEA) for details. 
+14. What is the procedure to be followed if child is born in India to parents 
+of foreign nationality? 
+Ans: Click here for details child born in India
+---
+Call Center Scams 
+Indian nationals are being lured by travel agents with false promises of lucrative job 
+opportunities in marketing and administrative roles at major casinos in certain South 
+East Asian countries. These agents offer high salaries and paid accommodation. 
+Recent trends show that upon arrival they are tricked into working for call centres 
+engaged in crypto related scams, fraud investment schemes and are engaged in 
+cyber crime activities in those countries. Hence it is advised to observe due caution 
+regarding this trend. 
+Employment in ECR countries without obtaining POE 
+Indian nationals holding ECR passports travelling to ECR countries on non-work 
+Visas without POE certificate are advised to not take up Employment in ECR 
+countries as they may be subjected to harsh work environment and are vulnerable to 
+exploitation without any legal protection or recourse. Instances of travelling to a third 
+country on tourist visa and further migrating to ECR Countries is observed as a trend 
+to bypass the POE Certificates which results in exploitation of those ECR Passport 
+holders in work environments. 
+Illegal migration to Western Europe 
+Indian nationals are advised not to be lured by travel agents offering opportunity for 
+illegal migration to Western European countries via third country; As They may face 
+exploitation, human trafficking and often seen forced to work in harsh work 
+environments without any legal recourse. Further, they are also open to prosecution 
+from the host country for their illegal entry/stay. Travellers are advised to verify the 
+documents with care.
+---
+Commissioner, Bureau of Immigration  
+Name: Ms. I.B. Rani, IPS 
+Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, 
+New Delhi - 110029 
+Telephone No: 011-26102622 (Telefax) 
+click here to contact your jurisdictional FRRO.
+
+Contact Us 
+Support Centre, Bureau of Immigration 
+e-mail ID: support-boi[at]mha[dot]gov[dot]in (For any queries regarding Immigration, 
+Visa etc) 
+Helpline Number: 011-24300666 
+Working hours: 0930 Hrs. to 1800 Hrs. IST (Indian Time) (Monday to Friday, except 
+public holidays)
+
+Forms  
+1. Annual Salary Certificate format for Visa services 
+2. Monthly Salary Certificate format for Visa services 
+3. Bonafide Certificate format for Visa services  
+4. Medical Certificate format for registration service 
+5. Medical Certificate format for Visa service 
+6. Mutual Consent format for Visa Service/ Exit Permit of minors
+---
+The authentic gateway to the latest travel regulations, visa policies, and immigration services. 
+Established in 1971, the Bureau of Immigration (BoI) operates under the leadership of Commissioner of 
+Immigration. BoI is the primary authority responsible for enforcing the latest rules and regulations 
+governing the entry, stay and exit of foreign nationals in India. Through the network of FRROs and CHIOs, 
+BoI manages immigration facilities across India’s International Check Posts (ICPs). 
+BoI ensures smooth, secure and efficient immigration process for travellers arriving in or departing from 
+India. BoI also oversees registration services and visa- related formalities for foreign nationals residing in 
+India in accordance with relevant Acts, Rules and Regulations. 
+Immigration >> About Us >> Vision & Mission 
+Vision & Mission 
+Vision 
+A professional, effective and efficient Immigration service for facilitating legitimate travellers, 
+while ensuring national security. 
+Mission 
+To enforce Indian laws with integrity and strive to achieve the highest standards in the duties we 
+perform, the professionalism we display and the service we render with the overall objective of 
+facilitating legitimate travelers without compromising national security. 
+Values 
+Our core values are the guiding beacons for all that we do and provide us the benchmark for 
+assessing our performance. 
+• Integrity: To maintain high standards of integrity and professionalism through uniform 
+application of laws and policies. 
+• Courtesy: To treat each member of the public with respect, courtesy and compassion. 
+• Dynamism: To respond positively to the ever-changing socio-politico-economic environment 
+and to realign strategies to meet new challenges. 
+• Excellence: To continuously strive for excellence in whatever we do and seek to create a 
+benchmark for Immigration services worldwide. 
+• Innovation: To encourage new ideas, methods, processes and practices. 
+• Collaboration: To work together with other stakeholders to achieve common goals (Any 
+suitable photo) 
+Immigration >> About Us >> Role of Immigration 
+Role of Immigration 
+1. Control and regulate entry and exit of all persons at our Airports, Seaports, Rail,River and Land 
+Check posts. 
+2. Control and Regulating Stay of Foreigners by ensuring Registration formalities, renewal of visas 
+etc. 
+3. To identify and take legal action against illegal immigrants 
+4. To identify and remove persons who contravenes the immigration Laws and Regulations 
+5. Prevention and detection of human trafficking. 
+6. Prevention and detection of fraudulent documents and Imposters. 
+Immigration >> About Us >> Organization Structure 
+About us 
+Bureau of Immigration (BoI) was set up in 1971. It’s headed by Commissioner of Immigration. FRROs 
+& Chief  Immigration Officers handle Immigration services at the various Immigration Check Posts 
+(ICPs) in India. BoI is responsible for Immigration services at various ICPs along with the Registration 
+formalities and Visa Services of foreigners residing in India in accordance with extant Acts, Rules and 
+Regulations. 
+Altogether, there are 114 Immigration Check Posts (Air/ Sea/Land/Rail/ River) in India, catering to 
+international traffic.  There are 15 FRROs (Foreigners Regional Registration Officer) located at 
+Ahmedabad, Amritsar, Bangalore, Calicut, Chandigarh, Chenna i, Cochin, Delhi, Guwahati, 
+Hyderabad, Jaipur, Kolkata, Lucknow, Mumbai, Trivandrum. Apart from this, there are 24 Chief 
+Immigration Officers functioning in Goa, Jaipur, Gaya, Varanasi, Nagpur, Pune, Indore, Mangalore, 
+Trichy, Coimbatore, Bagdogra, Chandigarh, Haridaspur, Kannur, Dera Baba Nanak, Raxaul, Sonauli, 
+Gede, Munabao, Chitpur,  Guwahati, New Jalpaiguri, Dhamra & Mopa. At remaining places District 
+Superintendent of Police (SPs) are the FROs (Foreigners Registration Officers) to facilitate emergency 
+cases of foreigners. 
+Immigration >> Policy and Law >> Immigration Policies & Process (Acts, Rules & Orders) 
+Acts, Rules, Orders & Notifications regarding Foreigners 
+All foreign nationals in India & all persons travelling from/ to India are governed by the provisions 
+contained in the below mentioned Acts, Rules and Orders made there under. 
+1. The Immigration & Foreigners Act 2025: The Act regulates immigration, entry, and stay of 
+foreigners in India. It also regulates Registration of Foreigners in India, Liability of Carriers, and 
+Obligations of keeper of accommodation and others to furnish particulars. 
+ It repeals the following Acts: (i) The Passport (Entry into India) Act, 1920, (ii) the Registration of 
+Foreigners Act, 1939, (iii) The Foreigners Act 1946, and (iv) The Immigration (Carriers’ Liability) Act, 
+2000.
+---
+2. Immigration & Foreigners Rules 2025: The rules made under Immigration and Foreigners Act 2025, 
+consolidate and modernize the regulations governing entry, stay and exit of foreign nationals in 
+India.
+
+3. Immigration & Foreigners Order 2025: The Order made in exercise of the powers conferred by the 
+Immigration and Foreigners Act, 2025 and in supersession of the Foreigners Order, 1948, the 
+Foreigners (Protected Areas) Order, 1958, the Foreigners (Restricted Areas) Order, 1963 and the 
+Foreigners (Tribunals) Order, 1964. 
+ The Order regulates entry into, stay in, movement within and exit from India. Further, it regulates 
+restriction of certain activities of foreigners, prevention, detention, restricting movements and 
+deportation of Illegal migrants. It also deals with Protected & Restricted Areas, Foreigners 
+Tribunals and Prohibited Places.
+
+4. The Citizenship Act, 1955:  It regulates acquisition and termination of Indian citizenship as well as 
+Overseas Citizens of India.
+
+5. Passports Act, 1967: The Act guides on the issue of passports and travel documents, to regulate 
+the departure of Citizens of India and other persons, and for matters incidental or ancillary 
+thereto.
+---
+Further Acts, Rules and Regulations pertaining to Foreigners may be referred at the website of 
+Foreigners Division, Ministry of Home Affairs ( www.mha.gov.in). 
+Immigration >> Policy and Law >> Immigration Policies & Process (Immigration Fraud) 
+Immigration Fraud 
+Immigration fraud is an offence under the Immigration & Foreigners Act, 2025. We have wide-ranging 
+measures to detect and prevent immigration offences. 
+Immigration fraud includes but not limited to the following offences: 
+• Using a false or altered document to support a visa application, for example Passport, Identity 
+documents etc. 
+• Providing false or misleading information to support a visa application. 
+• Helping someone to come to or stay in India who you know either does not have a Visa or does not 
+have the appropriate Visa. 
+• Helping someone to come to India by deceiving them on the purpose of their stay in India or your 
+reasons for bringing them to India. 
+• Using forged or fraudulently obtained travel documents to depart the country or seek entry. 
+Immigration >> Policy and Law >> Health Regulation 
+Health Regulation 
+• Any person arriving from or Transiting from a Yellow fever endemic area/country by Air/Sea has to 
+be in possession of a valid Yellow Fever Vaccination Certificate as per the prescribed norms laid 
+down by WHO. 
+• Foreigners or Indians (excluding infants below six months) arriving by air or sea without a Yellow 
+Fever Vaccination Certificate will be kept in quarantine for a period up to 6 daysif they have 
+visited or transited from a Yellow Fever endemic area. 
+• There is no health check requirement for leaving India to Yellow Fever endemic countries, however 
+passengers are advised in their own interest to get themselves vaccinated and to be in possession 
+of valid yellow fever vaccination certificates before they leave the country. 
+• Generally Indian Missions issues visas to Foreign nationals applying from Yellow fever endemic 
+countries only after the production of a valid vaccination certificate of Yellow Fever and an 
+endorsement “Valid Yellow Fever Vaccination Certificate Checked” is made on the visa of the 
+foreigner. 
+Notified Yellow Fever Endemic Countries: 
+Africa (30 Countries): 
+Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo, Cote d' 
+Ivoire, Democratic Republic of Congo, Equatorial Guinea, Ethiopia, Gabon, Gambia, Ghana, Guinea, 
+Guinea Bissau,  Kenya, Liberia, Mali, Mauritania,  Niger, Nigeria, Rwanda, Senegal, Sierra Leone, 
+Sudan, South Sudan, Togo, Uganda. 
+South America (13 Countries): 
+Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guyana, Guyana, Suriname, Trinidad (Trinidad 
+only), Venezuela, Panama, Paraguay, Peru. 
+For further details visit ihpoe.mohfw.gov.in 
+Immigration >> Policy and Law >> Identity Information 
+The Immigration and Foreigners Order 2025, regulates the capturing of biometric information as 
+mentioned below: 
+(1) Every foreigner applying for any category of visa, including registration as Overseas Citizen of India 
+Cardholder under section 7A of the Citizenship Act, 1955 (57 of 1955), shall allow his biometric 
+information to be taken by the authority issuing the visa or the authority granting the registration as 
+Overseas Citizen of India Cardholder, as the case may be, before grant of such visa or registration as 
+Overseas Citizen of India cardholder. 
+(2) A person who is identified as a foreigner or considered to be a foreigner while in India shall allow 
+his biometric information to be taken at such time and at such place by: - 
+(a) a specified authority of the State Government or a Union territory Administration; 
+(b) Civil authority; 
+(c) Registration Officer; 
+(d) Immigration Officer; 
+(e) Border Guarding Forces; or 
+(f) Coast Guard, 
+on the designated electronic portal of the Central Government for the purpose. 
+(3) The biometric information shall be taken as per specifications specified by the Central 
+Government from time to time. 
+(4) The biometric information captured shall be valid for ten years from the date of capturing. 
+(5) The foreigners who do not have fingerprints or poor fingerprints shall be exempted and only facial 
+traits or iris shall be captured for them. 
+(6) The foreigner who is having less number of fingers shall give fingerprints of existing fingers only.  
+For more details kindly visit Ministry of Home Affairs website at www.mha.gov.in
+---
+Immigration >> Policy and Law >> Obligation of Carriers 
+Obligation of carrier to provide certain information: 
+(1) The country representative or station manager of an airline departing or embarking from India to an 
+airport outside India, arriving or landing in India from an airport outside India, shall provide the 
+following information to the civil authority or the Immigration Officer, namely: 
+(a) The passenger and crew manifest in Form V; 
+(b) Advance passenger information data of passengers on board and crew, within fifteen minutes of 
+leaving or wheels-off of the aircraft from the port of embarkation outside India, and after closure of 
+boarding or wheels-off the aircraft from the port of embarkation within India, as per International Civil 
+Aviation Organisation Annex-9 (Facilitation) data fields and data format UNEDIFACT-PAXLST including 
+passenger information (Name, Gender, Date of Birth and Nationality) and travel document 
+information of passport and visa (type, number, date of issue and expiry), flight and journey 
+information; 
+(c) Passenger name record data of passengers for arrival in India or for departure from India at T-72 
+hours, at T-24 hours, at T-08 hours and at T-0 hours, where T is the scheduled time of arrival in India or 
+departure from India, as the case may be, as per International Civil Aviation Organisation Annex-9 
+(Facilitation) data fields and data format UNEDIFACT-PNRGOV including passenger information 
+(Name, Gender, Date of Birth and Nationality), travel document information of passport and visa 
+(type, number, date of issue and expiry), travel and payment information, flight and journey 
+information. 
+(2) The country representative or master of a vessel (cargo or cruise or general movement chartered 
+ships) departing or embarking from India to a port or place outside India and arriving or berthing in 
+India from a port or place outside India shall provide the passenger manifest and crew manifest as in 
+Form VI at T-72 hours, where T is the scheduled time of arrival in India or departure from India, as the 
+case may be, to the civil authority or the Immigration Officer. 
+Liability of carrier to furnish information: Every carrier shall, when required, provide information to 
+the District Magistrate or Commissioner of Police or, where there is no Commissioner of Police, 
+Superintendent of Police or the civil authority or the Immigration Officer, of passenger and crew 
+manifest in Form V or Form VI, as the case may be. 
+General Declaration furnished by carrier to Immigration Officer: 
+(1) Every carrier shall submit a general declaration to the Immigration Officer in Form VIII prior to the 
+departure of the flight, vessel or other mode of transport at D-45 minutes, where D is the scheduled 
+departure time. 
+(2) No flight or vessel or other mode of transport shall be permitted by the carrier to depart from a port 
+of place in India until the Immigration Officer has given clearance on such general declaration. 
+Queries/clarifications: Queries on the technical aspects of APIS implementation may be addressed 
+to apisindia[at]nic[dot]in and on the administrative aspects, may be addressed 
+to frrodli[at]nic[at]in.
+---
+Important PDFs regarding APIS :- 
+1. Immigration and Foreigners Rules,2025(967 KB) 
+2. APIS Guidelines to the Carriers (155 KB) 
+3. FAQs (181 KB) 
+4. Time Limit for compliance with APIS(11KB) 
 5. Stabilization of APIS Data (11 kB)
 ---
-Immigration >> Authorized Entry Points LIST OF ICPs Airport
-• Bureau of Immigration Controlled ICPs SL.NO NAME OF THE ICP CONTROLLING AUTHORITY
-1.  Ahmedabad (Gujarat) FRRO Ahmedabad
-2.  Lucknow (Uttar Pradesh) FRRO Lucknow
-3.  Amritsar (Punjab) FRRO Amritsar
-4.  Varanasi (Uttar Pradesh) FRRO Lucknow
-5.  Bagdogra (West Bengal) FRRO Kolkata
-6.  Bangalore (Karnataka) FRRO Bangalore
-7.  Calicut (Kerala) FRRO Calicut
-8.  Chandigarh (Haryana)  FRRO Amritsar
-9.  Chennai (Tamil Nadu) FRRO Chennai
-10.  Cochin (Kerala) FRRO Cochin
-11.  Coimbatore (Tamil Nadu) FRRO Chennai
-12.  Dabolim (Goa) FRRO Mumbai
-13.  Delhi (National Capital Territory of Delhi) FRRO Delhi
-14.  Gaya (Bihar) FRRO Kolkata
-15.  Guwahati (Assam) FRRO Kolkata
-16.  Hyderabad (Telangana) FRRO Hyderabad
-17.  Indore (Madhya Pradesh) FRRO Mumbai
-18.  Jaipur (Rajasthan)  FRRO Delhi
-19.  Kolkata (West Bengal) FRRO Kolkata
-20.  Kannur (Kerala) FRRO Calicut
-21.  Mangalore (Karnataka) FRRO Bangalore
-22.  Mumbai (Maharashtra) FRRO Mumbai
-23.  Manohar International Airport, Mopa (Goa)  FRRO Mumbai
-24.  Nagpur (Maharashtra) FRRO Mumbai
-25.  Pune (Maharashtra) FRRO Mumbai
-26.  Trichy (Tamil Nadu) FRRO Chennai
-27.  Trivandrum (Kerala) FRRO Trivandrum
+Immigration >> Authorized Entry Points 
+LIST OF ICPs 
+Airport 
+• Bureau of Immigration Controlled ICPs 
+SL.NO NAME OF THE ICP CONTROLLING AUTHORITY 
+1.  Ahmedabad (Gujarat) FRRO Ahmedabad 
+2.  Lucknow (Uttar Pradesh) FRRO Lucknow 
+3.  Amritsar (Punjab) FRRO Amritsar 
+4.  Varanasi (Uttar Pradesh) FRRO Lucknow 
+5.  Bagdogra (West Bengal) FRRO Kolkata 
+6.  Bangalore (Karnataka) FRRO Bangalore 
+7.  Calicut (Kerala) FRRO Calicut 
+8.  Chandigarh (Haryana)  FRRO Amritsar 
+9.  Chennai (Tamil Nadu) FRRO Chennai 
+10.  Cochin (Kerala) FRRO Cochin 
+11.  Coimbatore (Tamil Nadu) FRRO Chennai 
+12.  Dabolim (Goa) FRRO Mumbai 
+13.  Delhi (National Capital Territory of Delhi) FRRO Delhi 
+14.  Gaya (Bihar) FRRO Kolkata 
+15.  Guwahati (Assam) FRRO Kolkata 
+16.  Hyderabad (Telangana) FRRO Hyderabad 
+17.  Indore (Madhya Pradesh) FRRO Mumbai 
+18.  Jaipur (Rajasthan)  FRRO Delhi 
+19.  Kolkata (West Bengal) FRRO Kolkata 
+20.  Kannur (Kerala) FRRO Calicut 
+21.  Mangalore (Karnataka) FRRO Bangalore 
+22.  Mumbai (Maharashtra) FRRO Mumbai 
+23.  Manohar International Airport, Mopa (Goa)  FRRO Mumbai 
+24.  Nagpur (Maharashtra) FRRO Mumbai 
+25.  Pune (Maharashtra) FRRO Mumbai 
+26.  Trichy (Tamil Nadu) FRRO Chennai 
+27.  Trivandrum (Kerala) FRRO Trivandrum 
 28.  Raja Bhoj International Airport, Bhopal (Madhya Pradesh)
 ---
-Immigration >> Authorized Entry Points LIST OF ICPs Airport
-• State/UT Government Controlled ICPs SL. NO NAME OF THE ICP CONTROLLING AUTHORITY
-29.  Bhubaneswar (Odisha) FRO/SP Bhubaneswar
-30.  Madurai (Tamil Nadu) FRO/SP Madurai
-31.  Patna (Bihar) FRO/SP Patna
-32.  Port Blair (Andaman & Nicobar Islands) FRO/SP Port Blair
-33.  Srinagar (Jammu & Kashmir) FRO/SP Kashmir
-34.  Surat (Gujarat) FRO/SP Surat
-35.  Tirupati (Andhra Pradesh) FRO/SP Tirupati
-36.  Visakhapatnam (Andhra Pradesh) FRO/SP Visakhapatnam
+Immigration >> Authorized Entry Points 
+LIST OF ICPs 
+Airport 
+• State/UT Government Controlled ICPs 
+SL. NO NAME OF THE ICP CONTROLLING AUTHORITY 
+29.  Bhubaneswar (Odisha) FRO/SP Bhubaneswar 
+30.  Madurai (Tamil Nadu) FRO/SP Madurai 
+31.  Patna (Bihar) FRO/SP Patna 
+32.  Port Blair (Andaman & Nicobar Islands) FRO/SP Port Blair 
+33.  Srinagar (Jammu & Kashmir) FRO/SP Kashmir 
+34.  Surat (Gujarat) FRO/SP Surat 
+35.  Tirupati (Andhra Pradesh) FRO/SP Tirupati 
+36.  Visakhapatnam (Andhra Pradesh) FRO/SP Visakhapatnam 
 37.  Vijayawada (Andhra Pradesh) FRO/SP Vijayawada
 ---
-Immigration >> Authorized Entry Points LIST OF ICPs Seaport
-• Bureau of Immigration Controlled ICPs SL. NO NAME OF THE ICP CONTROLLING AUTHORITY
-1.  Calicut (Kerala) FRRO Calicut
-2.  Chennai (Tamil Nadu) FRRO Chennai
-3.  Cochin (Kerala) FRRO Cochin
-4.  Dhamra (Odisha) FRRO Hyderabad
-5.  Kolkata (West Bengal) FRRO Kolkata
-6.  Mormugao Harbour (Goa) FRRO Mumbai
-7.  Mumbai (Maharashtra) FRRO Mumbai
-8.  New Mangalore (Karnataka) FRRO Bangalore 9. Nhava Sheva / Jawaharlal Nehru Port (Maharashtra) FRRO Mumbai
-10.  Vallarpadam (Kerala) FRRO Cochin
-11.  Kovalam-Vizhinjam (Kerala) FRRO Trivandrum
-12.  Kollam (Kerala) FRRO Trivandrum
-13.  Vizhinjam International Seaport (Kerala). FRRO Trivandrum
-14.  Kandla (Gujarat) FRRO Ahmedabad.
-15.  Kattupalli (Tamil Nadu) FRRO Chennai.
-16.  Mundra (Gujarat) FRRO Ahmedabad.
-17.  Karimganj (Assam)
-18.  Pandu (Assam)
-19.  Dhubri (Assam)
-20.  Kamarajar (Tamil Nadu)
+Immigration >> Authorized Entry Points 
+LIST OF ICPs 
+Seaport 
+• Bureau of Immigration Controlled ICPs 
+SL. 
+NO 
+NAME OF THE ICP  
+CONTROLLING 
+AUTHORITY 
+1.  Calicut (Kerala) FRRO Calicut 
+2.  Chennai (Tamil Nadu) FRRO Chennai 
+3.  Cochin (Kerala) FRRO Cochin 
+4.  Dhamra (Odisha) FRRO Hyderabad 
+5.  Kolkata (West Bengal) FRRO Kolkata 
+6.  Mormugao Harbour (Goa) FRRO Mumbai 
+7.  Mumbai (Maharashtra) FRRO Mumbai 
+8.  New Mangalore (Karnataka) FRRO Bangalore 
+9.  
+Nhava Sheva / Jawaharlal Nehru Port 
+(Maharashtra) 
+FRRO Mumbai 
+10.  Vallarpadam (Kerala) FRRO Cochin 
+11.  Kovalam-Vizhinjam (Kerala) FRRO Trivandrum 
+12.  Kollam (Kerala) FRRO Trivandrum 
+13.  Vizhinjam International Seaport (Kerala). FRRO Trivandrum 
+14.  Kandla (Gujarat) FRRO Ahmedabad. 
+15.  Kattupalli (Tamil Nadu) FRRO Chennai. 
+16.  Mundra (Gujarat) FRRO Ahmedabad. 
+17.  Karimganj (Assam)  
+18.  Pandu (Assam)  
+19.  Dhubri (Assam)  
+20.  Kamarajar (Tamil Nadu)  
 21.  Silghat (Assam)
 ---
-Immigration >> Authorized Entry Points LIST OF ICPs Seaport
-• State/UT Government Controlled ICPs SL. NO NAME OF THE ICP CONTROLLING AUTHORITY
-22.  Alang (Gujarat) FRO/SP Bhavnagar
-23.  Agati and Minicoy Island (Lakshadweep) UT Lakshadweep
-24.  Bedi Bunder (Gujarat) FRO/SP Jamnagar
-25.  Bhavnagar (Gujarat) FRO/SP Cuddalore
-26.  Cuddalore (Tamil Nadu) FRO/SP Cuddalore
-27.  Kakinada (Andhra Pradesh) FRO/SP Kakinada, East Godavari
-28.  Krishnapatnam (Andhra Pradesh) FRO/SP Krishna
-29.  Mandvi (Gujarat) FRO/SP Kutch
-30.  Nagapattinam (Tamil Nadu) FRO/SP Nagapattinam
-31.  Paradeep (Odisha) FRO/SP Jagathsinghpur
-32.  Porbandar (Gujarat) FRO/SP Porbandar
-33.  Port Blair (Andaman & Nicobar Islands) FRO/SP Port Blair
-34.  Tuticorin (Tamil Nadu) FRO/SP Thoothukudi
-35.  Vishakapatnam (Andhra Pradesh) FRO/SP Vishakapatnam
-36.  Hazira (Gujarat) FRO/SP Surat
+Immigration >> Authorized Entry Points 
+LIST OF ICPs 
+Seaport 
+• State/UT Government Controlled ICPs 
+SL. NO NAME OF THE ICP CONTROLLING AUTHORITY 
+22.  Alang (Gujarat) FRO/SP Bhavnagar 
+23.  Agati and Minicoy Island (Lakshadweep) UT Lakshadweep 
+24.  Bedi Bunder (Gujarat) FRO/SP Jamnagar 
+25.  Bhavnagar (Gujarat) FRO/SP Cuddalore 
+26.  Cuddalore (Tamil Nadu) FRO/SP Cuddalore 
+27.  Kakinada (Andhra Pradesh) FRO/SP Kakinada, East Godavari 
+28.  Krishnapatnam (Andhra Pradesh) FRO/SP Krishna 
+29.  Mandvi (Gujarat) FRO/SP Kutch 
+30.  Nagapattinam (Tamil Nadu) FRO/SP Nagapattinam 
+31.  Paradeep (Odisha) FRO/SP Jagathsinghpur 
+32.  Porbandar (Gujarat) FRO/SP Porbandar 
+33.  Port Blair (Andaman & Nicobar Islands) FRO/SP Port Blair 
+34.  Tuticorin (Tamil Nadu) FRO/SP Thoothukudi 
+35.  Vishakapatnam (Andhra Pradesh) FRO/SP Vishakapatnam 
+36.  Hazira (Gujarat) FRO/SP Surat 
 37.  Pipavav (Gujarat) FRO/SP Amreli
+
+Immigration >> Authorized Entry Points 
+LIST OF ICPs 
+Land Checkpost 
+• Bureau of Immigration Controlled ICPs
 ---
-Immigration >> Authorized Entry Points LIST OF ICPs Land Checkpost
-• Bureau of Immigration Controlled ICPs SL. NO NAME OF THE  ICP CONTROLLING AUTHORITY
-1.  Attari Road (Punjab) FRRO Amritsar
-2.  Agartala (Tripura) FRRO Kolkata
-3.  Dera Baba Nanak (Kartarpur, Punjab) FRRO Amritsar
-4.  Haridaspur (West Bengal) FRRO Kolkata
-5.  Jaigoan (West Bengal) FRRO Kolkata
-6.  Moreh (Manipur) FRRO Kolkata
-7.  Raxaul(Bihar) FRRO Kolkata
-8.  Sonauli(Uttar Pradesh) FRRO Lucknow
-9.  Gede (West Bengal) FRRO Kolkata
-10.  Ghojadanga (West Bengal) FRRO Kolkata
-11.  Rupaidiha (Uttar Pradesh) FRRO Lucknow
+SL. NO NAME OF THE  ICP CONTROLLING AUTHORITY 
+1.  Attari Road (Punjab) FRRO Amritsar 
+2.  Agartala (Tripura) FRRO Kolkata 
+3.  Dera Baba Nanak (Kartarpur, Punjab) FRRO Amritsar 
+4.  Haridaspur (West Bengal) FRRO Kolkata 
+5.  Jaigoan (West Bengal) FRRO Kolkata 
+6.  Moreh (Manipur) FRRO Kolkata 
+7.  Raxaul(Bihar) FRRO Kolkata 
+8.  Sonauli(Uttar Pradesh) FRRO Lucknow 
+9.  Gede (West Bengal) FRRO Kolkata 
+10.  Ghojadanga (West Bengal) FRRO Kolkata 
+11.  Rupaidiha (Uttar Pradesh) FRRO Lucknow 
 12.  Darranga (Assam)
+
+Immigration >> Authorized Entry Points 
+LIST OF ICPs 
+Land Checkpost 
+• State/UT Government Controlled ICPs
 ---
-Immigration >> Authorized Entry Points LIST OF ICPs Land Checkpost
-• State/UT Government Controlled ICPs SL. NO NAME OF THE  ICP CONTROLLING AUTHORITY
-13.  Banbasa (Uttarakhand) FRO/SP Champawat 14. Changrabandha (Cooch Behar – West Bengal) FRO/SP Changrabandha
-15.  Dalu (Meghalaya) FRO/SP West Garo Hills
-16.  Dawki(Meghalaya) FRO/SP West Garo Hills
-17.  Dhalaighat (Tripura) FRO/SP Agartala
-18.  Gauriphanta (Lakhimpur Uttar Pradesh) FRO/SP Lakhimpur Kheri
-19.  Hili (West Bengal) FRO/SP Hili
-20.  Jaigoan (West Bengal) FRO/SP Araria
-21.  Karimganj (Assam) FRO/SP Karimganj
-22.  Kawrpuichhuah (Mizoram) FRO/SP Kawarpuchia
-23.  Khowal (Tripura) FRO/SP Agartala
-24.  Kailashahar (Tripura) FRO/SP Agartala
-25.  Lalgolaghat (West Bengal)  FRO/SP Murshidabad
-26.  Muhurighat (Tripura) FRO/SP Agartala
-27.  Mahadipur (West Bengal) FRO/SP Malda
-28.  Mankachar (Dhubri, Assam) FRO/SP Dhubri
-29.  Phulbari (West Bengal) FRO/SP Jalpaiguri
-30.  Ragna (Tripura) FRO/SP Agartala
-31.  Radhikapur (West Bengal) FRO/SP Uttar Dinajpur
-32.  Raniganj (West Bengal) FRO/SP Paschim Bardhaman
-33.  Sabroom (South Tripura) FRO/SP Agartala
-34.  Srimantapur (West Tripura) FRO/SP Agartala
-35.  Sutarkandi (Karimganj, Assam) FRO/SP Karimganj
-36.  Zorinpui (Mizoram) FRO/SP Zorinpui
+SL. 
+NO 
+NAME OF THE  ICP CONTROLLING AUTHORITY 
+13.  Banbasa (Uttarakhand) FRO/SP Champawat 
+14.  
+Changrabandha (Cooch Behar – West 
+Bengal) 
+FRO/SP Changrabandha 
+15.  Dalu (Meghalaya) FRO/SP West Garo Hills 
+16.  Dawki(Meghalaya) FRO/SP West Garo Hills 
+17.  Dhalaighat (Tripura) FRO/SP Agartala 
+18.  Gauriphanta (Lakhimpur Uttar Pradesh) FRO/SP Lakhimpur Kheri 
+19.  Hili (West Bengal) FRO/SP Hili 
+20.  Jaigoan (West Bengal) FRO/SP Araria 
+21.  Karimganj (Assam) FRO/SP Karimganj 
+22.  Kawrpuichhuah (Mizoram) FRO/SP Kawarpuchia 
+23.  Khowal (Tripura) FRO/SP Agartala 
+24.  Kailashahar (Tripura) FRO/SP Agartala 
+25.  Lalgolaghat (West Bengal)  FRO/SP Murshidabad 
+26.  Muhurighat (Tripura) FRO/SP Agartala 
+27.  Mahadipur (West Bengal) FRO/SP Malda 
+28.  Mankachar (Dhubri, Assam) FRO/SP Dhubri 
+29.  Phulbari (West Bengal) FRO/SP Jalpaiguri 
+30.  Ragna (Tripura) FRO/SP Agartala 
+31.  Radhikapur (West Bengal) FRO/SP Uttar Dinajpur 
+32.  Raniganj (West Bengal) 
+FRO/SP Paschim 
+Bardhaman 
+33.  Sabroom (South Tripura) FRO/SP Agartala 
+34.  Srimantapur (West Tripura) FRO/SP Agartala 
+35.  Sutarkandi (Karimganj, Assam) FRO/SP Karimganj 
+36.  Zorinpui (Mizoram) FRO/SP Zorinpui 
 37.  Zokhawthar (Mizoram) FRO/SP Zokhatowar
+---
+MANOGARI
+ Python | Django | AI Developer
+Contact Information
+Phone: +91 9600286154
+Email: manogaridev@gmail.com
+Location: Chennai, India
+Professional Summary
+Results-driven Python Developer with 3+ years of experience in web application development.
+Recently transitioned into Python, Django, and AI development with strong knowledge in backend
+systems, RESTful APIs, database design, and scalable architecture. Experienced in integrating AI
+solutions, automation, and data-driven applications. Passionate about building secure,
+high-performance, and user-friendly applications.
+Technical Skills
+
+Programming: Python, PHP
+
+Frameworks: Django, Laravel
+
+AI & Data: Machine Learning Basics, AI Integration, Data Processing
+
+Frontend: HTML, CSS, Bootstrap, JavaScript
+
+Database: MySQL, PostgreSQL
+
+Tools: Git, GitHub, Bitbucket, Composer
+
+Concepts: MVC Architecture, REST APIs, Authentication & Authorization
+Work Experience
+Software Developer (Jan 2021 – Nov 2024) Developed and maintained scalable web applications
+using Laravel and Django. Designed RESTful APIs and integrated third-party services. Worked with
+MySQL & PostgreSQL for database optimization. Implemented authentication, authorization, and
+secure coding practices.
+Projects
+
+Opinion Poll Application (Django): Admin & User portal with authentication and voting system.
+
+E-commerce Platform: Product management, payment gateway integration, and admin
+dashboard.
+
+AI-based Data Processing Tool: Automated data extraction and reporting system.
+---
+Education
+B.E. Computer Science Engineering (2019)
+
+VINOTH KUMAR R  
+                                 Cloud & DevOps Engineer
+
+Professional Summary:    
+Cloud & DevOps Engineer with hands -on experience  in AWS, Linux administration, CI/CD automation, 
+Docker containerization, and Infrastructure as Code using Terraform. Skilled in building secure, scalable 
+cloud environments, automating deployments, and implementing DevOps best practices to improve 
+reliability and efficiency. 
+  Technical Skills:  
+• Amazon Web Services: Ec2, EBS, IAM, S3, VPC, RDS, VPC Peering, 
+• DevOps: Git, Jenkins, Ansible, Docker, Terraform 
+• Operating system: Linux (Ubuntu, CentOS, Amazon Linux), Windows. 
+Professional Experience:  
+         1 Developer – DevOps & Linux Project Work: 
+ NIC (National Informatics Centre)      Aug 2025 – Present
+---
+• Implemented CI/CD pipelines in GitLab to automate build, test, and deployment processes. 
+• Created and managed AWS EC2 instances for application hosting and testing environments. 
+• Configured VPC (Virtual Private Cloud), subnets, and security groups for network isolation and secure 
+connectivity. 
+•  Managed IAM users, groups, and policies to ensure controlled access to AWS resources. 
+• Built and deployed applications using Docker containers. 
+• Performed Linux command-line administration — user management, permissions, services, and 
+package installations. 
+    2 Deployment Engineer: 
+  Precision Informatics (M) Pvt. Ltd         Aug 2023 – Oct 2024
+
+• Deploy applications on Linux servers. 
+• Deploy and manage applications on Linux servers (Red Hat, Ubuntu) with integrated MySQL and MSSQL 
+databases, ensuring smooth operation across environments.  Strong Command of Linux  
+• Deployed web servers such as Apache and Nginx, and monitored their performance regularly. 
+• Database and set up Biometric Authentication for Remote Access Tools (RDP, SSH), managed user 
+accounts, permissions, and file Systems on Linux Servers to ensure secure and efficient operation
+---
+Projects:  
+  Starbucks Clone DevOps Project 
+• Containerized the Starbucks clone application using Docker to ensure consistent and portable 
+deployments.  
+vinothkumarrajkumar29@gmail.com
+
++ 91 8973213266 
+• Deployed the application on AWS EC2, configuring secure access, networking, and optimized server 
+performance.  
+• Built a complete Jenkins CI/CD pipeline to automate code build, testing, scanning, and deployment.  
+• integrated SonarQube in Jenkins to perform static code analysis and maintain code quality standards.  
+• Used Trivy to scan Docker images for vulnerabilities and ensure secure container deployments.   
+• Automated AWS infrastructure setup using Terraform, including EC2 provisioning and security group 
+configuration. 
+• built and pushed Docker images to Docker Hub using Jenkins with secure credential management. 
+• Managed all automation stages using a well-structured Jenkins file for end-to-end CI/CD workflow.  
+  Training/Course:
+
+AWS & DevOps          Soft Logic Academy                  Mar 2025 – Aug 2025
+---
+Education:  
+• Bachelor of Electrical and Electronics Engineering.  
+• PSV College of Engineering and Technology, Krishnagiri, CGPA: 8.2 %  
+• Anna University
+
+I hereby declare that all the information given above is true and correct to the best of my knowledge.
