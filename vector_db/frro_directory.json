@@ -1,0 +1,107 @@
+[
+  {
+    "city": "Ahmedabad",
+    "incharge": "Smt. Sweta Shrimali, IPS",
+    "address": "235, Ground Floor, HUDCO Bhawan, Iswar Bhuvan Road, Navrangpura, Ahmedabad, Gujarat",
+    "phone": "079-26306606, 079-26306607 (Fax)",
+    "email": "frroamd@nic.in; afrro-boi.ahd@nic.in (Enquiries)"
+  },
+  {
+    "city": "Amritsar",
+    "incharge": "Sh. Manjeet Singh",
+    "address": "208, Near Govind Park, Basant Avenue, Amritsar, Punjab",
+    "phone": "0183-2560464 (T), 0183-2500465 (Fax)",
+    "email": "frroasr@nic.in"
+  },
+  {
+    "city": "Bangalore",
+    "incharge": "Sh. Santosh Babu K, IPS",
+    "address": "5th Floor, A Block, TTMC, BMTC Bus Stand Building, K.H. Road, Shantinagar, Bangalore - 560027",
+    "phone": "080-22218195, 080-22218183, 080-22218110, 080-22218196 (Fax)",
+    "email": "frroblr-ka@nic.in; ad-frroblr@mha.gov.in (OCI/PIO Enquiries)"
+  },
+  {
+    "city": "Calicut",
+    "incharge": "Sh. Krishnaraj, IPS",
+    "address": "6th floor, Nikarthil Chambers, Opposite Sarvaram Bio Park, Mini Bypass Road, Arayidathupalam, Kozhikode, Kerala - 673004",
+    "phone": "0495-2323550, 0495-2320650",
+    "email": "frro-clt@nic.in; frrocal@nic.in"
+  },
+  {
+    "city": "Chandigarh",
+    "incharge": "Dr. Deepak Siwach, IPS",
+    "address": "First Floor, BSNL Telephone Exchange, Sector 37 D, Chandigarh - 160036",
+    "phone": "0172-2991498, 0172-2993217, 0172-2991495",
+    "email": "frrochd.support@mha.gov.in"
+  },
+  {
+    "city": "Chennai",
+    "incharge": "Sh. P. Ve Arunshakthikumar, IPS",
+    "address": "Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006",
+    "phone": "044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)",
+    "email": "chiochn@nic.in; frrochn@nic.in"
+  },
+  {
+    "city": "Cochin",
+    "incharge": "Sh. Krishnaraj, IPS",
+    "address": "2nd Floor, Airlines Offices Building, Cochin International Airport Ltd., Airport PO, Cochin - 683111",
+    "phone": "0484-2611654, 0484-2611652 (Fax/Support)",
+    "email": "frrococ@nic.in; frrococ-helpdesk@mha.gov.in; oci.frrococ@gov.in (OCI Desk)"
+  },
+  {
+    "city": "Delhi",
+    "incharge": "Sh. Deepak Yadav, IPS",
+    "address": "Level-2, East Block-VIII, Sector-1, R.K Puram, New Delhi - 110066",
+    "phone": "011-26711384 (T), 011-26711348 (Fax), 011- 26711443/011-26713851 (Support), 011-26184824/011- 26194311 (OCI)",
+    "email": "frrodli@nic.in; frrodli.support@nic.in"
+  },
+  {
+    "city": "Guwahati",
+    "incharge": "Sh. Inom Saikia",
+    "address": "LGBI Airport, Borjhar, Guwahati - 781015",
+    "phone": "0361-2841466",
+    "email": "chioghy-asm@nic.in"
+  },
+  {
+    "city": "Hyderabad",
+    "incharge": "Sh. Venkata Appala Naidu Chintan, IPS",
+    "address": "Sardar Vallabhai Patel BoI OCR Complex, Shamshabad-Pahadishareef Road near GMR Township, Mamidipally, Shamshabad, Telangana - 501218",
+    "phone": "040-29880374, 040-29880375",
+    "email": "frrohyd@nic.in"
+  },
+  {
+    "city": "Jaipur",
+    "incharge": "Sh. Ramesh Yadav, IPS",
+    "address": "Plot No 01, Jhalana Doongri, Opposite Aranya Bhawan, Jaipur - 302004",
+    "phone": "0141-2950422, 0141-2950423",
+    "email": "frro.jaipur@gov.in"
+  },
+  {
+    "city": "Kolkata",
+    "incharge": "Ms. Nidhi Rani, IPS",
+    "address": "237, A.J.C Bose Road, Kolkata",
+    "phone": "033-22900549 (T)",
+    "email": "frrokol@nic.in"
+  },
+  {
+    "city": "Lucknow",
+    "incharge": "Shri. Harsh Singh, IPS",
+    "address": "FRRO, 12th Floor Hall, No. 1, Kendriya Bhawan, Sec-H Aliganj, Lucknow",
+    "phone": "0522-2432431 (T), 0522-2432430 (Fax), 0522- 2987897 (Visa Services)",
+    "email": "frrolko@nic.in"
+  },
+  {
+    "city": "Mumbai",
+    "incharge": "Ms. Niyati Thaker Dave, IPS",
+    "address": "Annex-II Bldg., 3rd Floor, Badruddin Tayyabji Marg, Behind St. Xavier's College, C.S.T, Mumbai - 400001 (beside Times of India building)",
+    "phone": "022-22621169 (T), 022-22620721 (Fax), 022- 22620446 (Visa Services), 022-22621167 (PIO/OCI)",
+    "email": "frromum@nic.in"
+  },
+  {
+    "city": "Trivandrum",
+    "incharge": "Sh. Aravind Menon, IPS",
+    "address": "T.C. 30/1398-3, First Floor, Amrith Plaza, Nalumukku, P.O. Pettah, Thiruvananthapuram - 695022",
+    "phone": "0471-2573512 (T), 0471-2573514 (Fax)",
+    "email": "frrotvm@nic.in"
+  }
+]

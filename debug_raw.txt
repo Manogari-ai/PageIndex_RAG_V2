@@ -1,53 +1,38 @@
-[DETAILS FOR BOI CHATBOT]
+DETAILS FOR BOI CHATBOT
+Bureau of Immigration (BoI): FAQs
 Q: When was the Bureau of Immigration (BoI) established?
 A: The BoI was established in 1971.
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: What are the primary functions of the Bureau of Immigration?
 A: The BoI is the primary authority in India responsible for enforcing
 rules regarding the entry, stay, and exit of foreign nationals. It acts
 as the authentic gateway for travel regulations and immigration
 services.
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: Who leads the Bureau of Immigration?
 A: The BoI is headed by the Commissioner of Immigration.
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: Contact details of Commissioner, Bureau of Immigration
 A: Name: Ms. I.B. Rani, IPS
 Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC),
 Nauroji Nagar, New Delhi - 110029
 Telephone No: 011-26102622 (Telefax)
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: Where does the BoI manage immigration facilities?
 A: The BoI manages immigration services across India’s International
 Check Posts (ICPs) through FRROs (Foreigners Regional Registration
 Offices) and CHIOs (Chief Immigration Officers).
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: What are the Services provided by the BoI for foreign
 nationals living in India?
 A: The BoI oversees registration services and visa-related formalities
 for foreign nationals residing in India, ensuring all activities comply
 with the relevant Acts, Rules, and Regulations.
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: How many Immigration Check Posts (ICPs) are currently
 operational in India?
 A: There is a total of 114 Immigration Check Posts across India,
 covering air, sea, land, rail, and river routes to manage international
 traffic.
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: How many Foreigners Regional Registration Offices
 (FRROs) are there under BoI? Where are they located?
 A: There are 15 FRROs. They are located in Ahmedabad, Amritsar,
 Bangalore, Calicut, Chandigarh, Chennai, Cochin, Delhi, Guwahati,
 Hyderabad, Jaipur, Kolkata, Lucknow, Mumbai, and Trivandrum.
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: How many Chief Immigration Officers are there? Where
 are they stationed?
 A: There are 24 Chief Immigration Officers functioning at Goa, Jaipur,
@@ -55,45 +40,34 @@ Gaya, Varanasi, Nagpur, Pune, Indore, Mangalore, Trichy,
 Coimbatore, Bagdogra, Chandigarh, Haridaspur, Kannur, Dera Baba
 Nanak, Raxaul, Sonauli, Gede, Munabao, Chitpur, Guwahati, New
 Jalpaiguri, Dhamra, and Mopa.
----CHUNK---
-[DETAILS FOR BOI CHATBOT]
 Q: Who handles foreigner registration in areas where there is
 no FRRO or Chief Immigration Officer?
 A: In locations, where there is no FRRO or Chief Immigration Officer,
 the District Superintendents of Police (SPs) act as the Foreigners
 Registration Officers (FROs).
----CHUNK---
-[HEALTH REGULATIONS: YELLOW FEVER]
+HEALTH REGULATIONS: YELLOW FEVER
 Q: "Who requires a Yellow Fever vaccination to enter India?"
-A: You only need a valid Yellow Fever Vaccination Certificate if you
+Q: You only need a valid Yellow Fever Vaccination Certificate if you
 are arriving from or have transited through a Yellow Fever endemic
 country by air or sea.
----CHUNK---
-[HEALTH REGULATIONS: YELLOW FEVER]
 Q: What happens if I arrive from an endemic area without a
 certificate?
 A: If you have visited or transited through an endemic area and
 cannot produce a valid certificate, you will be placed in quarantine for
 up to 6 days.
 This rule applies to everyone except infants under six months old.
----CHUNK---
-[HEALTH REGULATIONS: YELLOW FEVER]
 Q: I am leaving India for an endemic country. Is a vaccine
 required?
 A: There is no mandatory health check required by the Indian
 government for departure. However, it is strongly advised to get
 vaccinated and carry a certificate for your own safety and to meet the
 entry requirements of your destination country.
----CHUNK---
-[HEALTH REGULATIONS: YELLOW FEVER]
 Q: How do I get an Indian visa if I am in a Yellow Fever
 endemic country?
 A: Indian Missions typically require you to show a valid vaccination
 certificate before issuing a visa. Once verified, they will mark your
 visa with the endorsement: "Valid Yellow Fever Vaccination Certificate
 Checked.”
----CHUNK---
-[HEALTH REGULATIONS: YELLOW FEVER]
 Q: Which countries are considered Yellow Fever endemic?
 A: There are currently 43 notified countries. Please see the list below:
 Africa (30 Countries)
@@ -106,22 +80,17 @@ South America (13 Countries)
 Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guyana,
 Guyana, Suriname, Trinidad (Trinidad only), Venezuela, Panama,
 Paraguay, Peru.
----CHUNK---
-[HEALTH REGULATIONS: YELLOW FEVER]
 Q: Where can I find more details on health requirements?
 A: For the most up-to-date information, you can visit the official
 International Health Port Health Organization (IHPHO) website at:
 ihpoe.mohfw.gov.in.
----CHUNK---
-[IDENTITY INFORMATION]
+IDENTITY INFORMATION
 Q: Do I need to provide biometrics when applying for an
 Indian visa?
 A: Yes. Under the 2025 Order, every foreigner applying for any visa
 category - including OCI (Overseas Citizen of India) registration-must
 provide their biometric information to the issuing authority before the
 visa or registration is granted.
----CHUNK---
-[IDENTITY INFORMATION]
 Q: Who can collect my biometrics while I am in India?
 A: If you are identified as a foreigner while in India, you may be
 required to provide biometrics on the Central Government's electronic
@@ -130,29 +99,22 @@ portal by any of the following authorities:
 • Civil authorities or Registration Officers.
 • Immigration Officers.
 • Border Guarding Forces or the Coast Guard.
----CHUNK---
-[IDENTITY INFORMATION]
 Q: How long is my captured biometric information valid?
 A: Your biometric data remains valid for 10 years from the date it was
 captured.
----CHUNK---
-[IDENTITY INFORMATION]
 Q: What if I have poor fingerprints or missing fingers?
 A: The regulations provide the following exemptions:
 • Poor/No Fingerprints: You are exempt from fingerprinting;
 however, your facial traits or iris scan will be captured instead.
 • Missing Fingers: If you have fewer than ten fingers, you are only
 required to provide fingerprints for your existing fingers.
----CHUNK---
-[IDENTITY INFORMATION]
 Q: Where can I find the technical specifications for these
 biometrics?
 A: Biometrics are captured according to specifications set by the
 Central Government, which may be updated periodically. For the most
 current technical details, please visit the Ministry of Home Affairs
 website at www.mha.gov.in.
----CHUNK---
-[OBLIGATION OF CARRIERS:]
+OBLIGATION OF CARRIERS:
 Q: What information must airlines provide for international
 flights?
 A: Airline station managers must provide:
@@ -161,8 +123,6 @@ A: Airline station managers must provide:
 Gender, DOB, Nationality, Passport/Visa details, and Flight info.
 • Passenger Name Record (PNR): Comprehensive travel and
 payment data.
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: When should Advance Passenger Information (API) be
 submitted?
 A:
@@ -171,8 +131,6 @@ port of embarkation outside India.
 • Departures from India: Immediately after boarding is closed
 or "wheels-off" within India.
 • Format required: UNEDIFACT-PAXLST.
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: What is the timeline for submitting PNR data?
 A: PNR data must be submitted at four specific intervals:
 1. T-72 hours
@@ -180,41 +138,27 @@ A: PNR data must be submitted at four specific intervals:
 3. T-08 hours
 4. T-0 hours (Where T is the scheduled time of arrival in or
 departure from India).
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: What are the requirements for cargo, cruise, or chartered
 ships?
 A: The vessel's master or representative must submit the Passenger
 and Crew Manifest (Form VI).
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: What is the deadline for vessel manifest submission?
 A: Information must be provided at T-72 hours (72 hours before
 scheduled arrival in or departure from India).
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: What is the "General Declaration" requirement?
 A: Every carrier (Air, Sea, or Road) must submit a General Declaration
 in Form VIII to the Immigration Officer.
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: When must the General Declaration be submitted?
 A: It must be submitted at D-45 minutes (45 minutes before the
 scheduled departure time).
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: Can a flight or vessel depart before clearance?
 A: No. No transport mode is permitted to depart until the Immigration
 Officer has provided official clearance on the General Declaration.
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: Who do I contact for technical or administrative help? With
 regard to APIS?
 A:
 • Technical (APIS implementation): apisindia@nic.in
 • Administrative matters: frrodli@nic.in
----CHUNK---
-[OBLIGATION OF CARRIERS:]
 Q: Where can I find official guidelines regarding APIS?
 A: You can download the following documents from the official portal:
 1. Immigration and Foreigners Rules,2025(967 KB)
@@ -222,25 +166,18 @@ A: You can download the following documents from the official portal:
 3. FAQs (181 KB)
 4. Time Limit for compliance with APIS(11KB)
 5. Stabilization of APIS Data (11 kB)
----CHUNK---
-[INDIAN CITIZENSHIP]
+INDIAN CITIZENSHIP
 Acquisition of Indian citizenship:
 Please visit https://indiancitizenshiponline.nic.in/
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Does India allow dual citizenship?
 A: No. The Indian Citizenship Act does not provide for dual
 citizenship. Once you acquire the nationality of another country, you
 must renounce your Indian citizenship.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What is my first obligation after acquiring foreign
 nationality?
 A: Under the Passports Act, it is mandatory to surrender your last
 Indian passport to the nearest Indian Consulate or Regional Passport
 Office (RPO) immediately after becoming a foreign citizen.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Is it illegal to keep an Indian passport after becoming a
 foreign national?
 A: Yes. It is an offence under both the Citizenship Act and the
@@ -249,33 +186,23 @@ Q. What documents will I receive after surrendering my
 passport?
 A: The Consulate or RPO will cancel your Indian passport and return
 it to you along with a Renunciation/Surrender Certificate.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Where can I apply for a Renunciation Certificate?
 A: If you acquired foreign nationality after June 1, 2010, you must
 apply for the Renunciation Certificate online through the Ministry of
 Home Affairs website:
 https://indiancitizenshiponline.nic.in/Renounce
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What should I do with my Indian Voter ID or EPIC Card?
 A: Upon surrendering your Indian passport, you are also required to
 surrender your Indian Voter ID Card (EPIC Card).
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: How do I handle my Indian Ration Card after renouncing
 citizenship?
 A: You must contact the local authority concerned to ensure your
 records are removed from the Ration Card system.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Where can I find more technical information on the
 surrender process?
 A: For detailed instructions and procedural information, you can visit
 the official passport portal at: www.passportindia.gov.in
 LIST OF ICPs
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Which FRRO oversees my airport?
 A:
 • The controlling authority for the Immigration Check Post (ICP)
@@ -353,8 +280,6 @@ at Tirupati (Andhra Pradesh) is FRO/SP Tirupati.
 at Visakhapatnam (Andhra Pradesh) is FRO/SP Visakhapatnam.
 • The controlling authority for the Immigration Check Post (ICP)
 at Vijayawada (Andhra Pradesh) is FRO/SP Vijayawada.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What are the major seaports? Who are the jurisdictional
 FRROs?
 A: Jurisdiction is as given below:
@@ -370,8 +295,6 @@ Vizhinjam International Seaport.
 • FRRO Calicut: Calicut.
 Authorities for and several Assam river ports (Karimganj, Pandu,
 Dhubri, Silghat) are currently pending notification.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What are the land ICPs? Who are the jurisdictional FRROs?
 A: Land border ICPs are managed as follows:
 • FRRO Kolkata (Widest Range): Agartala, Haridaspur,
@@ -379,8 +302,23 @@ Jaigaon, Gede, Ghojadanga, Moreh (Manipur), and Raxaul
 (Bihar).
 • FRRO Amritsar: Attari Road and Dera Baba Nanak (Kartarpur).
 • FRRO Lucknow: Sonauli and Rupaidiha.
----CHUNK---
-[INDIAN CITIZENSHIP]
+Q: What are the Rail Checkposts? Who are the jurisdictional
+FRROs?
+• The controlling authority for the Immigration Check Post (ICP)
+at Attari (Amritsar, Punjab) is FRRO Amritsar.
+• The controlling authority for the Petrapole/Chitpur (West
+Bengal) Immigration Check Post (ICP) is FRRO Kolkata.
+• The controlling authority for the Gede Rail and Road Check
+Post (West Bengal) Immigration Check Post (ICP) is FRRO
+Kolkata.
+• The controlling authority for the Haridaspur (West Bengal)
+Immigration Check Post (ICP) is FRRO Kolkata.
+• The controlling authority for the Munabao (Rajasthan)
+Immigration Check Post (ICP) is FRRO Delhi.
+• The controlling authority for the New Jalpaiguri Railway
+Station (West Bengal) Immigration Check Post (ICP) is FRRO
+Kolkata.
+General Visa Information
 Q: What is a Business Visa (B), and who can apply?
 A: The Business Visa is for individuals engaging in commercial
 activities. The sub-categories are:
@@ -396,14 +334,10 @@ via the e-Visa platform).
 workshops, or conferences.
 • B-6 (Film): For shooting feature films, reality TV, web series,
 or location scouting.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Is there a specific visa for long-term investors?
 A: Yes. Investors may apply for PRS (Permanent Residency
 Status), specifically designed for foreign investors looking for long-
 term stay options.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What are the categories for Student Visas (S)?
 A: Student visas are categorized based on the level and type of study:
 • S-1: Higher education, exchange programs, and skill
@@ -414,8 +348,6 @@ Buddhist studies, or Indian languages.
 • S-4: Research scholars, visiting faculty, and G-20 Talent Visa
 holders.
 • S-5: For individuals undertaking an Internship in India.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What does a Tourist Visa (T) cover?
 A: The Tourist Visa is divided into two types:
 • T-1: For sightseeing, recreation, visiting friends/relatives,
@@ -423,8 +355,6 @@ short-term yoga, or casual courses (under 6 months) that do
 not result in a formal degree.
 • T-2: Specifically for foreign nationals participating in
 mountaineering expeditions.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Which visa should I apply for if I need medical treatment?
 A:
 • M-1: For general medical treatment (excluding Ayush).
@@ -432,8 +362,6 @@ A:
 (Ayurveda, Yoga, etc.).
 • M-2 & M-4: For Medical Attendants accompanying patients
 on M-1 or M-3 visas, respectively.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What is an Employment/Work Visa (E)?
 A:
 • E-1: For general employment, including intra-company
@@ -441,8 +369,6 @@ transfers.
 • E-2: For those working with NGOs.
 • E-3: For Missionaries or religious workers of approved
 organizations.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What are the special visas for family members of visa
 holders?
 A:
@@ -451,8 +377,6 @@ A:
 visa holders.
 • O-1X to O-4X: Specifically for dependents of Official (O) visa
 holders.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What are the "Miscellaneous" (X) Visa categories?
 A: These are for specific circumstances:
 • X-1: For Persons of Indian Origin (PIO) and their foreign
@@ -462,8 +386,6 @@ Aurobindo Ashram, or Buddhist Monasteries.
 • X-4: A specific stay visa for Afghan Nationals.
 • X-Misc: For any legitimate purpose not covered by other
 categories.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What are the rules for Pakistan, Bangladesh, and
 Afghanistan nationals?
 A: Specific regulations apply:
@@ -473,70 +395,50 @@ Pilgrims).
 third-country visas in India.
 • LTV (Long Term Visa): Available for certain categories of
 citizens from Afghanistan, Bangladesh, and Pakistan.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What is a Transit Visa (TR)?
 A: The TR Visa is solely for the purpose of traveling through India to
 reach a final destination in another country.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What is a Business (B) Visa used for?
 A: The Business Visa is
 primarily for individuals visiting India for trade and commerce. It also
 covers more specific professional activities, such as sports persons,
 coaches, and those involved in film production or attending
 international conferences.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Who should apply for a Diplomatic (D) Visa?
 A: This category
 is reserved for diplomats assigned to India and UN officials. It is
 specifically meant for those traveling on diplomatic passports for
 official meetings or postings.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What does the Employment (E) Visa cover?
 A: If you are
 coming to India for a job or to work with an NGO, you would apply
 for an Employment Visa. This includes both standard company hires
 and intra-company transferees.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Can I use a Student (S) Visa for internships?
 A: Yes, the
 Student Visa is quite broad. While it is mainly for those attending
 schools or universities and conducting research, it also specifically
 includes those coming to India for internships.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What activities are allowed on a Tourist (T) Visa?
 A: The
 Tourist Visa is meant for non-business and non-academic visits. It is
 the correct choice for sightseeing, recreation, or casual visits to meet
 friends and relatives.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Which visa category should I select for medical treatment?
 A: You should apply for a Medical (M) Visa. This category covers both
 the patients seeking treatment—whether in standard hospitals or
 Ayush systems—and their designated medical attendants.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Is there a specific visa for media professionals?
 A: Yes, the
 Journalist (J) Visa is designed for accredited journalists visiting India
 for professional purposes, as well as those coming to shoot
 advertisements or documentaries.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: How do family members of visa holders stay in India?
 A:
 Dependents of most foreign nationals holding a primary visa (like a
 Work or Student visa) should apply for a Family (F) Visa. However,
 please note that dependents of diplomats have their own specific sub-
 categories under the Diplomatic class.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What is the purpose of an Official (O) Visa?
 A: The Official
 Visa is for government officials who are on a visit to India for official
@@ -544,8 +446,6 @@ duties but do not hold diplomatic status. This typically applies to those
 traveling on Official, Service, or Special passports.
 VISA APPLICATIONS AND EXTENSIONS: Frequently Asked
 Questions
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: How do I apply for a regular or e-Visa to visit India?
 A: To apply for a visa, you should complete the online application form
 available at the official government website:
@@ -553,16 +453,12 @@ https://indianvisaonline.gov.in. Please keep in mind that a valid visa
 along with your passport is mandatory for travel to India, unless you
 are an OCI cardholder or belong to a category exempted under a
 specific bilateral agreement.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Are there any authorized agents who can provide express
 or emergency visa services for a fee?
 A: It is important to be cautious of third-party services. The
 Government of India has not authorized any agents or intermediaries
 to charge fees for facilitating emergency or express regular visas or
 e-Visas.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What should I do if I need to extend my stay while I am
 already in India?
 A: If you have a justifiable reason for staying beyond your current
@@ -570,8 +466,6 @@ visa’s validity, you must apply for an extension through the FRRO
 (Foreigners Regional Registration Office) website at
 https://indianfrro.gov.in. Please note that these services are only
 available to foreign nationals who are currently present in India.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: When is the best time to apply for a visa extension?
 A: You should submit your request while your current visa is still valid,
 ensuring you leave enough time for processing. If your extension is
@@ -579,8 +473,6 @@ not granted before your current visa expires, you are required to
 depart from India. Staying beyond your validity without an approved
 extension is considered a wilful illegal overstay and will be handled
 according to Indian law.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Is it possible to change my visa type after I have arrived?
 A: Yes, if you need to convert your visa type, you can submit an
 application to your jurisdictional FRRO via their e-services portal at
@@ -591,8 +483,6 @@ Here is the information structured into a clean, conversational Q&A
 format designed for a chatbot to help users determine their eligibility
 for an OCI card.
 OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What is an Overseas Citizen of India (OCI) Cardholder?
 A:
 An OCI Cardholder is a foreign national who is officially registered by
@@ -600,8 +490,6 @@ the Government of India under Section 7A of The Citizenship
 (Amendment) Act, 2015. The scheme was created to help the Indian
 Diaspora maintain a strong connection with India through benefits
 like hassle-free travel and a friendly investment regime.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Who is generally eligible to apply for an OCI card?
 A: Most
 foreign nationals of full age and capacity are eligible if they meet one
@@ -613,32 +501,24 @@ of the following criteria:
 August 15, 1947.
 • They are a child, grandchild, or great-grandchild of someone
 who meets the above criteria.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Can minor children apply for an OCI card?
 A: Yes. A minor
 child is eligible if:
 • They are the child of a person eligible for an OCI card.
 • Both of their parents are citizens of India, or at least one parent
 is a citizen of India.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: I am the spouse of an Indian citizen. Am I eligible?
 A: Yes,
 spouses of foreign origin are eligible if their marriage to an Indian
 citizen or an existing OCI cardholder has been officially registered and
 has lasted for a continuous period of at least two years immediately
 before the application is submitted.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What about children born through IVF, surrogacy, or live-
 in relationships?
 A: Children born through these circumstances are
 eligible for OCI registration. However, these applications are reviewed
 on a case-to-case basis and are subject to the specific merits of the
 case.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Why should I apply for an OCI card?
 A: The OCI card provides
 several professional and personal benefits, including:
@@ -646,23 +526,17 @@ several professional and personal benefits, including:
 • Easier investment opportunities in India.
 • Access to various social, economic, and educational fields in the
 country.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Which nationalities are excluded from applying for an OCI
 card?
 A: You are not eligible for an OCI card if you, or any of your
 parents, grandparents, or great-grandparents, are or were ever
 citizens of Pakistan or Bangladesh. This also applies to any other
 country specifically notified by the Government of India.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Can military or police personnel apply for an OCI card?
 A:
 Generally, no. Foreign military or police personnel, whether currently
 serving or retired, cannot register for an OCI card. The only exception
 to this rule is for individuals from Israel.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What if I am currently undergoing compulsory military
 service?
 A: If you are undergoing compulsory military or police
@@ -670,21 +544,15 @@ conscription at the time of your application, you will not be eligible
 for registration during that period. Additionally, if you are applying for
 an OCI card as a spouse, you are ineligible if you have ever undergone
 or are currently undergoing such conscription.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Can I apply for an OCI card if I hold a Diplomatic Passport?
 A: No. Foreign nationals holding a Diplomatic Passport will not be
 registered as OCI cardholders.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: I still have a Person of Indian Origin (PIO) card. Is it still
 valid?
 A: The PIO card scheme has been officially closed. While all
 existing PIO cardholders are now considered OCI cardholders by law,
 it is highly recommended that you apply to convert your physical PIO
 card into an OCI card through the OCI Miscellaneous Services.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Under what circumstances must an OCI card be
 surrendered?
 A: If a foreign national registered as an OCI
@@ -692,8 +560,6 @@ cardholder on the basis of their marriage gets remarried to a different
 person (either another foreigner or an Indian citizen), they must
 surrender their existing OCI card to the nearest Indian Mission or
 FRRO.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Can the Government of India cancel an OCI card?
 A: Yes. An
 OCI registration can be cancelled immediately if:
@@ -702,8 +568,7 @@ material facts.
 • The holder shows disaffection toward the Constitution of
 India.
 • The holder violates any provisions of the Citizenship Act,
----CHUNK---
-[INDIAN CITIZENSHIP]
+1955.
 Q: Where can I find more details or start an application?
 A: You
 can find complete details and access online services at the official OCI
@@ -714,41 +579,29 @@ A: No. Your foreign passport remains your primary travel
 document. The OCI card is technically a life-long visa, not a travel
 document itself. You must carry both your valid national passport and
 your OCI card at all times while traveling to or staying in India.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Can I stay in India if my national passport expires but my
 OCI is still valid?
 A: No. Staying in India without a valid passport is illegal, even for
 OCI cardholders. You must ensure your foreign passport is valid
 throughout the duration of your stay in the country.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: I heard there are new validity rules for spouses. Is that
 true?
 A: Yes. For OCI cards issued to the spouse of an Indian citizen (or a
 person of Indian origin) on or after September 3, 2025, the card
 will have an initial validity of 5 years. After this period, it can be
 extended to a life-long visa, subject to government scrutiny.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Do OCI cardholders need to register with the FRRO?
 A: Foreigners registered as OCI cardholders are exempt from the
 requirement to register with jurisdictional FRROs, regardless of how
 long they stay in India.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Do I need a 'U' visa sticker on my passport?
 A: No. The ‘U’ (Universal) visa sticker on the foreign passports of OCI
 cardholders has been dispensed with. Your OCI card itself serves as
 the proof of your visa status.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Can I apply for an OCI card while I am currently in India?
 A: Yes, but you must be an "Ordinarily Resident." This means you
 must have been staying in India for a continuous period of at least 6
 months at the time of your application.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What documents do I need if I apply within India?
 A: In addition to the standard forms, you must provide:
 • A copy of a long-duration visa (not a Tourist, Missionary, or
@@ -756,64 +609,77 @@ Mountaineering visa) that has at least 3 months of validity
 remaining.
 • Your Registration Certificate (RC/RP) issued by the
 FRRO/FRO.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Are biometrics required for the application?
 A: Yes. It is mandatory for all OCI applicants to have their
 fingerprints and facial biometrics captured (where technically
 feasible) during the registration process.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: What should I do if my birth or marriage certificate was
 issued outside of India?
 A: If these documents are issued by a foreign authority, they must be
 Apostilled or endorsed by the concerned Indian Mission abroad (or
 the foreign Mission in India) to be considered valid for your
 application.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: How do I get a Police Clearance Certificate (PCC) as an OCI
 holder?
 A: If you are living in India and need a PCC, you must apply to the
 FRRO/FRO that covers your place of residence. You should indicate
 the purpose of the certificate and apply via the official portal:
 https://indianfrro.gov.in.
----CHUNK---
-[INDIAN CITIZENSHIP]
 Q: Can I visit any part of India with my OCI card?
 A: Generally yes, but OCI cardholders must obtain a Protected
 Area Permit (PAP) or Restricted Area Permit (RAP) to visit any
 location designated as a Protected or Restricted Area by the
 Government of India.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-1. How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-2. Do I need to visit the FRRO with hard copies? Yes. After you have submitted your application online, you are required to bring the original versions of all uploaded documents to the concerned FRRO for physical verification.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-3. Is a personal interview mandatory? If you are applying for a new OCI registration, a personal interview is mandatory. However, children below the age of 12 years are exempt from this requirement.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-4. When do I provide my biometrics? • Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-5. Can I collect my OCI card through someone else? Yes. You can collect it in person or send an authorized representative with your passport. However, if a representative collects it, you must be physically present in the country where the OCI card is being issued at the time of collection.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-6. What happens to the fee if my application is rejected? If registration is not granted, an amount of USD 250 (or local equivalent) will be refunded. Please note that the processing fee (USD 25 or ₹1400 in India) is non-refundable.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-7. Does an OCI cardholder lose their original citizenship? No. Registering as an OCI cardholder does not affect your current foreign citizenship.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-8. What are the limitations for OCI cardholders in India? While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
----CHUNK---
-[OCI APPLICATION & RIGHTS FAQ]
-9. Can OCI cardholders take entrance exams for Indian colleges? Yes. You are eligible for national entrance tests like NEET, JEE (Mains/Advanced), and others. However, you are not eligible for admission to seats reserved exclusively for Indian citizens.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
+OCI APPLICATION & RIGHTS FAQ
+1. How do I submit my OCI application?
+Applications for registration as an OCI Cardholder must be submitted
+online at https://ociservices.gov.in. You will find detailed information
+about the specific documents required for your case on that portal.
+2. Do I need to visit the FRRO with hard copies?
+Yes. After you have submitted your application online, you are
+required to bring the original versions of all uploaded documents to
+the concerned FRRO for physical verification.
+3. Is a personal interview mandatory?
+If you are applying for a new OCI registration, a personal interview
+is mandatory. However, children below the age of 12 years are
+exempt from this requirement.
+4. When do I provide my biometrics?
+• Applying from abroad: You can provide biometrics at the
+application stage at the Mission or upon arrival at the
+Immigration Check Post in India. However, it is highly
+recommended to do it during the application stage.
+• Applying in India: Biometrics must be captured at the
+application stage at the FRRO.
+• Exemptions: Applicants above 70 years or below 12 years of
+age are exempt from biometric capturing.
+5. Can I collect my OCI card through someone else?
+Yes. You can collect it in person or send an authorized representative
+with your passport. However, if a representative collects it, you must
+be physically present in the country where the OCI card is being
+issued at the time of collection.
+6. What happens to the fee if my application is rejected?
+If registration is not granted, an amount of USD 250 (or local
+equivalent) will be refunded. Please note that the processing fee
+(USD 25 or ₹1400 in India) is non-refundable.
+7. Does an OCI cardholder lose their original citizenship?
+No. Registering as an OCI cardholder does not affect your current
+foreign citizenship.
+8. What are the limitations for OCI cardholders in India?
+While OCI holders enjoy many benefits, there are certain restrictions:
+• Voting: You are not entitled to vote in Indian elections.
+• Public Office: You cannot hold constitutional posts (President,
+Vice-President, Judge of the Supreme Court/High Court) or be
+a member of Parliament or State Legislatures.
+• Employment: You are generally not eligible for appointment to
+public services or government posts.
+• Property: You cannot acquire agricultural or plantation
+properties in India.
+9. Can OCI cardholders take entrance exams for Indian
+colleges?
+Yes. You are eligible for national entrance tests like NEET, JEE
+(Mains/Advanced), and others. However, you are not eligible for
+admission to seats reserved exclusively for Indian citizens.
+SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS
 Q: When does an OCI Cardholder require Special Permissions
 from Indian Mission/FRRO concerned?
 A: The OCI Cardholders shall be required to obtain a special
@@ -836,34 +702,24 @@ concerned Indian Mission abroad before commencing Research in
 India.
 Please visit www.mha.gov.in for more info
 Traveling to India: General Guidelines
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: What is the mandatory arrival procedure for foreigners?
 A: You must complete and submit an e-Arrival card online within 72
 hours before arrival via https://indianvisaonline.gov.in/earrival or the
 official "Indian Visa Su-Swagatam" mobile app.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: Are there specific entry points for Pakistani nationals?
 A: Yes. Pakistani nationals arriving by air can only enter India through
 the International Check Posts (ICPs) in Delhi, Mumbai, and
 Chennai.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: What should I check regarding my passport stamps?
 A: It is your responsibility to ensure that Arrival and Departure
 seals are affixed to your passport at the immigration counter. If a
 seal is missed, contact the nearest FRRO or Immigration Post
 immediately to rectify it.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: What activities are strictly prohibited on a Visa or OCI?
 A: Foreigners (including OCI holders) are strictly prohibited from
 engaging in religious preaching, making speeches at religious places,
 distributing religious pamphlets, or engaging in religious conversion
 activities.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: Are there any health requirements for entry?
 A:
 • Yellow Fever: If you are arriving from or have visited a Yellow
@@ -872,42 +728,30 @@ a valid vaccination certificate from an authorized center.
 • Public Health Emergencies: If arriving from a country with a
 WHO-declared public health risk, you may be required to
 undergo medical screening as directed by the Ministry of Health.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: What are the rules for Indians traveling from Nepal?
 A: Indian citizens traveling from Nepal by air must carry either a valid
 Indian Passport or an original Indian Voter ID card (EPIC) with a
 photograph.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: Country Specific Guidelines
 A: Please visit https://boi.gov.in/boi/country-specific-guidelines
 Air Crew Travel & Visa FAQ
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: Do air crew members need a visa to enter India?
 A: Yes. Crew members of scheduled and non-scheduled flights,
 including chartered and special flights, are generally required to
 obtain a Business Visa or an e-Business Visa of the appropriate
 duration.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: What travel documents are required for crew members of
 scheduled airlines?
 A: Crew members of scheduled airlines operating services to or
 through India have a specific privilege: they can enter using a valid
 Crew Member Certificate or License issued by the aircraft's country of
 registration, instead of a passport.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: Are the rules different for non-scheduled or chartered
 flight crew?
 A: Yes. For all crew members of non-scheduled airlines, chartered
 flights, and special flights, the visa must be endorsed on their national
 passport. In these cases, a crew member certificate is not an
 acceptable substitute for a passport.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: What are the specific rules for Pakistani Air Crew?
 A:
 • Scheduled Services: Pakistani crew operating scheduled flights
@@ -922,29 +766,22 @@ licenses.
 • Stationed Crew: Any Pakistani air crew stationed in India must
 comply with registration and arrival/departure reporting
 requirements within 24 hours.
----CHUNK---
-[SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS]
 Q: Can Pakistani or Pakistani-origin crew get a Landing Permit
 if arriving from a third country?
 A: No. Pakistani and Pakistani-origin crew members will not be issued
 a Landing Permit if they arrive in India from any country other than
 Pakistan.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
+SEAMEN AND MARITIME CREW FAQ
 Q: What documents do I need to Sign On or Sign Off at an
 Indian seaport?
 A: Both Indian and foreign seamen are required to be in possession
 of two primary documents:
 • A valid Passport.
 • A Seaman Book or Continuous Discharge Certificate (CDC).
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: I am a foreign seaman joining a "Foreign Run" vessel in
 India. Do I need a visa?
 A: Yes. Foreign seamen joining vessels that operate on international
 routes (Foreign Run) must be in possession of a Transit Visa.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What are the visa requirements for joining a "Coastal Run"
 vessel?
 A: If you are joining a vessel operating within Indian coastal waters,
@@ -954,35 +791,25 @@ with a specific endorsement to join the vessel (or an OCI card).
 • Project Crew: If you are joining specialized vessels such as
 Survey, Rig, Cable-laying, Seismic, or Research vessels, you
 must hold an Employment Visa.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can "Supernumeraries" sign off in India?
 A: Foreign Supernumeraries are not permitted to Sign Off at an
 Indian port unless they are in possession of an appropriate and valid
 visa.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: How does the Shore Leave Pass (SLP) work?
 A: A Shore Leave Pass may be issued to foreign seamen under the
 following conditions:
 • Daily Validity: From 06:00 hrs to 23:45 hrs.
 • Duration: Valid for a maximum of 7 days or until the vessel
 departs, whichever happens first.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Are Supernumeraries eligible for shore leave?
 A: No. Foreign Supernumeraries are not eligible to receive a Shore
 Leave Pass (SLP).
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What are the restrictions for Pakistani or Pakistani-origin
 crew?
 A: Pakistani nationals and crew members of Pakistani origin will not
 be issued a Landing Permit if they are arriving in India from any
 country other than Pakistan.
 BUSINESS VISA (B) IN INDIA: Frequently Asked Questions
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: When should I apply for a Business Visa instead of other
 types?
 A: You should apply for a Business Visa if you are visiting India to:
@@ -994,41 +821,29 @@ discussions.
 • Participate in commercial sports events on contract (such as the
 IPL, ISL, or IBL), including acting as a coach, where
 remuneration is involved.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can I receive a salary in India while on a Business Visa?
 A: No. A foreign national on a Business Visa is not permitted to take
 a salary or remuneration in India. If you are intended to be on an
 Indian payroll or receive a salary locally, you must apply for an
 Employment Visa instead.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Do I need to register with the FRRO?
 A: Registration with the FRRO/FRO is required if your aggregate stay
 in India (total days spent in the country) exceeds 180 days during a
 single calendar year.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What are the requirements for extending a Business Visa?
 A: For an extension to be granted, the business must demonstrate a
 gross sales or turnover of at least ₹1 crore per annum. This financial
 target must be achieved within 4 years of setting up the business or
 from the date the initial Business Visa was granted, whichever comes
 first.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can I work for a different company than the one listed on
 my visa?
 A: No. You must remain associated with the specific company or
 organization that provided the visa reference during your application
 process.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What happens if my visa extension is denied?
 A: If your extension is refused, you must leave India immediately or
 upon the expiry of your current visa validity.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Are there any tax obligations?
 A: Yes. Every foreign national conducting business in India is required
 to comply with all Indian taxation rules and regulations pertaining to
@@ -1045,22 +860,16 @@ requirement.
 Here is the information regarding Medical and Medical Attendant visas
 in India, structured into a conversational Q&A format for a chatbot.
 Medical Treatment & Attendant Visa FAQ
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Who needs to apply for a Medical Visa?
 A: Any foreign national who wishes to seek medical treatment in India
 must apply for a Medical Visa. This applies to treatments at
 established, recognized, or specialized hospitals, as well as accredited
 centers providing treatment under Indian systems of medicine (such
 as Ayurveda or Yoga).
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can someone accompany me during my treatment?
 A: Yes. Family members or associates accompanying a patient must
 arrive on a Medical Attendant Visa. This visa is specifically for those
 providing support to the primary Medical Visa holder.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: How many attendants are allowed to travel with a patient?
 A: The number of permitted attendants depends on the patient's
 nationality:
@@ -1069,30 +878,22 @@ allowed.
 • Bangladesh Nationals: Up to three medical attendants are
 permitted.
 • Pakistan Nationals: Only one medical attendant is allowed.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What are the registration rules for Pakistan nationals?
 A: Pakistan nationals holding either a Medical or Medical Attendant
 visa have stricter registration requirements. They must register
 themselves with the concerned Foreigners Registration Office (FRO)
 within 24 hours of their arrival in India.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Do other foreigners need to register with the FRRO/FRO?
 A: Yes, if the visa is valid for a long duration. Foreigners (excluding
 Pakistan nationals) whose Medical or Medical Attendant visas are valid
 for more than 180 days must register with the FRRO/FRO within 14
 days of their arrival.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can I change my hospital or treatment center once I am in
 India?
 A: Changing the hospital or place of treatment that was endorsed on
 your initial visa is generally not allowed. However, it may be permitted
 on a case-to-case basis if you can provide documentary proof that
 justifies the change.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What documents are typically required for the application?
 A: While you should always check the official portal, you will generally
 need:
@@ -1102,8 +903,6 @@ hospital.
 • Proof of sufficient funds for the duration of the stay and
 treatment.
 Medical & Attendant Visa Compliance FAQ
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: If I’m traveling to India for treatment, what kind of visa do
 I need, and can someone come with me?
 A: If you are the person receiving treatment, you must apply for a
@@ -1111,8 +910,6 @@ Medical Visa. For those accompanying you—whether they are family
 members or caregivers—they will need to apply for a Medical
 Attendant Visa. It’s important to remember that the attendant's visa
 is linked directly to yours.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Is there a limit on how many people can come with me as
 medical attendants?
 A: Yes, there are specific limits based on your nationality. For most
@@ -1120,8 +917,6 @@ international travelers, you are allowed up to two attendants.
 However, if you are a citizen of Bangladesh, you are permitted to bring
 up to three attendants, while citizens of Pakistan are limited to one
 attendant only.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Do I need to register with the Indian authorities once I
 arrive?
 A: This depends on your nationality and the length of your stay. For
@@ -1130,23 +925,17 @@ is valid for more than 180 days; in this case, you must register within
 14 days of your arrival. However, if you are a citizen of Pakistan,
 the rules are stricter: you must register within 24 hours of reaching
 India, regardless of your stay duration.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What exactly is a Medical Attendant Visa?
 A: Think of it as a secondary visa for your "escort." It is designed for
 the person who will be assisting the patient during their medical
 journey. Because it is a supportive visa, it usually has the same
 validity period as the patient’s primary Medical Visa.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Are there any specific documents the attendant needs to
 show?
 A: Along with their own application, the attendant usually needs a
 letter from the hospital in India that specifically mentions their name
 as the designated caregiver for the patient. They may also need to
 provide proof of their relationship to the patient.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can I change my attendants once I am already in India?
 A: Generally, the attendants who arrive with you are the ones
 authorized to stay. Changing an attendant while in India is a complex
@@ -1167,8 +956,6 @@ apply for?
 A: Foreigners joining internships at Indian companies, educational
 institutions, NGOs, or foreign missions must obtain a Student (S-6)
 Visa.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Are there any types of institutions I should avoid?
 A: Yes. You must not enroll in courses offered by:
 • Franchise educational institutes running off-campus centers.
@@ -1183,40 +970,28 @@ A: If your Student Visa is valid for more than 180 days (or as per
 specific stay stipulations on your visa), you must register with the
 concerned FRRO within 14 days of your arrival. Note: Pakistan
 nationals have different, stricter registration rules.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What are the financial requirements for students in India?
 A: Foreign students are required to open a Non-Resident Ordinary
 (NRO) Account at a recognized bank in India. You must then furnish
 these account details to the concerned FRRO.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can I change my college or university after I arrive?
 A: A change of institution is generally only allowed under specific
 circumstances, such as:
 • Insufficient infrastructure or facilities.
 • Unavailability of the chosen course. You must provide
 reasonable grounds to the authorities for such a request.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What happens if I stop attending my course?
 A: If you discontinue your course for any reason, you must intimate
 the concerned FRRO immediately.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Are there any travel restrictions for students?
 A: If your educational institution is located in a designated Restricted
 or Protected Area, you must obtain a RAP/PAP permit before traveling
 to that location.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What is the "Study in India" (SII) scheme?
 The SII scheme is a government initiative to help foreign students
 apply to top-tier Indian institutes. You can find more details and
 register at https://studyinindia.gov.in.
 TOURISM IN INDIA: Frequently Asked Questions
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: When should I apply for a Tourist Visa?
 A: You should apply for a Tourist Visa if your sole objective for visiting
 India is:
@@ -1225,73 +1000,54 @@ India is:
 • Attending a short-term yoga program (up to 6 months).
 • Short-duration medical treatment (including Indian systems of
 medicine).
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: I am traveling with a large group. Is there a specific visa
 for us?
 A: Yes. If you are traveling in a group of 4 or more members through
 a recognized Travel Agency, you may be eligible for a Group Tourist
 Visa.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: How long can I stay in India on a Tourist Visa?
 A: The maximum aggregate stay for a foreigner in a single calendar
 year (whether on a regular Tourist Visa, an e-Tourist Visa, or both)
 cannot exceed 180 days. Additionally, you must adhere to the
 specific continuous stay stay-stipulation limit endorsed on your visa
 upon arrival.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can I extend my Tourist Visa or change it to another type?
 A: No. An e-Tourist or regular Tourist Visa is non-extendable and
 non-convertible. Once the visa expires or your permitted stay is
 over, you must depart the country.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Can I participate in tourist activities if I am on a different
 type of visa?
 A: Yes. Foreign nationals (except Pakistani nationals) who arrive in
 India on any other type of visa (such as a Business or Student visa)
 are permitted to engage in activities typically allowed under a Tourist
 Visa.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: What counts as a "short-term yoga programme"?
 A: A short-term yoga program is defined as one that does not exceed
 6 months in duration and does not result in the issuance of a formal
 qualifying certificate or diploma.
----CHUNK---
-[SEAMEN AND MARITIME CREW FAQ]
 Q: Is there a mandatory gap between two visits?
 A: For most travelers, there is no longer a gap requirement. However,
 a gap of at least 2 months is mandatory between two visits for
 nationals of the following countries:
 • Afghanistan, China, Iraq, and Sudan.
 • Foreigners of Pakistani origin and stateless persons.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
+QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ
 Q: Is there a limit on how long I can stay in India on a Tourist
 Visa in a single year?
 A: Yes. The maximum time a foreigner can stay in India on a Tourist
 or e-Tourist Visa is 180 days total within a single calendar year
 (January to December). Even if you have a multi-year visa, you must
 ensure your combined visits don't cross this 180-day threshold.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: Can I extend my Tourist Visa if I want to stay longer?
 A: No. Under standard rules, Tourist and e-Tourist Visas are strictly
 non-extendable. You must depart the country before your permitted
 stay or visa validity expires.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: Am I allowed to convert my Tourist Visa into a Student or
 Work Visa while I'm in India?
 A: Generally, no. Conversion of a Tourist Visa into any other visa type
 is not permitted while you are inside the country. If your purpose of
 stay changes, you usually need to leave India and apply for the
 correct visa category from abroad.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: Is there a mandatory gap required between two visits to
 India?
 A: For most nationalities, there is no longer a mandatory "two-month
@@ -1299,8 +1055,6 @@ gap" between visits. However, a 2-month gap between arrivals is still
 strictly required for nationals of Afghanistan, China, Iraq, Sudan, and
 Iran, as well as for stateless persons and foreigners of Pakistani
 origin.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: Can I take a yoga course while on a Tourist Visa?
 A: Yes, you can attend a short-term yoga program on a Tourist Visa,
 provided the course does not exceed 6 months in duration. Please
@@ -1308,42 +1062,30 @@ note that these should be casual or experiential courses; the Tourist
 Visa does not cover structured programs that result in a formal
 diploma or qualifying certificate.
 VISA-FREE ENTRY TO INDIA: Frequently Asked Questions
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: Which countries are exempt from the Indian visa
 requirement?
 A: Citizens of Nepal, Bhutan, and the Maldives are eligible for visa-
 free entry into India under specific conditions.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: Under what conditions can Maldivian citizens enter India
 without a visa?
 A: Maldivian nationals can avail of visa-free entry exclusively for
 Tourism, Medical treatment, or Business purposes, provided their stay
 does not exceed 90 days.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: How is the 90-day stay calculated for Maldivians?
 A: The 90-day limit is cumulative. It includes all prior stays in India
 during the 6 months immediately preceding your current date of
 arrival. If you intend to stay longer than 90 days, you must apply for
 a Regular Visa.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: Can Maldivian seamen use the visa-free entry to "Sign-On"
 to a vessel?
 A: No. The "Sign-On" facility is not available to seamen who enter
 India under the visa-free regime.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: Do citizens of Nepal and Bhutan need a passport to enter
 India?
 A: If they are visiting India directly from Nepal or Bhutan (by land
 or air), they are exempt from holding a passport or visa. However,
 they must carry a government-approved photo ID that authenticates
 their nationality (such as a Voter ID).
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: When is a passport mandatory for Nepalese or Bhutanese
 citizens?
 A: A valid passport is required in the following scenarios:
@@ -1352,31 +1094,24 @@ country other than Nepal, Bhutan, or India).
 • When entering India specifically from China, Macau, Hong
 Kong, or Pakistan. In these cases, a passport and a valid
 Indian visa are mandatory.
----CHUNK---
-[QUICK COMPLIANCE CHECKLIST FOR TOURISTS FAQ]
 Q: What details must the identification document contain?
 A: If not using a passport, the alternative document must include:
 • Given Name and Last Name.
 • Date of Birth and Nationality.
 • Photograph.
 • Issuing Authority and Period of Validity.
----CHUNK---
-[VISA-FREE ENTRY QUICK REFERENCE FAQ]
+VISA-FREE ENTRY QUICK REFERENCE FAQ
 Q: What are the visa rules for Maldivian citizens visiting India?
 A: Citizens of the Maldives can enter India without a visa for tourism,
 medical treatment, or business purposes. This stay is limited to 90
 days within any 6-month period, and travellers must be in possession
 of a valid passport.
----CHUNK---
-[VISA-FREE ENTRY QUICK REFERENCE FAQ]
 Q: Do citizens of Nepal need a passport to enter India?
 A: Not necessarily. If a Nepalese citizen is entering India directly from
 Nepal, there is no limit on their stay and they can use either a valid
 passport or a government-issued photo ID that proves their
 nationality. However, if they are entering India from a third country,
 a passport and visa become mandatory.
----CHUNK---
-[VISA-FREE ENTRY QUICK REFERENCE FAQ]
 Q: What documents are required for Bhutanese citizens
 traveling to India?
 A: Similar to Nepalese citizens, Bhutanese nationals traveling directly
@@ -1384,36 +1119,28 @@ from Bhutan do not have a stay limit and can enter using a
 government-issued photo ID or a passport. If they arrive from a
 country other than Bhutan or India, they must have a valid passport
 and an Indian visa.
----CHUNK---
-[VISA-FREE ENTRY QUICK REFERENCE FAQ]
 Q: Are there special rules for Nepalese or Bhutanese citizens
 arriving from places like China or Pakistan?
 A: Yes. Even though there is a visa-free regime for these citizens, if
 they are entering India from China, Macau, Hong Kong, or Pakistan,
 they are strictly required to be in possession of both a valid passport
 and a visa for India.
----CHUNK---
-[VISA-FREE ENTRY QUICK REFERENCE FAQ]
 Q: What happens if a Maldivian citizen needs to stay in India
 for more than 90 days?
 A: The visa-free facility for Maldivians is strictly capped at 90 days
 (which includes any time spent in India during the previous 6
 months). If the intended visit is longer than 90 days, a regular Indian
 visa must be obtained before arrival.
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
+EMPLOYMENT VISA: FAQ
+General Eligibility & Requirements
 Q: What type of visa do I need to work in India?
 A: Foreigners desiring to work in India must arrive on a valid
 Employment Visa. This is typically reserved for highly skilled or
 qualified professionals.
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: Who is eligible for an Employment Visa?
 A: You are eligible if you are being engaged or appointed by:
 • An Indian company, organization, or industry.
 • A foreign firm engaged in the execution of a project in India.
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: Is there a minimum salary requirement for working in
 India?
 A: Yes. Foreigners must draw a gross salary exceeding Rs. 16.25
@@ -1421,44 +1148,30 @@ lakhs per annum.
 Note: Some specific sectors notified by the Government of India
 (GOI) may be exempt from this annual floor limit.
 Non-Profit & Volunteer Work
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: Do I need a visa for voluntary work or NGOs?
 A: Yes. If you intend to work with a Non-Profit or NGO on a voluntary
 basis (with or without an honorarium), you must obtain an
 Employment (E-3) Visa.
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: Is there a limit on the stipend for volunteers?
 A: Yes, if an honorarium is paid, it is subject to a ceiling of Rs. 10,000
 per month.
 Business Owners & Promoters
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: I own the majority stake in a company; do I need an
 Employment Visa?
 A: No. If you are a promoter or owner of a company holding majority
 stakes/shareholdings, you are required to enter India on a Business
 Visa.
 Restrictions & Compliance
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: Can I change my employer while in India?
 A: No. A change of employer is not permitted during the currency of
 your employment visa. To change jobs, you must leave India and
 apply for a fresh Employment Visa.
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: Can I work for two companies at the same time?
 A: No. Foreigners are prohibited from working for more than one
 company simultaneously on an Employment Visa.
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: What happens if I resign or lose my job?
 A: You must inform the FRRO/FRO (Foreigners Regional Registration
 Office) concerned immediately if you discontinue your employment.
----CHUNK---
-[EMPLOYMENT VISA: FAQ]
 Q: What are my legal obligations while working in India?
 A: You must comply with all Indian legal requirements, including
 meeting the minimum salary threshold and fulfilling all tax liabilities.
@@ -1498,31 +1211,25 @@ A: If you discontinue your employment, you (or your employer) must
 inform the concerned FRRO/FRO office. Additionally, you are
 responsible for ensuring all legal requirements are met before you
 leave, such as paying your final tax liabilities.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
+INDIA TRANSIT VISA: FAQ
+General Transit Rules
 Q: I’m just passing through India to another country. Do I
 need a Transit Visa?
 A: Yes, if your sole purpose is to travel through India to a destination
 outside the country, a Transit Visa is required. However, there are
 specific exceptions for air and sea travelers who stay within
 designated areas.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: How long is a Transit Visa valid for?
 A: Ordinarily, it is valid for a single journey and must be used for
 entry within 15 days from the date it was issued. Note that its validity
 will never exceed the validity of the visa you hold for your final
 destination country.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: How long can I stay in India on a Transit Visa?
 A: A Transit Visa is only for "direct transit." This means each visit
 cannot exceed 3 days. If you plan to stay in India for more than 72
 hours, you must apply for an appropriate visa category (like a Tourist
 Visa).
 Air & Sea Travel Exceptions
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: I have a layover at an Indian airport. Do I need a visa if I
 don't leave the airport?
 A: You do not need a Transit Visa if you are in direct transit by air and
@@ -1530,95 +1237,70 @@ remain within the specified precincts of the airport for less than 24
 hours. If your layover exceeds 24 hours, or if you need to leave the
 airport precincts (e.g., to stay at a hotel outside), a Transit Visa is
 required.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: I’m traveling by ship. Do I need a visa when we dock at an
 Indian port?
 A: No, a Transit Visa is not required as long as you do not leave the
 ship while it is at the port.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: Can I leave my ship to catch a flight from a nearby airport?
 A: Yes, but only with prior approval from the competent authority.
 You must hold a valid ticket for a scheduled air service and will only
 be allowed to leave the ship to proceed directly to the designated
 airport.
 Important Restrictions & Extensions
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: What happens if I don't travel within the 15-day validity
 period?
 A: If you do not perform your journey through India within the validity
 period of your Transit Visa, the visa will lapse. You will need to apply
 and pay for a fresh Transit Visa.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: Can I extend my Transit Visa if my plans change?
 A: Generally, no. Transit Visas are not extendable. Extensions are only
 granted in extreme emergencies, such as medical illness, inclement
 weather, or major strikes/traffic disruptions.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: Can I use a Transit Visa to do a quick 4-day tour?
 A: No. If you intend to stay in India for more than 3 days for any
 reason, you must obtain a visa of the appropriate category, such as
 an e-Tourist Visa.
 India Transit Regulations
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: I have a layover in India. Do I always need a Transit Visa?
 A: Not necessarily. If you are traveling by air and staying inside the
 airport's transit area for less than 24 hours, you do not need a visa.
 However, if your layover is longer than 24 hours or you plan to leave
 the airport, you must have a Transit Visa.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: How long can I actually stay in the country on a Transit
 Visa?
 A: A Transit Visa is strictly for short stops. You can stay for a
 maximum of 3 days (72 hours) per visit. If you plan to be in India for
 more than 3 days, you’ll need to apply for a different category, like a
 Tourist Visa.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: I am traveling by sea. Do I need a visa when the ship stops
 at an Indian port?
 A: If you stay on board the ship while it is docked, you do not need a
 visa. If you intend to leave the ship to catch a flight, you will need a
 visa and prior approval from the competent authorities to proceed to
 the airport.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: How long is the Transit Visa valid once it is issued?
 A: Generally, a Transit Visa is valid for a single journey and must be
 used within 15 days of being issued. Also, keep in mind that its
 validity cannot exceed the validity of the visa you hold for your final
 destination country.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: My flight was delayed due to bad weather. Can I extend my
 Transit Visa?
 A: Normally, Transit Visas cannot be extended. However, exceptions
 are made for extreme emergencies such as inclement weather,
 strikes, or medical illness. Outside of these rare cases, the 3-day limit
 is firm.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: What happens if I don't use my Transit Visa within the 15-
 day window?
 A: If you don't perform your journey within that period, the visa
 becomes invalid. You cannot renew it; you would have to apply and
 pay for a fresh Transit Visa.
----CHUNK---
-[INDIA TRANSIT VISA: FAQ]
 Q: Can I leave the airport to stay at a hotel for two nights on
 this visa?
 A: Yes! As long as your stay is under 3 days, a Transit Visa allows you
 to leave the airport precincts. If your hotel stay or visit exceeds 3
 days, you must obtain an appropriate category visa, such as a Tourist
 Visa, before you arrive.
----CHUNK---
-[FOREIGNERS/PERSONS OF INDIAN ORIGIN (FIO)]
+FOREIGNERS/PERSONS OF INDIAN ORIGIN (FIO)
 Q: What exactly does it mean to be a "Foreigner of Indian
 Origin" (FIO)?
 A: You are considered a Foreigner of Indian Origin if you meet one of
@@ -1626,8 +1308,6 @@ two criteria:
 a. You have held an Indian passport at any time in the past.
 b. You, or any of your parents, grandparents, or great-grandparents,
 were born in and were permanent residents of India.
----CHUNK---
-[FOREIGNERS/PERSONS OF INDIAN ORIGIN (FIO)]
 Q: Are there any countries that are excluded from this FIO
 definition?
 A: Yes. Even if you have Indian ancestry, you are generally not eligible
@@ -1635,15 +1315,11 @@ for this status if you (or the ancestors you are tracing through) have
 ever been a citizen of Afghanistan, Bangladesh, China, Pakistan, or
 Sri Lanka. The Government of India may also specify other countries
 from time to time.
----CHUNK---
-[FOREIGNERS/PERSONS OF INDIAN ORIGIN (FIO)]
 Q: Which visa is best for an FIO visiting India?
 A: The most appropriate category is the Entry (X-1) Visa. While FIOs
 can apply for other visas (like Tourist or Business) depending on their
 specific purpose, the X-1 visa is specifically designed for people of
 Indian origin and their families.
----CHUNK---
-[FOREIGNERS/PERSONS OF INDIAN ORIGIN (FIO)]
 Q: Who else is eligible for the X-1 Entry Visa besides the FIO
 themselves?
 A: The X-1 Visa is also available to:
@@ -1652,15 +1328,11 @@ A: The X-1 Visa is also available to:
 born in a foreign country.
 • People of Indian origin from former French territories,
 specifically those born in Puducherry, Mahe, and Yanam.
----CHUNK---
-[FOREIGNERS/PERSONS OF INDIAN ORIGIN (FIO)]
 Q: Can I use an X-1 Visa if I want to work or start a business
 in India?
 A: No. The X-1 Visa is primarily for visiting and staying with family. If
 your purpose is professional, you should apply for an Employment or
 Business Visa, even if you are of Indian origin.
----CHUNK---
-[FOREIGNERS/PERSONS OF INDIAN ORIGIN (FIO)]
 Q: What is the difference between an FIO and an OCI
 cardholder?
 A: "Foreigner of Indian Origin" is a general description of your
@@ -1669,14 +1341,11 @@ status you apply for that grants you a "lifelong visa" and many of the
 same rights as Indian citizens (excluding voting and buying
 agricultural land). Most FIOs prefer to get an OCI card because it
 eliminates the need to apply for a visa every time they visit.
----CHUNK---
-[RESTRICTED & PROTECTED AREA PERMITS]
+RESTRICTED & PROTECTED AREA PERMITS
 Q: Can foreigners visit any part of India they wish?
 A: Generally, yes, but certain regions are classified as Protected Areas
 or Restricted Areas. Foreigners are not normally allowed to visit these
 zones unless they have extraordinary reasons and the proper permits.
----CHUNK---
-[RESTRICTED & PROTECTED AREA PERMITS]
 Q: Which areas in India require a special permit (RAP/PAP)?
 A: You will need a permit (Restricted Area Permit or Protected Area
 Permit) to visit the following:
@@ -1685,8 +1354,6 @@ Nagaland, and the Andaman & Nicobar Islands.
 • Specific Parts of States: Parts of Himachal Pradesh, Jammu &
 Kashmir, Rajasthan, Uttarakhand, and Sikkim (which is partly
 Protected and partly Restricted).
----CHUNK---
-[RESTRICTED & PROTECTED AREA PERMITS]
 Q: How do I apply for a RAP or PAP?
 A: The application process depends on where you are currently
 located:
@@ -1694,58 +1361,43 @@ located:
 (Embassy/Consulate) at least 30 days before your planned visit.
 • Already in India: Apply to the jurisdictional FRRO (Foreigners
 Regional Registration Office) at least 15 days in advance.
----CHUNK---
-[RESTRICTED & PROTECTED AREA PERMITS]
 Q: If I have a permit, can I go anywhere within that restricted
 area?
 A: Not necessarily. A RAP/PAP grants you entry to the general region,
 but you may still need additional permission from the specific officer
 in charge of certain installations, national parks, or specific islands
 within that area.
----CHUNK---
-[RESTRICTED & PROTECTED AREA PERMITS]
 Q: What are the consequences of visiting these areas without
 a permit?
 A: Visiting a Restricted or Protected area without a valid permit is a
 serious legal offense. Under the Immigration and Foreigners Act,
 2025, strict action will be taken against anyone found in violation of
 these security protocols.
----CHUNK---
-[RESTRICTED & PROTECTED AREA PERMITS]
 Q: Are there any group requirements for these permits?
 A: Yes, in many cases (especially for PAP), tourists are required to
 travel in groups of at least two people and must be accompanied by
 a registered travel agent. Independent travel to certain zones may be
 restricted.
----CHUNK---
-[RESTRICTED & PROTECTED AREA PERMITS]
 Q: Is the list of restricted areas permanent?
 A: No. The Government of India updates these locations from time to
 time. Always check with the local FRRO or the Indian Embassy for the
 most current list of notified places before you finalize your itinerary.
----CHUNK---
-[IMMIGRATION FOR INDIAN CITIZENS]
+IMMIGRATION FOR INDIAN CITIZENS
 Q: Do Indian citizens need to go through immigration when
 traveling abroad?
 A: Yes. Indian citizens are required to obtain immigration clearance
 both when arriving in India and when departing for a foreign country.
----CHUNK---
-[IMMIGRATION FOR INDIAN CITIZENS]
 Q: What documents do I need to carry when leaving India?
 A: To clear immigration at departure, you must carry:
 • A valid Indian Passport.
 • A valid Visa for your destination country.
 • Any other specific clearances required for your travel (such as
 OCI cards for family members or specific health declarations).
----CHUNK---
-[IMMIGRATION FOR INDIAN CITIZENS]
 Q: I used an e-Gate at the airport, but my passport wasn't
 stamped. Is this a problem?
 A: No, it’s perfectly normal! If you use the automated e-Gates (part
 of the Fast Track Immigration program), the system processes your
 clearance digitally. Your passport will not receive a physical ink stamp.
----CHUNK---
-[IMMIGRATION FOR INDIAN CITIZENS]
 Q: How can I check my travel history if my passport isn't
 stamped?
 A: You can view your arrival and departure details online. Simply log
@@ -1756,54 +1408,85 @@ A: It stands for the Fast Track Immigration – Trusted Traveller
 Programme. It’s a government initiative that allows pre-verified
 Indian nationals and OCI cardholders to use biometric e-gates for
 faster, contactless immigration clearance.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-1. Delhi Office • Location: ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9 Bhagwandas Road, New Delhi-110001. • Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in • Jurisdiction: Delhi, Uttarakhand, parts of Uttar Pradesh (Shamli, Meerut, Ghaziabad, etc.), parts of Haryana (Gurgaon, Faridabad, etc.), and parts of Rajasthan (Alwar, Bharatpur).
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-2. Rae Bareli Office • Location: 1st Floor, Rudra Plaza, Hospital Road, Rae Bareli, Uttar Pradesh. • Contact: 0535-2211122 | poerbl@mea.gov.in • Jurisdiction: Covers the state of Uttar Pradesh.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-3. Jaipur Office • Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. • Contact: 0141-2771528 | poejaipur@mea.gov.in • Jurisdiction: Covers the state of Rajasthan.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-4. Chandigarh Office • Location: 5th Block, Ground Floor, Room No. 27, Kendriya Sadan, Sector-9A, Chandigarh-160017. • Contact: 0172-2741790 | poechd@mea.gov.in • Jurisdiction: Punjab, Haryana, Chandigarh, Himachal Pradesh, and Jammu & Kashmir.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-5. Mumbai Office • Location: 4th Floor, "Videsh Bhavan," BKC, Plot No C-45, G Block, Bandra (East), Mumbai-400051. • Contact: 022-26520023 | poemumbai@mea.gov.in • Jurisdiction: Maharashtra, Gujarat, Goa, Madhya Pradesh, and UTs of Dadra & Nagar Haveli and Daman & Diu.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-6. Kolkata Office • Location: Room No. 18, A-Wing, MSO Building, 3rd Floor, DF Block, Salt Lake, Kolkata-700084. • Contact: 033-23343407 | poekol@mea.gov.in • Jurisdiction: West Bengal, Odisha, Chhattisgarh, Sikkim, and Andaman & Nicobar Islands.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-7. Hyderabad Office • Location: Regional Passport Office Building, 2nd Floor, 73, Red Cross Road, Shivaji Nagar, Secunderabad-500003. • Contact: 040-27772557 | poehyd@mea.gov.in • Jurisdiction: Andhra Pradesh and Telangana.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-8. Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-9. Trivandrum Office • Location: 5th Floor, NORKA Centre, Thycaud, Thiruvananthapuram-695014. • Contact: 0471-2336625 | poetvm2@mea.gov.in • Jurisdiction: Southern Kerala districts (Thiruvananthapuram, Kollam, Pathanamthitta, Kottayam, Idukki, Alappuzha).
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-0. Cochin Office • Location: Ground Floor, RPO Building, Panampilli Nagar, Cochin. • Contact: 0484-2360187 | poecochin@mea.gov.in • Jurisdiction: Northern Kerala districts (Ernakulam, Thrissur, Kozhikode, etc.) and Lakshadweep.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-1. Patna Office • Location: 5th Floor, A Block, Niyojan Bhawan, Bailey Road, Patna-800001. • Contact: poepatna@mea.gov.in • Jurisdiction: Bihar and Jharkhand.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-2. Bengaluru Office • Location: RPO Building, 8th Block, 80 Feet Road, KHB Games Village, Koramangala, Bengaluru-560095. • Contact: poebengaluru@mea.gov.in • Jurisdiction: Karnataka and Goa.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
-3. Guwahati Office • Location: RPO Building, Rani Bagan, Basistha Road, 3rd Bylane, Guwahati-781028. • Contact: 8287020033 | poeguwahati@mea.gov.in • Jurisdiction: Arunachal Pradesh, Assam, Meghalaya, Mizoram, Manipur, Nagaland, and Tripura. POE Clearance
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
+PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY
+1. Delhi Office
+• Location: ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9
+Bhagwandas Road, New Delhi-110001.
+• Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in
+• Jurisdiction: Delhi, Uttarakhand, parts of Uttar Pradesh (Shamli,
+Meerut, Ghaziabad, etc.), parts of Haryana (Gurgaon,
+Faridabad, etc.), and parts of Rajasthan (Alwar, Bharatpur).
+2. Rae Bareli Office
+• Location: 1st Floor, Rudra Plaza, Hospital Road, Rae Bareli, Uttar
+Pradesh.
+• Contact: 0535-2211122 | poerbl@mea.gov.in
+• Jurisdiction: Covers the state of Uttar Pradesh.
+3. Jaipur Office
+• Location: CFC Building, RIICO, Sitapura Industrial Area,
+Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan.
+• Contact: 0141-2771528 | poejaipur@mea.gov.in
+• Jurisdiction: Covers the state of Rajasthan.
+4. Chandigarh Office
+• Location: 5th Block, Ground Floor, Room No. 27, Kendriya
+Sadan, Sector-9A, Chandigarh-160017.
+• Contact: 0172-2741790 | poechd@mea.gov.in
+• Jurisdiction: Punjab, Haryana, Chandigarh, Himachal Pradesh,
+and Jammu & Kashmir.
+5. Mumbai Office
+• Location: 4th Floor, "Videsh Bhavan," BKC, Plot No C-45, G
+Block, Bandra (East), Mumbai-400051.
+• Contact: 022-26520023 | poemumbai@mea.gov.in
+• Jurisdiction: Maharashtra, Gujarat, Goa, Madhya Pradesh, and
+UTs of Dadra & Nagar Haveli and Daman & Diu.
+6. Kolkata Office
+• Location: Room No. 18, A-Wing, MSO Building, 3rd Floor, DF
+Block, Salt Lake, Kolkata-700084.
+• Contact: 033-23343407 | poekol@mea.gov.in
+• Jurisdiction: West Bengal, Odisha, Chhattisgarh, Sikkim, and
+Andaman & Nicobar Islands.
+7. Hyderabad Office
+• Location: Regional Passport Office Building, 2nd Floor, 73, Red
+Cross Road, Shivaji Nagar, Secunderabad-500003.
+• Contact: 040-27772557 | poehyd@mea.gov.in
+• Jurisdiction: Andhra Pradesh and Telangana.
+8. Chennai Office
+• Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai,
+Chennai-600078.
+• Contact: 044-29862069 | poechennai1@mea.gov.in
+• Jurisdiction: Tamil Nadu and Puducherry.
+9. Trivandrum Office
+• Location: 5th Floor, NORKA Centre, Thycaud,
+Thiruvananthapuram-695014.
+• Contact: 0471-2336625 | poetvm2@mea.gov.in
+• Jurisdiction: Southern Kerala districts (Thiruvananthapuram,
+Kollam, Pathanamthitta, Kottayam, Idukki, Alappuzha).
+10. Cochin Office
+• Location: Ground Floor, RPO Building, Panampilli Nagar, Cochin.
+• Contact: 0484-2360187 | poecochin@mea.gov.in
+• Jurisdiction: Northern Kerala districts (Ernakulam, Thrissur,
+Kozhikode, etc.) and Lakshadweep.
+11. Patna Office
+• Location: 5th Floor, A Block, Niyojan Bhawan, Bailey Road,
+Patna-800001.
+• Contact: poepatna@mea.gov.in
+• Jurisdiction: Bihar and Jharkhand.
+12. Bengaluru Office
+• Location: RPO Building, 8th Block, 80 Feet Road, KHB Games
+Village, Koramangala, Bengaluru-560095.
+• Contact: poebengaluru@mea.gov.in
+• Jurisdiction: Karnataka and Goa.
+13. Guwahati Office
+• Location: RPO Building, Rani Bagan, Basistha Road, 3rd Bylane,
+Guwahati-781028.
+• Contact: 8287020033 | poeguwahati@mea.gov.in
+• Jurisdiction: Arunachal Pradesh, Assam, Meghalaya, Mizoram,
+Manipur, Nagaland, and Tripura.
+POE Clearance
 Q: What is "Emigration Clearance" and who needs it?
 A: Emigration Clearance is a legal requirement under the Emigration
 Act, 1983. It is mandatory for Indian passport holders in the ECR
 (Emigration Check Required) category who are traveling to specific
 countries for employment.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
 Q: Which countries require me to get POE clearance before I
 fly for work?
 A: Currently, there are 18 countries where clearance is required for
@@ -1812,14 +1495,10 @@ ECR passport holders:
 Bahrain, Jordan, Yemen, Syria, Lebanon, Iraq, Iran.
 • Africa: Libya, Sudan.
 • Asia: Malaysia, Indonesia, Thailand, Afghanistan.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
 Q: Is it true that I cannot travel to Iraq for work?
 A: Yes, currently emigration to Iraq is banned. Even for those with
 ECNR passports, traveling to Iraq for work usually requires special
 government clearance or is restricted due to security concerns.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
 Q: How do I know if my passport is "ECR" or "ECNR"?
 A: Look at the last page of your passport.
 • If it has an endorsement saying “Emigration Check Required,”
@@ -1827,8 +1506,6 @@ you are in the ECR category.
 • If there is no such endorsement, or if it explicitly says "ECNR"
 (or refers to the holder as being in a non-ECR category), you do
 not need POE clearance for travel.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
 Q: I have an ECR passport, but I'm just going to the UAE for a
 10-day holiday. Do I still need clearance?
 A: No. Since October 1st, 2007, ECR passport holders traveling for
@@ -1836,8 +1513,6 @@ purposes other than employment (like tourism, visiting family, or
 study) do not need POE clearance. You simply need your valid
 passport, a valid visa, and a return ticket to show at the immigration
 counter.
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
 Q: Are there any professional groups that always need
 clearance, regardless of their passport status?
 A: Yes. Even if you have an ECNR passport, you must obtain POE
@@ -1846,76 +1521,56 @@ any of the 18 ECR countries:
 • Nurses traveling for work.
 • Seafarers traveling to join a vessel abroad.
 • Anyone traveling to Iraq (due to the current restrictions).
----CHUNK---
-[PROTECTOR OF EMIGRANTS (POE) OFFICE DIRECTORY]
 Q: Can I apply for this clearance online?
 A: Yes. As of 2026, the process is fully digital through the eMigrate
 portal. You will need to upload your employment contract, your visa,
 and proof of your PBBY (Pravasi Bhartiya Bima Yojana) insurance.
----CHUNK---
-[SEAFARERS AND E-MIGRATE]
+SEAFARERS AND E-MIGRATE
 Q: What is the e-Migrate system for seafarers?
 A: The e-Migrate system is a mandatory digital platform launched by
 the Directorate General of Shipping (DGS). It is designed to track and
 protect Indian seafarers, particularly those recruited for foreign-
 flagged vessels.
----CHUNK---
-[SEAFARERS AND E-MIGRATE]
 Q: Why was this system introduced?
 A: It was created to prevent seafarers from being exploited by
 unlicensed Recruitment & Placement Services (RPS). By using e-
 Migrate, the government ensures that every seafarer is placed
 through a legitimate agency and has a valid contract.
----CHUNK---
-[SEAFARERS AND E-MIGRATE]
 Q: Who is required to go through the e-Migrate process?
 A: Every Indian seafarer leaving an Indian seaport or airport to join
 a ship—regardless of rank—must be cleared through the e-Migrate
 system.
----CHUNK---
-[SEAFARERS AND E-MIGRATE]
 Q: What happens if I try to join a ship without e-Migrate
 clearance?
 A: You will not be allowed to board your vessel or continue your
 service. Immigration authorities at airports and seaports strictly
 verify e-Migrate status before allowing seafarers to depart.
----CHUNK---
-[SEAFARERS AND E-MIGRATE]
 Q: Are there any exemptions to this rule?
 A: Generally, no, unless specifically exempted by the DGS guidelines
 (such as certain specialized personnel who are not categorized as
 "seafarers" under the Maritime Labour Convention). However, for the
 vast majority of active crew members, it is a mandatory requirement.
----CHUNK---
-[SEAFARERS AND E-MIGRATE]
 Q: I am traveling through Mumbai Airport. Is there help
 available for this?
 A: Yes. As of 2026, there is a 24/7 Seafarers Facilitation Counter at
 Terminal 2 (Mumbai Airport). They can assist with document
 verification and help resolve any e-Migrate issues before you reach
 immigration.
----CHUNK---
-[SEAFARERS AND E-MIGRATE]
 Q: Where can I find more details or check my e-Migrate
 status?
 A: You should visit the official website of the Directorate General of
 Shipping at www.dgshipping.gov.in. You can also manage your profile
 through the updated e-Samudra portal, which handles seafarer data
 as of 2026.
----CHUNK---
-[SEAFARERS AND E-MIGRATE]
 Q: Visa on arrival countries:
 A: Please visit https://www.mea.gov.in/images/amb1/visa-
 facility-for-indian-nationals.pdf
----CHUNK---
-[GOVERNMENT OF INDIA TRAVEL RESTRICTIONS]
+GOVERNMENT OF INDIA TRAVEL RESTRICTIONS
 Q: Which countries are currently subject to travel bans or
 major restrictions by India?
 A: As of 2026, the Government of India maintains strict travel
 advisories and bans for Iraq, Yemen, and Libya due to ongoing
 security threats and volatile regional situations.
----CHUNK---
-[GOVERNMENT OF INDIA TRAVEL RESTRICTIONS]
 Q: I am planning a trip to Iraq. Are there any specific areas I
 must avoid?
 A: Yes. Indian nationals are strictly advised not to travel to the
@@ -1925,23 +1580,17 @@ following five provinces due to extreme security risks:
 • Diyala
 • Anbar
 • Kirkuk
----CHUNK---
-[GOVERNMENT OF INDIA TRAVEL RESTRICTIONS]
 Q: What if I have a job offer in a safer part of Iraq?
 A: For employment in provinces other than the five listed above, you
 must follow these two mandatory steps:
 1. Register on the e-Migrate portal of the Government of India.
 2. Inform the Embassy of India in Baghdad or the Consulate
 General of India in Erbil before you travel.
----CHUNK---
-[GOVERNMENT OF INDIA TRAVEL RESTRICTIONS]
 Q: Is there a total ban on traveling to Yemen?
 A: Yes. A travel ban remains in place for all Indian passport holders.
 Per the MEA notification from September 2017, Indian nationals are
 prohibited from traveling to Yemen due to the severe conflict and lack
 of safety.
----CHUNK---
-[GOVERNMENT OF INDIA TRAVEL RESTRICTIONS]
 Q: What is the current rule for traveling to Libya?
 A: Following a modification in August 2024, the total ban was eased
 to allow only essential travel. Indian nationals are urged to avoid all
@@ -1949,22 +1598,17 @@ non-essential visits. If you must travel for essential reasons:
 • Maintain regular contact with the Indian Embassy in Tripoli.
 • Avoid inter-province road travel.
 • Exercise extreme caution at all times.
----CHUNK---
-[GOVERNMENT OF INDIA TRAVEL RESTRICTIONS]
 Q: Where can I find the most up-to-date travel advisories for
 other countries?
 A: You should always check the "Travel Advisory" section on the
 official website of the Ministry of External Affairs (MEA) at
 www.mea.gov.in. These advisories are updated frequently based on
 global security developments.
----CHUNK---
-[NEPAL ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
+NEPAL ENTRY REQUIREMENTS FOR INDIAN CITIZENS
 Q: Do Indian citizens need a visa or passport to enter Nepal?
 A: No. Indian citizens do not require a visa or a passport to enter
 Nepal, whether traveling by land or by air. However, you must carry
 specific identity documents to prove your citizenship.
----CHUNK---
-[NEPAL ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: What documents are accepted for Indian adults traveling to
 Nepal by air?
 A: To establish your identity as an Indian citizen when flying, you
@@ -1974,8 +1618,6 @@ should carry one of the following:
 of India.
 • A Photo Identity Card issued to employees by the Government
 of India, State Government, or UT Administration.
----CHUNK---
-[NEPAL ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: What documents are required for minor children traveling
 with their parents?
 A: Minor children accompanied by parents (who have their own valid
@@ -1985,87 +1627,65 @@ prove their age and relationship:
 • Aadhaar Card
 • Ration Card issued by the Government of India
 • Photo ID Card issued by their School or College
----CHUNK---
-[NEPAL ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: I lost my documents while in Nepal. How can I return to
 India?
 A: If you are in Nepal and lose your identification, you should contact
 the Embassy of India in Kathmandu. They can issue an Emergency
 Certificate or an Identity Certificate specifically for a single journey
 back to India.
----CHUNK---
-[NEPAL ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: Can family members of government employees use their
 office-issued IDs?
 A: Yes. Photo Identity Cards issued by the Central/State Government
 or UT Administrations to their employees and their dependent family
 members are considered valid for travel between India and Nepal.
----CHUNK---
-[BHUTAN ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
+BHUTAN ENTRY REQUIREMENTS FOR INDIAN CITIZENS
 Q: Do Indian citizens need a visa to visit Bhutan?
 A: No, Indian nationals do not require a visa to enter Bhutan.
 However, you must obtain an Entry Permit upon arrival.
----CHUNK---
-[BHUTAN ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: Where can I get my Entry Permit?
 A: If you are entering by land via the border town of Phuentsholing,
 the Department of Immigration issues these permits at the Pedestrian
 Terminal. If you are flying into Paro, the permit is processed at the
 airport's immigration counter.
----CHUNK---
-[BHUTAN ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: What documents do I need to carry for the Entry Permit?
 A: You must carry one of the following two original documents:
 • An Original Indian Passport (must have at least six months of
 validity remaining).
 • An Original Voter ID Card (issued by the Election Commission of
 India).
----CHUNK---
-[BHUTAN ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: What are the requirements for children under 18 years old?
 A: Children who do not have a passport or Voter ID must carry their
 Original Birth Certificate (it must be in English). Additionally, minors
 must be accompanied by a legal guardian.
----CHUNK---
-[BHUTAN ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: Can I use my Aadhaar Card or Driving License to enter
 Bhutan?
 A: No. According to the official guidelines, only the Passport or Voter
 ID Card are accepted as valid travel documents for adults. Other
 forms of ID like Aadhaar [Redacted] or a Driving License are not
 sufficient for the issuance of an Entry Permit.
----CHUNK---
-[BHUTAN ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: Is there a fee for Indian tourists visiting Bhutan?
 A: Yes. While there is no "visa fee," Indian tourists are required to
 pay a Sustainable Development Fee (SDF). As of the current
 regulations, this fee is Rs. 1,200 per person per night. Children aged
 6 to 12 typically receive a 50% concession, and those under 5 are
 exempt.
----CHUNK---
-[BHUTAN ENTRY REQUIREMENTS FOR INDIAN CITIZENS]
 Q: Where can I find more specific details about Bhutan's
 immigration policies?
 A: For the most detailed and up-to-date information, you should visit
 the official website of the Department of Immigration (Government
 of Bhutan) at www.doi.gov.bt.
----CHUNK---
-[IMMIGRATION & EXIT REGULATIONS FOR FOREIGNERS]
+IMMIGRATION & EXIT REGULATIONS FOR FOREIGNERS
 Q: What is the primary advice for a foreigner regarding entry
 and departure points in India?
 A: A foreigner is strongly advised to travel only through authorized
 Immigration Posts. Upon crossing the border, the foreigner must
 ensure that their passport is physically stamped by the Immigration
 authorities to maintain a legal record of their movement.
----CHUNK---
-[IMMIGRATION & EXIT REGULATIONS FOR FOREIGNERS]
 Q: What travel documents must a foreigner carry when
 departing India for another country?
 A: Unless specifically exempted, a foreigner requires a valid passport
 and a valid visa (including a Transit Visa, if applicable) for their final
 destination country.
----CHUNK---
-[IMMIGRATION & EXIT REGULATIONS FOR FOREIGNERS]
 Q: Under what circumstances must a foreigner obtain an Exit
 Permit?
 A: An Exit Permit is mandatory for a foreigner in the following
@@ -2076,8 +1696,6 @@ Laissez-Passer.
 visa or stay stipulation.
 • If the foreigner is involved in an inter-country or international
 adoption of a child.
----CHUNK---
-[IMMIGRATION & EXIT REGULATIONS FOR FOREIGNERS]
 Q: Can a foreigner use an OCI card for departure if it was
 issued by an Indian Embassy abroad while the foreigner was
 already in India?
@@ -2086,92 +1704,68 @@ subsequently had an OCI card issued by an embassy abroad, that
 card cannot be used to leave the country. The foreigner must either:
 1. Depart India within the validity of their original visa.
 2. Obtain an Exit Permit from the jurisdictional FRRO.
----CHUNK---
-[IMMIGRATION & EXIT REGULATIONS FOR FOREIGNERS]
 Q: What is the rule if the OCI card was issued to the foreigner
 within India?
 A: If the OCI card was issued by an FRRO in India, the foreigner may
 continue their stay indefinitely and depart at their convenience using
 the newly issued OCI card. No Exit Permit is required in this case.
----CHUNK---
-[IMMIGRATION & EXIT REGULATIONS FOR FOREIGNERS]
 Q: Where can a foreigner find more information regarding
 registration and local authorities?
 A: For more detailed guidance, a foreigner should visit the
 Registration Authority page on the official immigration website to
 identify their jurisdictional FRRO.
----CHUNK---
-[IMMIGRATION & EXIT REGULATIONS FOR FOREIGNERS]
 Q: What are the travel requirements for Nepal Citizens
 A: No Objection Certificate (NOC) mandatory for travelling to
 Kingdom of Saudi Arabia (KSA), Qatar, Kuwait, UAE, Oman, Bahrain,
 Iraq, Libya & Lebanon from India. NOC can be obtained from Embassy
 of Nepal in India. This regulation does not apply to those transiting
 India.
----CHUNK---
-[TRANSIT REGULATIONS FOR PAKISTANI NATIONALS]
+TRANSIT REGULATIONS FOR PAKISTANI NATIONALS
 Q: Does a Pakistani national always need a visa to transit
 through an Indian airport or seaport?
 A: No. A visa is not required if the Pakistani national is in direct transit
 and remains strictly within the designated international transit area
 of the airport or seaport.
----CHUNK---
-[TRANSIT REGULATIONS FOR PAKISTANI NATIONALS]
 Q: When must a Pakistani national apply for an Indian Transit
 Visa?
 A: A Transit Visa is required if the foreigner has a connecting flight to
 a third country at major International Check Posts (ICPs) such as
 Mumbai, Delhi, or Chennai, and needs to leave the transit area.
----CHUNK---
-[TRANSIT REGULATIONS FOR PAKISTANI NATIONALS]
 Q: Is there an option for a Pakistani national who is returning
 to Pakistan via India?
 A: Yes. If the foreigner is traveling to a third country and returning to
 Pakistan via an Indian airport, they may apply for a double-entry
 transit visa.
----CHUNK---
-[TRANSIT REGULATIONS FOR PAKISTANI NATIONALS]
 Q: How long can a Pakistani national stay in India on a Transit
 Visa?
 A: The stay during a single entry on an Indian transit visa must not
 exceed 36 hours.
----CHUNK---
-[TRANSIT REGULATIONS FOR PAKISTANI NATIONALS]
 Q: Does a Pakistani national on a transit visa need to register
 with the police or immigration?
 A: No. Foreigners from Pakistan who are traveling on a transit visa
 are exempt from registration and do not need to report to the police.
----CHUNK---
-[TRANSIT REGULATIONS FOR PAKISTANI NATIONALS]
 Q: Can a Pakistani national enter via the Wagah/Attari land
 border on a transit visa to catch a flight from Amritsar or
 Delhi?
 A: No. A foreigner cannot enter through the Wagah/Attari land border
 on a transit visa for the purpose of boarding an international flight
 from Amritsar or Delhi.
----CHUNK---
-[TRANSIT REGULATIONS FOR PAKISTANI NATIONALS]
 Q: Is it permissible to enter via the land border and drive
 immediately to an airport for a flight to a third country?
 A: No. Entry through a land border for immediate travel to an airport
 to board a flight to a third country is not permitted under a transit
 visa.
----CHUNK---
-[TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN]
+TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN
 Q: What is the primary travel document required for a person
 of Tibetan origin in India to travel abroad?
 A: A person of Tibetan origin must travel strictly on the strength of a
 Certificate of Identity (COI) issued by the Ministry of External Affairs,
 Government of India.
----CHUNK---
-[TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN]
 Q: Can a person of Tibetan origin travel using a different type
 of travel document?
 A: No. If a person of Tibetan origin travels from India using any travel
 document other than the official Certificate of Identity, they will
 become ineligible for long-term status in India upon their return.
----CHUNK---
-[TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN]
 Q: What documents must a person of Tibetan origin possess
 before departing India?
 A: To travel abroad, the following documents are mandatory:
@@ -2181,34 +1775,24 @@ country.
 • A One-year multiple entry Return Visa issued by the
 jurisdictional FRRO.
 • An Exit Permit (required if the stay abroad will exceed 15 days).
----CHUNK---
-[TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN]
 Q: Is a "Return Visa" mandatory for returning to India?
 A: Yes. A foreigner of Tibetan origin must obtain a Return Visa from
 their jurisdictional FRRO to be eligible to re-enter India after their trip.
----CHUNK---
-[TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN]
 Q: When is an Exit Permit required for a person of Tibetan
 origin?
 A: An Exit Permit is required only if the foreigner intends to stay
 abroad for more than 15 days. This permit is issued by the
 jurisdictional FRRO.
----CHUNK---
-[TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN]
 Q: How does a person of Tibetan origin obtain an Exit Permit?
 A: The Exit Permit is issued by the jurisdictional FRRO, but it is
 granted based on the recommendation of the Central Tibetan
 Administration (CTA).
 FRRO Locations and Jurisdictions
----CHUNK---
-[TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN]
 Q: What is the role of the FRRO in India?
 A: The Foreigners Regional Registration Office (FRRO) operates under
 the Bureau of Immigration (Ministry of Home Affairs). It manages
 immigration functions and handles all registration and visa-related
 services for foreign nationals within its specific jurisdiction.
----CHUNK---
-[TRAVEL REGULATIONS FOR PERSONS OF TIBETAN ORIGIN]
 Q: How many FRRO offices are there in India?
 A: There are currently fifteen FRRO offices located across the country,
 each responsible for different States and Union Territories.
@@ -2243,16 +1827,13 @@ Delhi).
 Madhya Pradesh.
 15. FRRO Trivandrum: The southern districts of Kerala,
 specifically Kollam, Pathanamthitta, and Thiruvananthapuram.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
+FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)
 1: What is the general rule for foreigners regarding
 registration in India?
 A: Foreign nationals must register with the Foreigner’s Regional
 Registration Office (FRRO) or the Foreigner’s Registration Office (FRO)
 based on their visa category, stay duration, and specific
 endorsements on their visa.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: Who are required to register within 14 days of arrival?
 A: Foreigners entering India on the following visa types must register
 within 14 days if their visa is valid for more than 180 days:
@@ -2260,55 +1841,39 @@ within 14 days if their visa is valid for more than 180 days:
 • Employment Visa
 • Medical Visa
 • Missionary Visa
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: When does a Business Visa holder need to register?
 A: A Business Visa holder is required to register if:
 • Their continuous stay in India exceeds 180 days.
 • Their aggregate (total) stay within a single calendar year
 (January to December) exceeds 180 days.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: Are there registration requirements for other visa types?
 A: Yes. Foreigners on any visa type (excluding those on Official or
 Diplomatic passports) must register if their continuous stay on a
 single entry or their aggregate stay in a calendar year exceeds 180
 days.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: What are the specific registration rules for Pakistani
 nationals?
 A: Pakistani nationals face stricter timelines and must register with
 the local FRO within 24 hours of their arrival in India.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: Which categories of people are exempt from registration?
 A: The following groups do not need to register with the FRRO/FRO:
 • Children: Anyone below 12 years of age.
 • OCI Cardholders: Overseas Citizens of India are fully exempt.
 • Neighbouring Citizens: Citizens of Nepal and Bhutan do not
 require a visa or registration.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: What happens if a foreigner fails to register?
 A: Non-compliance with registration rules is a serious matter and shall
 result in legal consequences, which may include fines, restrictions on
 future travel, or deportation.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: Are there any other rules a foreigner should follow?
 A: Yes. All foreigners must strictly adhere to any specific conditions
 or stipulations endorsed on their visa at all times.
 SPECIAL CATEGORY REGISTRATION (Pakistan, Afghanistan,
 Bangladesh)
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: What are the specific registration rules for Pakistani
 nationals?
 A: Generally, every Pakistani national entering India must register
 with the local authorities within 24 hours of arrival.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: Are there any exceptions to the 24-hour rule for Pakistani
 nationals?
 A: Yes, there are two main exceptions:
@@ -2317,71 +1882,52 @@ visa has an official endorsement stating "Exemption from police
 reporting."
 • Medical Visas: Pakistani nationals arriving on a Medical Visa are
 given a longer window and must register within 7 days of arrival.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: How should an Afghan national apply for a stay visa or
 residential permit?
 A: Afghan nationals who wish to apply for a Stay Visa or Residential
 Permit must do so online via the official portal: indianfrro.gov.in.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: When is registration mandatory for Bangladeshi nationals?
 A: A Bangladeshi national must register with the jurisdictional
 FRRO/FRO and obtain a residential permit within 14 days of arrival if
 they intend to stay in India for a continuous period exceeding six
 months.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: What is a Long Term Visa (LTV), and who is eligible?
 A: Certain categories of nationals from Afghanistan, Bangladesh, and
 Pakistan living in India may be eligible for a Long Term Visa (LTV).
 This provides extended residency benefits for eligible individuals.
----CHUNK---
-[FOREIGNER REGISTRATION REQUIREMENTS (FRRO/FRO)]
 Q: Where can I find the official guidelines for Long Term Visas
 (LTV)?
 A: Detailed instructions regarding the grant and extension of LTV
 facilities can be found in the Ministry of Home Affairs (MHA)
 documentation here: MHA LTV Guidelines.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
+VISA EXTENSION AND CONVERSION
 Q: What should a foreigner do if they cannot leave India before
 their visa expires?
 A: If a foreigner has justifiable reasons for being unable to exit India
 within their visa validity, they must apply for the appropriate visa
 service (such as an extension) online via the official portal:
 indianfrro.gov.in.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: Can a foreigner apply for a visa extension if they are
 currently outside of India?
 A: No. Visa extension and conversion services are strictly available
 only to foreign nationals who are physically present in India at the
 time of application.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: When is the best time for a foreigner to apply for a visa
 service?
 A: The application must be submitted within the validity of the current
 visa. It is highly recommended to apply well in advance to allow
 reasonable time for the FRRO/FRO to process the request.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: What happens if a visa extension or conversion is not
 granted before the current visa expires?
 A: If the permission to extend the stay is not granted within the
 validity of the current visa, the foreigner must depart from India
 immediately.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: What are the consequences if a foreigner remains in India
 after their visa expires without an approved extension?
 A: Failure to depart will be classified as a wilful illegal overstay. In
 such cases, the foreigner will be treated in accordance with Indian
 law, which can include fines, legal action, and restrictions on future
 entry.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: Can a foreigner change their visa type (conversion) while
 in India?
 A: Yes, foreigners can apply for a visa conversion through the same
@@ -2389,8 +1935,6 @@ e-FRRO portal if they meet the specific eligibility criteria for the new
 visa category. However, the same rules apply: the application must
 be justified and submitted while the current visa is still valid.
 EXIT PERMITS, LOST PASSPORTS, AND ADOPTIONS
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: What should a foreigner do immediately after losing their
 passport in India?
 A: If a foreigner loses their travel document, they must take the
@@ -2399,15 +1943,11 @@ following steps promptly:
 2. Inform the jurisdictional FRRO/FRO.
 3. Contact their respective Embassy or Mission in India to apply for
 a new travel document or emergency certificate.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: How does a foreigner get a visa after obtaining a
 replacement passport?
 A: Once the foreigner has the new travel document, they must apply
 for the necessary visa service (such as a visa transfer or extension)
 online via the official portal: indianfrro.gov.in.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: When is an Exit Permit required for international adoptions
 under CARA guidelines?
 A: Exit permits are mandatory for foreign nationals adopting an
@@ -2416,93 +1956,69 @@ Indian child. The requirements depend on the child's nationality:
 obtain exit permits to travel out of India.
 • Child acquires a foreign nationality: Both adoptive parents and
 the adopted child must obtain exit permits to travel out of India.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: Do OCI cardholders need an Exit Permit for adoption cases?
 A: Yes. Even if the adoptive parents are OCI cardholders, they must
 still comply with the exit permit requirements mentioned above for
 the adoption process.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: Can foreign nationals commission surrogacy in India?
 A: No. Foreign nationals are strictly not permitted to commission
 surrogacy in India. The only exception to this rule is for OCI
 cardholders.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: What is the procedure for a foreigner who has overstayed
 their visa?
 A: Any foreigner who has overstayed their visa validity or violated
 any visa conditions is prohibited from departing India without an Exit
 Permit. They must apply for this permit through the jurisdictional
 FRRO and may be subject to legal penalties or fines.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: How a Police Foreign National staying in India, or who has
 previously stayed in India apply for Clearance Certificate?
 A: A Foreign National staying in India, or who has previously stayed
 in India and wishes to apply for a Police Clearance Certificate (PCC)
 can do so by applying on www.indianfrro.gov.in/frro.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: How Foreign nationals who are abroad and seeking an
 Indian Police Clearance Certificate (PCC) apply for it?
 A: Foreign nationals who are abroad and seeking an Indian PCC, may
 approach the Indian Mission/ Post in their respective country for
 obtaining a PCC.
 NEWBORN REGISTRATION: Q&A for Foreigners in India
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: What is the first thing foreign parents should do after their
 child is born in India?
 A: If one or both parents are foreigners, they must notify the
 Jurisdictional Registration Officer (FRRO) about the birth. This
 notification must be sent electronically via email within 30 days of the
 birth.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: Why is it necessary to report the birth to the FRRO?
 A: Reporting the birth is a prerequisite for accessing essential visa
 services for the child. This includes:
 • Granting a new visa for the newborn.
 • Obtaining exit permission when the family is ready to travel
 abroad.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: Does the hospital have a responsibility to report the birth?
 A: Yes. Every hospital, nursing home, or medical institution is legally
 required to furnish information about a child born to foreign parents.
 They must send this information electronically (via email) to the FRRO
 within 7 days of the birth.
----CHUNK---
-[VISA EXTENSION AND CONVERSION]
 Q: Are foreign nationals allowed to commission surrogacy in
 India?
 A: Generally, no. Foreign nationals are strictly prohibited from
 commissioning surrogacy in India.
 Note: The only exception to this rule is for OCI (Overseas Citizen of
 India) cardholders, who are permitted under specific guidelines.
----CHUNK---
-[REPORTING THE DEATH OF A FOREIGN NATIONAL]
+REPORTING THE DEATH OF A FOREIGN NATIONAL
 Q: Is it mandatory to report the death of a foreigner in India?
 A: Yes. It is mandatory to report the death of any foreign national to
 the jurisdictional FRRO (Foreigners Regional Registration Office) or
 FRO.
----CHUNK---
-[REPORTING THE DEATH OF A FOREIGN NATIONAL]
 Q: Do hospitals have a responsibility to report the death?
 A: Yes. Every hospital, nursing home, or medical institution must
 report the death of a foreigner occurring on their premises within
 seven days. This notification must be sent electronically via email to
 the jurisdictional FRRO/FRO.
----CHUNK---
-[TRANSPORTING MORTAL REMAINS ABROAD]
+TRANSPORTING MORTAL REMAINS ABROAD
 Q: What is required to transport a deceased foreigner back to
 their native country?
 A: A relative or authorized representative must apply for a No
 Objection Certificate (NOC) from the jurisdictional FRRO/FRO.
----CHUNK---
-[TRANSPORTING MORTAL REMAINS ABROAD]
 Q: What documents are needed for an NOC for international
 transportation?
 A: You will need to provide:
@@ -2515,13 +2031,9 @@ ticket.
 Embalming Certificate from an authorized institution.
 • Authorization: A request letter from the family to the FRRO and
 a formal letter from the relevant Embassy or Consulate.
----CHUNK---
-[TRANSPORTING MORTAL REMAINS ABROAD]
 Q: Can a foreign national be cremated or buried in India?
 A: Yes, but an NOC for Cremation/Burial must be obtained from the
 jurisdictional FRRO/FRO first.
----CHUNK---
-[TRANSPORTING MORTAL REMAINS ABROAD]
 Q: What documents are required for local cremation or burial?
 A: The requirements include:
 • Official Records: Death Certificate, Police Death Report, and
@@ -2533,16 +2045,12 @@ Crematorium; Indian Address Proof; and a Marriage Certificate
 • Family Requests: A letter from the family to the FRRO, a request
 letter from the relative along with their passport copy, and a
 letter from the Embassy or Consulate.
----CHUNK---
-[TRANSPORTING MORTAL REMAINS ABROAD]
 Q: What should a foreign national do in case of Change of
 Passport?
 A: In case a registered Foreign National renews his/ her passport
 while staying in India, he/ she shall apply for “Change of Passport
 “service within 14 days to the jurisdictional FRRO/ FRO
 at https://indianfrro.gov.in.
----CHUNK---
-[TRANSPORTING MORTAL REMAINS ABROAD]
 Q: What should a foreigner do in case of Change of Address?
 A: In case of change of residential address, a Foreign National who is
 registered with the concerned FRRO/ FRO shall submit an application
@@ -2550,31 +2058,24 @@ for change of address at https://indianfrro.gov.in.
 In case the new address comes under the jurisdiction of different
 FRRO/FRO, he/she shall apply for ‘Transfer RC/RP’ service on the link
 above.
----CHUNK---
-[TRANSPORTING MORTAL REMAINS ABROAD]
 Q: What should a foreign national on student visa do in case
 of change of Academic Course?
 A: In case a foreign national on student visa needs a change in the
 course being undertaken by him/ her, he/ she should obtain a ‘Change
 of Course’ service from the jurisdictional FRRO/ FRO
 on https://indianfrro.gov.in within 14 days of changing the course.
----CHUNK---
-[MEDICAL TREATMENT & VISA RULES]
+MEDICAL TREATMENT & VISA RULES
 Q: Can a foreigner receive medical treatment on a primary visa
 (like a Tourist or Business visa)?
 A: Yes. Any foreigner, including Pakistani nationals, suffering from a
 minor medical condition that only requires OPD (Outpatient
 Department) consultation, can receive treatment at any hospital
 using their existing primary visa.
----CHUNK---
-[MEDICAL TREATMENT & VISA RULES]
 Q: What happens if a Pakistani national requires
 hospitalization?
 A: If a Pakistani national needs to avail of indoor medical treatment
 (admission to a hospital), they are required to convert their primary
 visa into a Medical Visa.
----CHUNK---
-[MEDICAL TREATMENT & VISA RULES]
 Q: When must other foreign nationals (non-Pakistani) convert
 to a Medical Visa?
 A: A foreigner should apply to convert their primary visa to a Medical
@@ -2583,22 +2084,17 @@ Visa in either of the following two scenarios:
 the stay duration allowed by the primary visa.
 2. Organ Transplant: The treatment for the disease specifically
 requires an organ transplant.
----CHUNK---
-[MEDICAL TREATMENT & VISA RULES]
 Q: How does a foreigner apply for this visa conversion?
 A: The application should be submitted through the official e-FRRO
 portal (indianfrro.gov.in). All visa conversions are subject to the
 specific terms and conditions laid down by the Ministry of Home
 Affairs (MHA). It is best to apply as soon as the medical necessity is
 identified to avoid overstaying the original visa.
----CHUNK---
-[ACQUIRING FOREIGN NATIONALITY]
+ACQUIRING FOREIGN NATIONALITY
 Q: Does India allow dual citizenship?
 A: No. India does not recognize the concept of dual nationality. The
 moment an Indian national acquires foreign citizenship, they
 immediately cease to be an Indian national.
----CHUNK---
-[ACQUIRING FOREIGN NATIONALITY]
 Q: Can a former Indian national continue to use their Indian
 passport after getting a foreign one?
 A: There is a strict 3-month grace period starting from the day of
@@ -2606,8 +2102,6 @@ acquisition of the new nationality (e.g., the date on the Naturalization
 Certificate). Once that grace period expires, holding, acquiring, or
 traveling on an Indian passport constitutes an offense under the
 Indian Passport Act, 1967, and attracts severe penalties.
----CHUNK---
-[ACQUIRING FOREIGN NATIONALITY]
 Q: What must a person do if they acquire foreign citizenship
 while they are staying in India?
 A: If an individual acquires foreign nationality while residing in India,
@@ -2618,8 +2112,6 @@ card, and all other relevant Indian nationality documents.
 • Apply for appropriate visa services on the e-FRRO portal
 (https://indianfrro.gov.in) within 30 days of acquiring the
 foreign nationality.
----CHUNK---
-[ACQUIRING FOREIGN NATIONALITY]
 Q: What happens if a person acquires foreign citizenship
 abroad but enters India using their Indian passport?
 A: If an individual enters India on an Indian passport after having
@@ -2631,8 +2123,6 @@ card, and all other related Indian nationality documents.
 (https://indianfrro.gov.in) within 30 days of their arrival in
 India.
 UNHCR Card Holders & Refugee Status in India
----CHUNK---
-[ACQUIRING FOREIGN NATIONALITY]
 Q: Does India follow the 1951 United Nations Convention
 regarding refugees?
 A: No. It is important to note that India is not a signatory to the 1951
@@ -2640,70 +2130,51 @@ United Nations Convention on the Status of Refugees or the 1967
 Protocol. Consequently, refugee status in India is managed through
 internal administrative policies rather than international treaty
 obligations.
----CHUNK---
-[ACQUIRING FOREIGN NATIONALITY]
 Q: Can a foreigner with a UNHCR card apply for a visa or
 residency in India?
 A: Yes. Foreign nationals who hold a UNHCR card (for Refugees or
 Stateless persons) are eligible to apply for appropriate visa services
 to regularize their stay.
----CHUNK---
-[ACQUIRING FOREIGN NATIONALITY]
 Q: Where should a UNHCR card holder apply for these
 services?
 A: Applications must be submitted electronically through the official
 e-FRRO portal at indianfrro.gov.in.
----CHUNK---
-[ACQUIRING FOREIGN NATIONALITY]
 Q: Who decides whether the visa will be granted to a UNHCR
 card holder?
 A: Each application is evaluated on a case-by-case basis by the
 jurisdictional FRRO (Foreigners Regional Registration Office). They
 will assess the documentation provided and determine the eligibility
 for the specific visa service requested.
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
+GENERAL REQUIREMENTS FOR FORM III
 Q: What is Form III and who needs to fill it?
 A: Form III is a mandatory report that every "keeper of
 accommodation" must submit when a foreign national (including OCI
 cardholders) stays at their premises. This includes hotels, homestays,
 hospitals, and even religious institutions.
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
 Q: Does this rule apply to OCI cardholders?
 A: Yes. Even though OCI cardholders have many privileges, they are
 specifically included in the requirement to provide particulars for Form
 III upon arrival and departure.
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
 Q: In what language should the records be maintained in
 accommodation?
 A: Records should ideally be in English if the host is able to
 understand. If not, an Indian language is acceptable. If the guest
 doesn't understand the requirements, it is the host's duty to explain
 the rules to them.
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
 Q: How long must these records be kept in accommodation?
 A: The keeper of the accommodation must maintain electronic
 records of these particulars for at least one year. These must be
 available for inspection at any time by a Registration Officer, District
 Magistrate, or a Police Officer (Head Constable rank or above).
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
 Q: What is the deadline for submitting the arrival report by
 keeper of the accommodation?
 A: The arrival details must be transmitted electronically through the
 official portal or mobile app within 24 hours of the foreigner’s arrival.
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
 Q: Does the keeper of the accommodation need to report when
 the guest leaves?
 A: Yes. Departure details, including the date, time, and the address
 to which the guest is proceeding, must also be submitted within 24
 hours of their departure.
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
 Q: I run a small homestay; do I really need to do form III
 entry?
 A: Yes. The definition of "accommodation" is very broad. It includes:
@@ -2713,8 +2184,6 @@ A: Yes. The definition of "accommodation" is very broad. It includes:
 • Hospitals and nursing homes.
 • Premises of religious or charitable trusts and public
 organizations.
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
 Q: What are the specific duties of a hospital regarding foreign
 patients?
 A: Hospitals and nursing homes must follow the same 24-hour
@@ -2724,8 +2193,6 @@ additional "7-day rule" for life events:
 hospital must report it electronically within 7 days.
 • Deaths: The death of any foreign national must also be reported
 electronically within 7 days.
----CHUNK---
-[GENERAL REQUIREMENTS FOR FORM III]
 Q: Where can I register and find a guide for Form III?
 A: You can register and submit forms at the official e-FRRO
 portal:
@@ -2733,8 +2200,7 @@ portal:
 • Official Guide: You can find the "How to register Form-
 III" PDF directly on the portal for a step-by-step
 walkthrough.
----CHUNK---
-[PENALTIES AND LEGAL CONSEQUENCES]
+PENALTIES AND LEGAL CONSEQUENCES
 Q: What actions constitute a violation under the Immigration
 and Foreigners Act, 2025?
 A: Legal or penal action may be taken against a foreigner for the
@@ -2747,8 +2213,6 @@ specific visa category granted (e.g., working on a tourist visa).
 accommodations).
 • Any other contravention of provisions or orders made under the
 Act.
----CHUNK---
-[PENALTIES AND LEGAL CONSEQUENCES]
 Q: What are the financial and legal penalties for these
 offenses?
 A: Violations of the Act carry significant consequences. Depending on
@@ -2757,8 +2221,6 @@ the nature of the offense, penalties include:
 offense.
 • Imprisonment: Serious violations may result in jail time as
 prescribed under the various sections of the Act.
----CHUNK---
-[PENALTIES AND LEGAL CONSEQUENCES]
 Q: Are Indian citizens or businesses also liable for a
 foreigner’s visa violations?
 A: Yes. The Act holds Indian stakeholders accountable if they are
@@ -2770,32 +2232,25 @@ associated with the foreigner. This includes:
 violating any provisions (such as failing to report a foreigner’s
 stay or medical treatment), they are equally liable for fines and
 legal action.
----CHUNK---
-[PENALTIES AND LEGAL CONSEQUENCES]
 Q: How does a visa violation affect a foreigner's future travel
 to India?
 A: Beyond immediate fines or jail time, violating Indian visa norms is
 highly likely to result in a blacklisting or a negative record. This will
 adversely affect the foreigner's chances of obtaining an Indian visa or
 being granted entry into the country in the future.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
+FRRO CONTACT DIRECTORY
 1. Ahmedabad
 o In-Charge: Smt. Sweta Shrimali, IPS
 o Address: 235, Ground Floor, HUDCO Bhawan, Iswar Bhuvan
 Road, Navrangpura, Ahmedabad, Gujarat
 o Phone: 079-26306606, 079-26306607 (Fax)
 o Email: frroamd@nic.in; afrro-boi.ahd@nic.in (Enquiries)
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 2. Amritsar
 o In-Charge: Sh. Manjeet Singh
 o Address: 208, Near Govind Park, Basant Avenue, Amritsar,
 Punjab
 o Phone: 0183-2560464 (T), 0183-2500465 (Fax)
 o Email: frroasr@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 3. Bangalore
 o In-Charge: Sh. Santosh Babu K, IPS
 o Address: 5th Floor, A Block, TTMC, BMTC Bus Stand Building,
@@ -2804,8 +2259,6 @@ o Phone: 080-22218195, 080-22218183, 080-22218110,
 080-22218196 (Fax)
 o Email: frroblr-ka@nic.in; ad-frroblr@mha.gov.in (OCI/PIO
 Enquiries)
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 4. Calicut
 o In-Charge: Sh. Krishnaraj, IPS
 o Address: 6th floor, Nikarthil Chambers, Opposite Sarvaram
@@ -2813,16 +2266,12 @@ Bio Park, Mini Bypass Road, Arayidathupalam, Kozhikode,
 Kerala - 673004
 o Phone: 0495-2323550, 0495-2320650
 o Email: frro-clt@nic.in; frrocal@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 5. Chandigarh
 o In-Charge: Dr. Deepak Siwach, IPS
 o Address: First Floor, BSNL Telephone Exchange, Sector 37 D,
 Chandigarh - 160036
 o Phone: 0172-2991498, 0172-2993217, 0172-2991495
 o Email: frrochd.support@mha.gov.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 6. Chennai
 o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
 o Address: Shastri Bhawan Annexe, Building No. 26 Haddows
@@ -2830,8 +2279,6 @@ Road, Nungabakkam, Chennai - 600006
 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706
 (OCI queries)
 o Email: chiochn@nic.in; frrochn@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 7. Cochin
 o In-Charge: Sh. Krishnaraj, IPS
 o Address: 2nd Floor, Airlines Offices Building, Cochin
@@ -2839,8 +2286,6 @@ International Airport Ltd., Airport PO, Cochin - 683111
 o Phone: 0484-2611654, 0484-2611652 (Fax/Support)
 o Email: frrococ@nic.in; frrococ-helpdesk@mha.gov.in;
 oci.frrococ@gov.in (OCI Desk)
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 8. Delhi
 o In-Charge: Sh. Deepak Yadav, IPS
 o Address: Level-2, East Block-VIII, Sector-1, R.K Puram, New
@@ -2849,15 +2294,11 @@ o Phone: 011-26711384 (T), 011-26711348 (Fax), 011-
 26711443/011-26713851 (Support), 011-26184824/011-
 26194311 (OCI)
 o Email: frrodli@nic.in; frrodli.support@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 9. Guwahati
 o In-Charge: Sh. Inom Saikia
 o Address: LGBI Airport, Borjhar, Guwahati - 781015
 o Phone: 0361-2841466
 o Email: chioghy-asm@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 10. Hyderabad
 o In-Charge: Sh. Venkata Appala Naidu Chintan, IPS
 o Address: Sardar Vallabhai Patel BoI OCR Complex,
@@ -2865,23 +2306,17 @@ Shamshabad-Pahadishareef Road near GMR Township,
 Mamidipally, Shamshabad, Telangana - 501218
 o Phone: 040-29880374, 040-29880375
 o Email: frrohyd@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 11. Jaipur
 o In-Charge: Sh. Ramesh Yadav, IPS
 o Address: Plot No 01, Jhalana Doongri, Opposite Aranya
 Bhawan, Jaipur - 302004
 o Phone: 0141-2950422, 0141-2950423
 o Email: frro.jaipur@gov.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 12. Kolkata
 o In-Charge: Ms. Nidhi Rani, IPS
 o Address: 237, A.J.C Bose Road, Kolkata
 o Phone: 033-22900549 (T)
 o Email: frrokol@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 13. Lucknow
 o In-Charge: Shri. Harsh Singh, IPS
 o Address: FRRO, 12th Floor Hall, No. 1, Kendriya Bhawan,
@@ -2889,8 +2324,6 @@ Sec-H Aliganj, Lucknow
 o Phone: 0522-2432431 (T), 0522-2432430 (Fax), 0522-
 2987897 (Visa Services)
 o Email: frrolko@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 14. Mumbai
 o In-Charge: Ms. Niyati Thaker Dave, IPS
 o Address: Annex-II Bldg., 3rd Floor, Badruddin Tayyabji Marg,
@@ -2899,8 +2332,6 @@ Behind St. Xavier's College, C.S.T, Mumbai - 400001
 o Phone: 022-22621169 (T), 022-22620721 (Fax), 022-
 22620446 (Visa Services), 022-22621167 (PIO/OCI)
 o Email: frromum@nic.in
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 15. Trivandrum
 o In-Charge: Sh. Aravind Menon, IPS
 o Address: T.C. 30/1398-3, First Floor, Amrith Plaza,
@@ -2914,29 +2345,21 @@ access into the issuing country (India). ETA is NOT eVisa. When the
 bearer of ETA is allowed entry into India by the Immigration Officer,
 it becomes eVisa. eVisa will be stamped on the Passport of the
 foreigner at the designated ICPs on production of valid ETA.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 3. What is the difference between “ETA Expiry date” and “Visa
 Expiry Date”?
 Ans: ETA expiry date is the last date allowing bearer access into
 India. Visa Expiry Date is the last date permitted for the stay of
 foreigner in India subjected to any stay stipulation applicable.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 3. What activities can I undertake on my Visa?
 Ans: You are required to strictly adhere to the purpose of visit
 declared while submitting the visa application. Kindly refer to terms
 and conditions of your Visa.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 4. Do I need to register with FRRO (Foreigners Regional
 Registration Officer) after arriving in India?
 Ans:
 Ans: Click here for more details.
 https://boi.gov.in/boi/contents/registration-authority/registration-
 of-foreign-nationals/registration-requirements
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 5. What is the difference between “Visa validity/Visa expiry
 date” and “Stay stipulation”?
 Ans: Visa validity or Visa expiry date refers to the validity period
@@ -2947,49 +2370,35 @@ foreigner may be permitted to stay in India on the strength of Visa.
 Stay stipulations are of two kinds 1) Continuous stay in India from
 the date of last arrival. 2) Total Aggregate stay in India during the
 calendar year.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 6. What is the maximum stay allowed on Tourist Visa?
 Ans: Maximum stay by a foreigner in India on an e-Tourist Visa or
 paper Tourist Visa or both in one calendar year shall be restricted to
 180 days.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 7. What is a calendar year?
 Ans: Calendar year refers to period from 1st January to 31st
 December of the current year.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 8. What is “total aggregate stay in a calendar year” and
 “continuous stay”?
 Ans: Total Aggregate stay refers to total period of stay of foreigner in
 India including multiple visits during the calendar year.
 Continuous stay refers to period of stay of foreigner in India since his
 last arrival.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 9. What is maximum duration of stay in Transit if I am not
 leaving the airport premises?
 Ans: Foreigner may be permitted to stay in the designated area of
 the Airport for the purpose of travelling via connecting flight from
 India for a period of 24 hours. Transit Visa should be obtained if the
 waiting period is longer.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 10. In case I reach the Arrival Immigration Counter few
 hours after the expiry of my ETA due to flight delays etc., will
 I be allowed entry into India on the ETA?
 Ans: It may be considered on case to case basis by the Immigration
 Authorities.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 11. In case I reach the Departure Immigration Counter few
 hours after the expiry of my Visa, will I be allowed to depart
 from India on that Visa?
 Ans: It may be considered on case to case basis by the Immigration
 Authorities.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 12. Can I undertake Tourism while on visit to India on
 Business/ Conference/ Medical Visa?
 Ans: Foreign nationals who are granted a particular type of visa with
@@ -2998,14 +2407,10 @@ to the purpose of visit declared while submitting the visa application.
 However, a foreign national (other than a Pakistani national) coming
 to India on any type of visa will be allowed to avail activities permitted
 under Tourist Visa.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 13. What is the procedure to obtain Political Clearance Letter
 issued by Ministry of External Affairs, as required for e-
 Conference Visa?
 Ans: Kindly contact Ministry of External Affairs (MEA) for details.
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 14. What is the procedure to be followed if child is born in
 India to parents of foreign nationality?
 Ans: Click here for details child born in India
@@ -3018,22 +2423,10 @@ Helpline Number: 011-24300666
 Working hours: 0930 Hrs. to 1800 Hrs. IST (Indian Time)
 (Monday to Friday, except public holidays)
 Forms
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 1. Annual Salary Certificate format for Visa services
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 2. Monthly Salary Certificate format for Visa services
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 3. Bonafide Certificate format for Visa services
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 4. Medical Certificate format for registration service
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 5. Medical Certificate format for Visa service
----CHUNK---
-[FRRO CONTACT DIRECTORY]
 6. Mutual Consent format for Visa Service/ Exit Permit of
 minors

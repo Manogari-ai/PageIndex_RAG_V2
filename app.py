@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import os
 
-from ingest import process_pdfs
+from ingest import process_single_pdf
 from rag import ask
 
 app = Flask(__name__)
@@ -38,7 +38,7 @@ def upload_pdf():
 
         print("📄 File saved:", file.filename)
 
-        process_pdfs()
+        process_single_pdf(file_path)
 
         return "✅ PDF uploaded and indexed!"
 
@@ -101,4 +101,4 @@ def ask_api():
 # Run App
 # =========================
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8001, debug=True)
+    app.run(host="0.0.0.0", port=8005, debug=True)
