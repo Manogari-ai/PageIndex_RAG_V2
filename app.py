@@ -2,7 +2,8 @@ from flask import Flask, render_template, request, jsonify
 import os
 
 from ingest import process_single_pdf
-from rag import ask
+import rag  # import the module, not just functions
+           # so reload_db() updates the SAME globals ask() reads
 
 app = Flask(__name__)
 
@@ -38,7 +39,13 @@ def upload_pdf():
 
         print("📄 File saved:", file.filename)
 
+        # Ingest the new PDF → writes new index.faiss + chunks.txt to disk
         process_single_pdf(file_path)
+
+        # Hot-reload: update index + chunks in THIS process's memory
+        rag.reload_db()
+
+        print(f"[APP] Reload done — {len(rag.chunks)} chunks now in memory")
 
         return "✅ PDF uploaded and indexed!"
 
@@ -73,7 +80,7 @@ def chat_api():
 
         print("🧑 Query:", query)
 
-        answer = ask(query)
+        answer = rag.ask(query)
 
         print("🤖 Answer:", answer)
 
@@ -84,21 +91,22 @@ def chat_api():
         return jsonify({"answer": "Server error"}), 500
 
 
-
-
-
 @app.route("/ask", methods=["POST"])
 def ask_api():
     data = request.get_json()
     query = data.get("query")
+    answer = rag.ask(query)
+    return jsonify({"answer": answer})
 
-    answer = ask(query)
 
-    return jsonify({
-        "answer": answer
-    })
 # =========================
 # Run App
 # =========================
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8005, debug=True)
+    # use_reloader=False prevents Werkzeug from spawning a child process.
+    # With use_reloader=True (default in debug mode), Flask runs TWO processes:
+    # the reloader parent and a worker child. reload_db() would update globals
+    # in the child, but the parent's copy stays stale — causing exactly the
+    # symptom you saw. Disabling the reloader means one process, one memory
+    # space, and reload_db() always takes effect immediately.
+    app.run(host="0.0.0.0", port=8005, debug=True, use_reloader=False)

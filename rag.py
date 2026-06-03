@@ -239,6 +239,16 @@ def find_exact_entry(query):
     best_chunk = None
 
     for chunk in chunks:
+        # Skip Q&A chunks — they are handled by direct_qa_search, not here.
+        # A chunk is a Q/A pair when its body starts with Q:
+        # or contains a numbered question like "1.What is...?\nAns:"
+        body_start = re.search(r'^\[.+?\]\s*', chunk)
+        body_text  = chunk[body_start.end():] if body_start else chunk
+        if re.search(r'^\s*(?:\d+[\.:]\s*)?Q\s*:', body_text, re.IGNORECASE | re.MULTILINE):
+            continue
+        if re.search(r'^\s*\d+[\.:]\s*\S.*?\n\s*(?:Ans|A)\s*:', body_text, re.IGNORECASE | re.DOTALL):
+            continue
+
         header, title, _ = parse_chunk_parts(chunk)
         if not title:
             continue
@@ -276,6 +286,12 @@ def format_entry(chunk, field=None):
         if value:
             label = field.capitalize()
             return f"{label}: {value}"
+
+    # If this is a Q/A chunk, return ONLY the answer text (strip the question line)
+    a_match = re.search(r'(?:A|Ans)\s*:\s*(.+)', clean, re.DOTALL | re.IGNORECASE)
+    q_match = re.search(r'Q\s*:', clean, re.IGNORECASE)
+    if q_match and a_match:
+        return re.sub(r'\s+', ' ', a_match.group(1)).strip()
 
     # Restore bullet points to separate lines for readability
     # Handles both • (POE) and o (FRRO) bullet styles

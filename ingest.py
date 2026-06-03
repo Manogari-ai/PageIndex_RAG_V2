@@ -47,17 +47,50 @@ def extract_full_text(pdf_path):
 
 SECTION_HEADER_RE = re.compile(r'^[A-Z][A-Z\s:&/()\-]{8,}$', re.MULTILINE)
 
+# Matches inline FAQ title lines like:
+#   "FAQ (Frequently Asked Questions)"  or  "FAQ"  on its own line
+FAQ_INLINE_RE = re.compile(
+    r'(?:^|\n)(FAQ\s*(?:\([^)]*\))?)\s*\n',
+    re.IGNORECASE
+)
+
 def split_into_sections(text):
+    """
+    1. Find all ALL-CAPS section headers.
+    2. Also detect inline FAQ markers (e.g. "FAQ (Frequently Asked Questions)")
+       that pdfplumber merges into a section body instead of emitting as a header.
+    3. For any section whose body contains an inline FAQ marker, split it there:
+       - The part before the FAQ marker keeps the original header.
+       - The FAQ part gets header "FAQ".
+    4. Within each FAQ body, further split on numbered sub-topics if present
+       (e.g. "1.What is an ETA?" starts a new FAQ topic group).
+    """
     positions = [(m.start(), m.group().strip()) for m in SECTION_HEADER_RE.finditer(text)]
     if not positions:
         return [("CONTENT", text)]
-    sections = []
+
+    raw_sections = []
     for i, (pos, header) in enumerate(positions):
         body_start = pos + len(header)
         body_end = positions[i + 1][0] if i + 1 < len(positions) else len(text)
         body = text[body_start:body_end].strip()
         if body:
+            raw_sections.append((header, body))
+
+    # ── Pass 2: split any section body that embeds an FAQ sub-header ──
+    sections = []
+    for header, body in raw_sections:
+        faq_m = FAQ_INLINE_RE.search(body)
+        if faq_m:
+            before = body[:faq_m.start()].strip()
+            faq_body = body[faq_m.end():].strip()
+            if before:
+                sections.append((header, before))
+            if faq_body:
+                sections.append(("FAQ", faq_body))
+        else:
             sections.append((header, body))
+
     return sections
 
 # ==========================================
@@ -106,11 +139,36 @@ def chunk_qa(header, body):
     return chunks
 
 def chunk_numbered_qa(header, body):
-    parts = re.split(r"(?=\n\d+[\.:]\s)", "\n" + body)
+    """
+    Split numbered Q&A into ONE chunk per Q/A pair.
+    Handles two formats:
+      a) "1. Question?\nAns: answer"   (space after number)
+      b) "1.Question?\nAns: answer"    (no space — common in pdfplumber output)
+    Each output chunk: [HEADER]\nQ: question\nA: answer
+    """
+    # Normalise Ans: onto its own line
+    body = re.sub(r'\s+(?=Ans\s*:)', '\n', body)
+    body = re.sub(r'\s+(?=A\s*:)', '\n', body)
+
+    # Split at each numbered item — handles both "1. " and "1."
+    parts = re.split(r"(?=\n\d+[\.:]\ *\S)", "\n" + body)
     chunks = []
     for part in parts:
         part = part.strip()
-        if len(part) >= 40:
+        if len(part) < 20:
+            continue
+        # Extract question: strip leading number
+        q_m = re.match(r'^\d+[\.:]\ *(.*?)(?=\n(?:Ans|A)\s*:|\Z)', part, re.DOTALL | re.IGNORECASE)
+        a_m = re.search(r'(?:Ans|A)\s*:\s*(.+)', part, re.DOTALL | re.IGNORECASE)
+        if q_m and a_m:
+            q_text = re.sub(r'\s+', ' ', q_m.group(1)).strip()
+            if not q_text.endswith('?'):
+                q_text += '?'
+            a_text = re.sub(r'\s+', ' ', a_m.group(1)).strip()
+            if len(q_text) >= 5 and len(a_text) >= 5:
+                chunks.append(f"[{header}]\nQ: {q_text}\nA: {a_text}")
+        elif len(part) >= 40:
+            # No clean Q/A split but still meaningful — keep as-is
             chunks.append(f"[{header}]\n{part}")
     return chunks
 
@@ -186,10 +244,24 @@ def chunk_section(header, body):
     bullet_cnt = len(re.findall(r"^[•]\s", body, re.MULTILINE))
     o_bullet   = len(re.findall(r"^o\s+", body, re.MULTILINE))
 
+    # ── Numbered FAQ format: "1.What is X?\nAns: answer" ──
+    # Detected when numbered items are questions (end with ?) followed by Ans:
+    # This must be checked BEFORE the generic num_entry path.
+    numbered_faq = (
+        ans_count >= 2
+        and num_entry >= 2
+        and len(re.findall(r'^\d+[\.:]\s*\w', body, re.MULTILINE)) >= 2
+    )
+    if numbered_faq and qa_count == 0:
+        return chunk_numbered_qa(header, body)
+
     # ── Mixed body: directory entries + Q&A in the same section ──
     # Split at the first Q: or "N. Q:" line so both parts are chunked correctly.
     if (qa_count >= 2 or ans_count >= 2) and (num_entry >= 3 or bullet_cnt >= 3):
         qa_split = re.search(r'\n(?=\s*(?:\d+[\.:]\s*)?Q\s*:)', body, re.IGNORECASE)
+        if not qa_split:
+            # Also split at first numbered question (e.g. "1.What is")
+            qa_split = re.search(r'\n(?=\s*\d+[\.:]\s*(?:What|How|Is|Are|Can|Does|Who|Why|When|Where)\b)', body, re.IGNORECASE)
         if qa_split:
             dir_body = body[:qa_split.start()].strip()
             qa_body  = body[qa_split.start():].strip()

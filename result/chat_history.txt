@@ -10104,3 +10104,399 @@ Time Duration: 19.80ms
 Saved Time:
 2026-06-03 10:46:47
 
+
+==================================================
+
+Chatbot
+
+🧑 You: eta ?
+
+🤖 AI:
+What is the difference between “ETA Expiry date” and “Visa
+Expiry Date”?
+Ans: ETA expiry date is the last date allowing bearer access into
+India. Visa Expiry Date is the last date permitted for the stay of
+foreigner in India subjected to any stay stipulation applicable.
+
+Time Duration: 24.50ms
+
+Saved Time:
+2026-06-03 11:37:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+What is the difference between “ETA Expiry date” and “Visa
+Expiry Date”?
+Ans: ETA expiry date is the last date allowing bearer access into
+India. Visa Expiry Date is the last date permitted for the stay of
+foreigner in India subjected to any stay stipulation applicable.
+
+Time Duration: 25.42ms
+
+Saved Time:
+2026-06-03 11:45:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: difference between “ETA Expiry date” and “Visa  Expiry Date”
+
+🤖 AI:
+"Foreigner of Indian Origin" is a general description of your heritage. An OCI (Overseas Citizen of India) is a specific, lifelong status you apply for that grants you a "lifelong visa" and many of the same rights as Indian citizens (excluding voting and buying agricultural land). Most FIOs prefer to get an OCI card because it eliminates the need to apply for a visa every time they visit.
+
+Time Duration: 19.17ms
+
+Saved Time:
+2026-06-03 11:47:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How does a visa violation affect a foreigner's future travel  to India
+
+🤖 AI:
+Beyond immediate fines or jail time, violating Indian visa norms is highly likely to result in a blacklisting or a negative record. This will adversely affect the foreigner's chances of obtaining an Indian visa or being granted entry into the country in the future.
+
+Time Duration: 20.92ms
+
+Saved Time:
+2026-06-03 11:47:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 25.01ms
+
+Saved Time:
+2026-06-03 11:48:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+What is the difference between “ETA Expiry date” and “Visa
+Expiry Date”?
+Ans: ETA expiry date is the last date allowing bearer access into
+India. Visa Expiry Date is the last date permitted for the stay of
+foreigner in India subjected to any stay stipulation applicable.
+
+Time Duration: 23.99ms
+
+Saved Time:
+2026-06-03 11:50:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact Trivandrum
+
+🤖 AI:
+Trivandrum
+o In-Charge: Sh. Aravind Menon, IPS
+o Address: T.C. 30/1398-3, First Floor, Amrith Plaza,
+Nalumukku, P.O. Pettah, Thiruvananthapuram - 695022
+o Phone: 0471-2573512 (T), 0471-2573514 (Fax)
+o Email: frrotvm@nic.in
+FAQ (Frequently Asked Questions)
+1.What is an ETA?
+Ans: ETA is an Electronic Travel Authorization. It allows the bearer
+access into the issuing country (India). ETA is NOT eVisa. When the
+bearer of ETA is allowed entry into India by the Immigration Officer,
+it becomes eVisa. eVisa will be stamped on the Passport of the
+foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 24.54ms
+
+Saved Time:
+2026-06-03 11:53:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 20.12ms
+
+Saved Time:
+2026-06-03 11:55:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact Trivandrum
+
+🤖 AI:
+Trivandrum
+o In-Charge: Sh. Aravind Menon, IPS
+o Address: T.C. 30/1398-3, First Floor, Amrith Plaza, Nalumukku, P.O. Pettah, Thiruvananthapuram - 695022
+o Phone: 0471-2573512 (T), 0471-2573514 (Fax)
+o Email: frrotvm@nic.in
+
+Time Duration: 25.36ms
+
+Saved Time:
+2026-06-03 11:55:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: The Commissioner of Immigration of the Bureau of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 21.25ms
+
+Saved Time:
+2026-06-03 11:56:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: The Commissioner of Immigration of the Bureau of Immigration
+
+🤖 AI:
+Under the 2025 regulations of the Bureau of Immigration, all foreign nationals applying for an Indian visa or OCI registration are required to provide biometric information before approval is granted.
+
+Time Duration: 6.63ms
+
+Saved Time:
+2026-06-03 11:56:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact Trivandrum
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 34.36ms
+
+Saved Time:
+2026-06-03 11:59:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact Trivandrum
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 7.16ms
+
+Saved Time:
+2026-06-03 11:59:54
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact Trivandrum
+
+🤖 AI:
+Trivandrum
+o In-Charge: Sh. Aravind Menon, IPS
+o Address: T.C. 30/1398-3, First Floor, Amrith Plaza, Nalumukku, P.O. Pettah, Thiruvananthapuram - 695022
+o Phone: 0471-2573512 (T), 0471-2573514 (Fax)
+o Email: frrotvm@nic.in
+
+Time Duration: 25.30ms
+
+Saved Time:
+2026-06-03 12:00:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact Trivandrum in-charge
+
+🤖 AI:
+Incharge: Sh. Aravind Menon, IPS
+
+Time Duration: 21.76ms
+
+Saved Time:
+2026-06-03 12:00:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the BMC tab in EPBR
+
+🤖 AI:
+The BoI was established in 1971.
+
+Time Duration: 20004.35ms
+
+Saved Time:
+2026-06-03 12:08:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Domain Knowledge Holder tab in EPBR
+
+🤖 AI:
+Does an OCI cardholder lose their original citizenship? No. Registering as an OCI cardholder does not affect your current foreign citizenship.
+
+Time Duration: 25.64ms
+
+Saved Time:
+2026-06-03 12:08:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the BMC tab in EPBR
+
+🤖 AI:
+The BMC tab captures the profile details of the Biodiversity Management Committee including: BMC name (in English and local language), constituted date, start date, validity period, email, bank account number, bank name, branch, and BMC member details such as name, designation, communication address, and contact information.
+
+Time Duration: 4.45ms
+
+Saved Time:
+2026-06-03 12:09:07
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Domain Knowledge Holder tab in EPBR
+
+🤖 AI:
+The Domain Knowledge Holder tab documents traditional knowledge experts in the panchayat. It captures: name, age, occupation, gender, communication address, area of specialization, domain type (Hakim, Vaidyan, or other), location from which the person accesses biological material, and remarks. This includes traditional healers, Hakims, and Vaidyans.
+
+Time Duration: 7.05ms
+
+Saved Time:
+2026-06-03 12:09:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Species tab in EPBR
+
+🤖 AI:
+The Species tab captures detailed information about flora and fauna found in the panchayat. Fields include: biodiversity type (flora or fauna), species category, habitat, agronomic group, growth habit, scientific name, wild local name, local name (in English and local language), variety, landscape/habitat, crop area, crop status (present and past), cropping season, special features, use/other details, associated traditional knowledge, source of seeds, community knowledge holder, tribal/non-tribal classification, user group, and whether the species is economically important. Images can also be uploaded.
+
+Time Duration: 6.99ms
+
+Saved Time:
+2026-06-03 12:13:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Kerala State Biodiversity Board can be contacted at: Address — Jai Nagar, Krishna Villa, Kuravankonam, Thiruvananthapuram, Kerala 695001. Email: ksbiodiversity@gmail.com. The BIOMIS portal was developed and is maintained by NIC (National Informatics Centre), Kerala State Unit, Ministry of Communications and Information Technology, Government of India.
+
+Time Duration: 20969.80ms
+
+Saved Time:
+2026-06-03 12:13:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 25.09ms
+
+Saved Time:
+2026-06-03 12:15:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 20.25ms
+
+Saved Time:
+2026-06-03 12:15:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: The BoI was established in
+
+🤖 AI:
+The BoI was established in 1971.
+
+Time Duration: 20.35ms
+
+Saved Time:
+2026-06-03 12:15:38
+
